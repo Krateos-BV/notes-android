@@ -6,6 +6,7 @@
   ~ SPDX-FileCopyrightText: 2015-2022 Stefan Niedermann <info@niedermann.it>
   ~ SPDX-FileCopyrightText: 2020 Thore Goebel <goebel.thore@gmail.com>
   ~ SPDX-FileCopyrightText: 2017 Daniel Bailey <dan0xii@users.noreply.github.com>
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: GPL-3.0-or-later
 -->
 <resources>
@@ -19,7 +20,7 @@
     <color name="fg_inverse">#FFFFFF</color>
     <color name="highlight_textColor_Warning">#e53935</color>
 
-    <color name="defaultBrand">#0082C9</color>
+    <color name="defaultBrand">#002266</color>
     <color name="secondary_text_color">#666666</color>
 
     <color name="cursorHandles">#555566</color>
