@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2026 XeniaCloud
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-# XeniaCloud CI — unsigned build verification for the xenia-rebrand fork.
+# XeniaCloud CI — unsigned build verification for the XeniaCloud fork.
 # XNT-51. Build-only (no Gradle-wrapper validation, no lint, no unit tests) —
 # deliberately narrower than upstream's android.yml, which also runs those.
 
@@ -9,7 +9,7 @@ name: Xenia CI (unsigned build)
 
 on:
   push:
-    branches: [ xenia-rebrand ]
+    branches: [ main ]
   workflow_dispatch:
 
 concurrency:
