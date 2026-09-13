@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Yeni herkese açık paylaşım bağlantısı ekle</string>
     <string name="added_content">\"%1$s\" eklendi</string>
     <string name="allow_resharing">Yeniden paylaşılabilsin</string>
-    <string name="app_name">Notlar</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">Çevrim dışı görün</string>
     <string name="appearance_and_behavior">Görünüm ve davranış</string>
     <string name="append_to_note">Nota ekle</string>

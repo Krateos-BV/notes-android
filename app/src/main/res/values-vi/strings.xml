@@ -48,8 +48,6 @@
     <string name="add_new_public_share">Thêm liên kết chia sẻ công khai mới</string>
     <string name="added_content">Đã thêm \"%1$s\"</string>
     <string name="allow_resharing">Cho phép chia sẻ lại</string>
-    <string name="app_name">Ghi chú</string>
-    <string name="app_name_long">Nextcloud Ghi chú</string>
     <string name="appear_offline">Đang offline</string>
     <string name="appearance_and_behavior">Ngoại hình và hành vi</string>
     <string name="append_to_note">Thêm vào ghi chú</string>

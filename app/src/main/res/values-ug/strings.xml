@@ -50,8 +50,6 @@
     <string name="add_new_public_share">يېڭى ئاممىۋى ئورتاقلىشىش ئۇلانمىسىنى قوشۇڭ</string>
     <string name="added_content">\"%1$s\" قوشۇلدى</string>
     <string name="allow_resharing">قايتا تولۇقلاشقا يول قويۇڭ</string>
-    <string name="app_name">ئىزاھات</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">تورسىز كۆرۈنۈش</string>
     <string name="appearance_and_behavior">كۆرۈنۈش ۋە ھەرىكەت</string>
     <string name="append_to_note">دىققەت قىلىڭ</string>

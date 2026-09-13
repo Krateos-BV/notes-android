@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Додати нове публічне посилання</string>
     <string name="added_content">Додано \"%1$s\"</string>
     <string name="allow_resharing">Дозволити повторно передавати у спільний доступ</string>
-    <string name="app_name">Нотатки</string>
-    <string name="app_name_long">Нотатки для Nextcloud</string>
     <string name="appear_offline">Перебуваю поза мережею</string>
     <string name="appearance_and_behavior">Вигляд і поведінка</string>
     <string name="append_to_note">Доповнити нотатку</string>

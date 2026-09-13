@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Cuir nasc comhroinnte poiblí nua leis</string>
     <string name="added_content">Cuireadh \"%1$s\" leis</string>
     <string name="allow_resharing">Ceadaigh athroinnt</string>
-    <string name="app_name">Nótaí</string>
-    <string name="app_name_long">Nótaí Nextcloud</string>
     <string name="appear_offline">Le feiceáil as líne</string>
     <string name="appearance_and_behavior">Cuma agus iompar</string>
     <string name="append_to_note">Cuir leis an nóta</string>

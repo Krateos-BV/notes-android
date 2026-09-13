@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Pridajte nový odkaz na verejné zdieľanie</string>
     <string name="added_content">Pridané \"%1$s\"</string>
     <string name="allow_resharing">Povoliť zdieľanie ďalej</string>
-    <string name="app_name">Poznámky</string>
-    <string name="app_name_long">Nextcloud poznámky</string>
     <string name="appear_offline">Zdá sa byť offline</string>
     <string name="appearance_and_behavior">Vzhľad a správanie</string>
     <string name="append_to_note">Pripojiť k poznámke</string>

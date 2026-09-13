@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Tilføj nyt offentligt link til deling</string>
     <string name="added_content">Tilføjet \"%1$s\"</string>
     <string name="allow_resharing">Tillad videredeling</string>
-    <string name="app_name">Noter</string>
-    <string name="app_name_long">Nextcloud noter</string>
     <string name="appear_offline">Er offline</string>
     <string name="appearance_and_behavior">Udseende og adfærd</string>
     <string name="append_to_note">Tilføj til note</string>

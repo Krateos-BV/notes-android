@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Voeg een nieuwe openbare deellink toe</string>
     <string name="added_content">\"%1$s\" toegevoegd</string>
     <string name="allow_resharing">Opnieuw delen toestaan</string>
-    <string name="app_name">Notities</string>
-    <string name="app_name_long">Nextcloud Notities</string>
     <string name="appear_offline">Toon afwezig</string>
     <string name="appearance_and_behavior">Uiterlijk en gedrag</string>
     <string name="append_to_note">Achteraan aan notitie toevoegen</string>

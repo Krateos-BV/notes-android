@@ -48,8 +48,6 @@
     <string name="add_new_public_share">Adaugă un link public partajat nou</string>
     <string name="added_content">Adăugat \"%1$s\"</string>
     <string name="allow_resharing">Permite repartajarea</string>
-    <string name="app_name">Notițe</string>
-    <string name="app_name_long">Notițe Nextcloud </string>
     <string name="appearance_and_behavior">Aspect şi comportament</string>
     <string name="append_to_note">Atașează  la notiță </string>
     <string name="away">Departe</string>

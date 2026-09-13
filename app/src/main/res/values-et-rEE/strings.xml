@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Lisa uus avalik jagamislink</string>
     <string name="added_content">Lisasin „%1$s“</string>
     <string name="allow_resharing">Luba edasijagamine</string>
-    <string name="app_name">Märkmed</string>
-    <string name="app_name_long">Nextcloudi märkmed</string>
     <string name="appear_offline">Sellega paistad olema võrgust väljas</string>
     <string name="appearance_and_behavior">Välimus ja käitumine</string>
     <string name="append_to_note">Lisa märkmele</string>

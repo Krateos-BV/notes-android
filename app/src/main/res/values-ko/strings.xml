@@ -47,8 +47,6 @@
     <string name="add_new_public_share">새 공개된 공유 링크</string>
     <string name="added_content">%1$s을(를) 추가함</string>
     <string name="allow_resharing">다시 공유 허용</string>
-    <string name="app_name">메모</string>
-    <string name="app_name_long">Nextcloud 메모</string>
     <string name="appear_offline">접속 안함으로 표시</string>
     <string name="appearance_and_behavior">외형과 행동</string>
     <string name="append_to_note">메모에 추가</string>

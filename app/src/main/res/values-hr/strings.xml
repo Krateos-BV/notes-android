@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Dodaj novu poveznicu za javno dijeljenje</string>
     <string name="added_content">Dodano „%1$s”</string>
     <string name="allow_resharing">Dopustite ponovno dijeljenje zajedničkih resursa</string>
-    <string name="app_name">Bilješke</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">Prikaži se kao izvan mreže</string>
     <string name="appearance_and_behavior">Izgled and ponašanje</string>
     <string name="append_to_note">Dodaj bilješci</string>

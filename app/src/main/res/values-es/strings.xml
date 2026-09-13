@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Añadir un nuevo enlace público al recurso compartido</string>
     <string name="added_content">Se ha añadido «%1$s»</string>
     <string name="allow_resharing">Permitir volver a compartir</string>
-    <string name="app_name">Notas</string>
-    <string name="app_name_long">Nextcloud Notas</string>
     <string name="appear_offline">Aparecer como desconectado</string>
     <string name="appearance_and_behavior">Apariencia y comportamiento</string>
     <string name="append_to_note">Añadir a la nota</string>

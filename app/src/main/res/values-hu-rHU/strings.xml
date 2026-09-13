@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Új nyilvános megosztási hivatkozás hozzáadása</string>
     <string name="added_content">„%1$s” hozzáadva</string>
     <string name="allow_resharing">Továbbosztás engedélyezése</string>
-    <string name="app_name">Jegyzetek</string>
-    <string name="app_name_long">Nextcloud jegyzetek</string>
     <string name="appear_offline">Megjelenés nem kapcsolódottként</string>
     <string name="appearance_and_behavior">Megjelenés és viselkedés</string>
     <string name="append_to_note">Hozzáfűzés a jegyzethez</string>

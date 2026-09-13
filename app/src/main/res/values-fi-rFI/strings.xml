@@ -48,8 +48,6 @@
     <string name="add_new_public_share">Lisää uusi julkinen jakolinkki</string>
     <string name="added_content">Lisätty \"%1$s\"</string>
     <string name="allow_resharing">Salli jakaminen uudelleen</string>
-    <string name="app_name">Muistiinpanot</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">Näytä olevan poissa</string>
     <string name="appearance_and_behavior">Ulkoasu ja toiminta</string>
     <string name="append_to_note">Lisää muistiinpanoon</string>

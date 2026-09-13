@@ -51,8 +51,6 @@
     <string name="add_new_public_share">افزودن پیوند هم‌رسانی عمومی جدید</string>
     <string name="added_content">اضافه ‌شده %1$s</string>
     <string name="allow_resharing">اجازهٔ بازهم‌رساندن</string>
-    <string name="app_name">یادداشت‌ها</string>
-    <string name="app_name_long">یادداشت‌های نکست‌کلود</string>
     <string name="appear_offline">نمایش آفلاین</string>
     <string name="appearance_and_behavior">ظاهر و رفتار</string>
     <string name="append_to_note">به یادداشت اضافه کنید</string>

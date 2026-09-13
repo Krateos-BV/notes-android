@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Dodaj nowy link publiczny do udostępnienia</string>
     <string name="added_content">Dodano \"%1$s\"</string>
     <string name="allow_resharing">Zezwalaj na dalsze udostępnianie</string>
-    <string name="app_name">Notatki</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">Wyglądaj jako offline</string>
     <string name="appearance_and_behavior">Wygląd i zachowanie</string>
     <string name="append_to_note">Dołącz do notatki</string>
