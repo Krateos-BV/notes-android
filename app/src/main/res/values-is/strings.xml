@@ -48,8 +48,6 @@
     <string name="add_new_public_share">Bæta við nýjum opinberum tengli</string>
     <string name="added_content">Bætti við \"%1$s\"</string>
     <string name="allow_resharing">Leyfa endurdeilingu</string>
-    <string name="app_name">Minnispunktar</string>
-    <string name="app_name_long">Nextcloud-minnispunktar</string>
     <string name="appear_offline">Birtast ótengt</string>
     <string name="appearance_and_behavior">Útlit og hegðun</string>
     <string name="append_to_note">Bæta neðan á minnispunkt</string>

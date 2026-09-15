@@ -51,8 +51,6 @@
     <string name="add_new_public_share">添加一個新的公共連結</string>
     <string name="added_content">已加入「%1$s」</string>
     <string name="allow_resharing">允許轉分享</string>
-    <string name="app_name">筆記</string>
-    <string name="app_name_long">Nextcloud 筆記</string>
     <string name="appear_offline">顯示為離線</string>
     <string name="appearance_and_behavior">外觀與行為</string>
     <string name="append_to_note">附加到筆記</string>

@@ -49,8 +49,6 @@
     <string name="add_new_public_share">添加新的公共共享链接</string>
     <string name="added_content">添加%1$s</string>
     <string name="allow_resharing">允许再次共享</string>
-    <string name="app_name">笔记</string>
-    <string name="app_name_long">Nextcloud 笔记</string>
     <string name="appear_offline">显示为离线</string>
     <string name="appearance_and_behavior">外观和行为</string>
     <string name="append_to_note">追加笔记</string>

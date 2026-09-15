@@ -42,8 +42,6 @@
     <string name="add_category">Añadir %1$s</string>
     <string name="add_new_public_share">Añadir un nuevo enlace publico</string>
     <string name="allow_resharing">Permitir volver a compartir</string>
-    <string name="app_name">Notas</string>
-    <string name="app_name_long">Notas de Nextcloud</string>
     <string name="appear_offline">Aparecer como desconectado</string>
     <string name="away">Ausente</string>
     <string name="busy">Ocupado</string>

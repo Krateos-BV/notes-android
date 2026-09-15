@@ -50,8 +50,6 @@
     <string name="add_new_public_share">Adicionar nova hiperligação de partilha pública</string>
     <string name="added_content">\"%1$s\" adicionado</string>
     <string name="allow_resharing">Permitir repartilha</string>
-    <string name="app_name">Notas</string>
-    <string name="app_name_long">Nextcloud Notes</string>
     <string name="appear_offline">Aparecer offline</string>
     <string name="appearance_and_behavior">Aspeto e comportamento</string>
     <string name="append_to_note">Anexar à nota</string>

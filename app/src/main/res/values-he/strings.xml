@@ -46,8 +46,6 @@
     <string name="add_category">הוספת %1$s</string>
     <string name="add_new_public_share">הוסף קישור שיתוף ציבורי חדש</string>
     <string name="allow_resharing">לאפשר שיתוף מחדש</string>
-    <string name="app_name">פתקים</string>
-    <string name="app_name_long">פתקים של Nextcloud</string>
     <string name="appear_offline">להופיע במצב בלתי מקוון</string>
     <string name="append_to_note">הוספה לסוף הפתק</string>
     <string name="away">לא פה</string>

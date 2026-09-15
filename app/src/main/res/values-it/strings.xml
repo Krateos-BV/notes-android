@@ -48,8 +48,6 @@
     <string name="add_category">Aggiungi %1$s</string>
     <string name="add_new_public_share">Aggiungi nuovo collegamento pubblico di condivisione</string>
     <string name="added_content">Aggiunto \"%1$s\"</string>
-    <string name="app_name">Note</string>
-    <string name="app_name_long">Nextcloud Note</string>
     <string name="appear_offline">Appari non in linea</string>
     <string name="appearance_and_behavior">Aspetto e comportamento</string>
     <string name="append_to_note">Aggiungi a nota</string>

@@ -49,8 +49,6 @@
     <string name="add_new_public_share">Προσθήκη νέου δημόσιου κοινόχρηστου συνδέσμου</string>
     <string name="added_content">Προστέθηκε \"%1$s\"</string>
     <string name="allow_resharing">Επιτρέψτε τον επαναδιαμοιρασμό</string>
-    <string name="app_name">Σημειώσεις</string>
-    <string name="app_name_long">Nextcloud Σημειώσεις</string>
     <string name="appear_offline">Εμφάνιση ως αποσυνδεδεμένος/η</string>
     <string name="appearance_and_behavior">Εμφάνιση και συμπεριφορά</string>
     <string name="append_to_note">Προσάρτηση στη σημείωση</string>

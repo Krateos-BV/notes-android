@@ -49,8 +49,6 @@
     <string name="add_new_public_share">Afegeix nou enllaç d\'accés públic</string>
     <string name="added_content">S\'ha afegit «%1$s»</string>
     <string name="allow_resharing">Permet l\'ús compartit derivat</string>
-    <string name="app_name">Notes</string>
-    <string name="app_name_long">Notes del Nextcloud</string>
     <string name="appear_offline">Apareixeu fora de línia</string>
     <string name="appearance_and_behavior">Aparença i comportament</string>
     <string name="append_to_note">Afegeix a la nota</string>

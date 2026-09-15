@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Öffentlichen Link zum Teilen hinzufügen</string>
     <string name="added_content">\"%1$s\" hinzugefügt</string>
     <string name="allow_resharing">Weiterverteilen erlauben</string>
-    <string name="app_name">Notizen</string>
-    <string name="app_name_long">Nextcloud Notizen</string>
     <string name="appear_offline">Offline erscheinen</string>
     <string name="appearance_and_behavior">Aussehen und Verhalten</string>
     <string name="append_to_note">An Notiz anhängen</string>

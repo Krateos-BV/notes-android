@@ -49,8 +49,6 @@
     <string name="add_new_public_share">Tambahkan tautan berbagi baru</string>
     <string name="added_content">Berhasil menambahkan \"%1$s\"</string>
     <string name="allow_resharing">Izinkan pembagian ulang</string>
-    <string name="app_name">Catatan</string>
-    <string name="app_name_long">Catatan Nextcloud</string>
     <string name="appear_offline">Tampak offline</string>
     <string name="appearance_and_behavior">Tampilan dan perilaku</string>
     <string name="append_to_note">Tambahkan ke catatan</string>

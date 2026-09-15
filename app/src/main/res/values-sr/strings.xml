@@ -50,8 +50,6 @@
     <string name="add_new_public_share">Додај везу новог јавног дељења</string>
     <string name="added_content">Додата „%1$s”</string>
     <string name="allow_resharing">Дозволи дељење даље</string>
-    <string name="app_name">Белешке</string>
-    <string name="app_name_long">Некстклауд Белешке</string>
     <string name="appear_offline">Прикажи као ван мреже</string>
     <string name="appearance_and_behavior">Изглед и понашање</string>
     <string name="append_to_note">Додај на белешку</string>

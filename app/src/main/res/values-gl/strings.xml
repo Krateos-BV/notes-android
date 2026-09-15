@@ -51,8 +51,6 @@
     <string name="add_new_public_share">Engadir unha nova ligazón pública para compartir</string>
     <string name="added_content">Engadido «%1$s»</string>
     <string name="allow_resharing">Permitir volver compartir</string>
-    <string name="app_name">Notas</string>
-    <string name="app_name_long">Notas de Nextcloud</string>
     <string name="appear_offline">Aparecer como sen conexión</string>
     <string name="appearance_and_behavior">Aparencia e comportamento</string>
     <string name="append_to_note">Anexo á nota</string>
