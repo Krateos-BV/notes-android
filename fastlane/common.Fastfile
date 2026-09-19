@@ -4,8 +4,6 @@
 VERSION_CODE_OFFSET = 400000000
 DATE_MULTIPLIER = 1000
 
-TYPE_FINAL = "final"
-
 platform :android do
     desc "Print version info"
     lane :printVersionInfo do
@@ -45,7 +43,7 @@ platform :android do
         month = (date / 100) % 100
         year = date / 10000
 
-        { "year" => year, "month" => month, "day" => day, "id" => id, "type" => TYPE_FINAL }
+        { "year" => year, "month" => month, "day" => day, "id" => id }
     end
 
     desc "Generate versionCode from version components"
@@ -115,23 +113,6 @@ platform :android do
     desc "Get tag name from version components"
     private_lane :getTagName do |versionComponents|
         "#{versionComponents["year"]}.#{versionComponents["month"]}.#{versionComponents["day"]}.#{versionComponents["id"]}"
-    end
-
-    desc "Check if version is releasable"
-    private_lane :checkReleasable do |versionComponents|
-        if versionComponents["type"] != TYPE_FINAL
-            UI.user_error!("Version is not releasable: #{versionComponents["type"]}")
-        end
-    end
-
-    desc "Get play store track from version type"
-    private_lane :getPlayStoreTrack do |versionComponents|
-        case versionComponents["type"]
-        when TYPE_FINAL
-            track = "production"
-        else
-            UI.user_error!("Version is not releasable: #{versionComponents["type"]}")
-        end
     end
 
 end

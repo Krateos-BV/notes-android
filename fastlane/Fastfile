@@ -32,6 +32,7 @@ default_platform(:android)
 
 BUNDLE_PATH = "app/build/outputs/bundle/playRelease/app-play-release.aab"
 ENV['SUPPLY_UPLOAD_MAX_RETRIES']='10'
+VALID_PLAY_STORE_TRACKS = ["internal", "alpha", "beta", "production"]
 
 import("./common.Fastfile")
 
@@ -46,14 +47,22 @@ desc "Build app bundle"
         buildSignedAPK(versionCode: versionInfo["versionCode"])
     end
 
+    # Usage: fastlane releasePhase2 track:(internal|alpha|beta|production)
+    # Track selection used to be inferred from the version's alpha/rc/final
+    # build-number suffix. That concept doesn't exist under the YY.M.D.ID
+    # CalVer scheme, so the track is now an explicit argument instead of a
+    # side effect of the version string.
     desc "Release previously built app to Google Play and create tag"
-    lane :releasePhase2 do
+    lane :releasePhase2 do |options|
+        storeTrack = options[:track] || "production"
+        unless VALID_PLAY_STORE_TRACKS.include?(storeTrack)
+            UI.user_error!("Unknown track '#{storeTrack}'. Usage: releasePhase2 track:(#{VALID_PLAY_STORE_TRACKS.join("|")})")
+        end
+
         versionInfo = getVersionInfo()
         versionComponents = parseVersionCode(versionInfo)
-        checkReleasable(versionComponents)
-        storeTrack = getPlayStoreTrack(versionComponents)
         tagName = getTagName(versionComponents)
-        preReleaseChecks(versionInfo: versionInfo, tagName: tagName, type: versionComponents["type"], track: storeTrack)
+        preReleaseChecks(versionInfo: versionInfo, tagName: tagName, track: storeTrack)
         checkArtifactsExist()
         tag(name: tagName)
         createGithubRelease(name: versionInfo["versionName"], tag: tagName, versionCode: versionInfo["versionCode"])
@@ -107,7 +116,6 @@ desc "Build app bundle"
         text = "Version code: #{versionInfo["versionCode"]}\n" +
                 "Version name: #{versionInfo["versionName"]}\n" +
                 "Current branch: #{currentBranch}\n" +
-                "Version type: #{options[:type]}\n" +
                 "Tag: #{tagName}\n" +
                 "Track: #{options[:track]}"
         promptYesNo(text: text)
