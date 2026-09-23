@@ -52,6 +52,12 @@ jobs:
           distribution: "temurin"
           java-version: 25
       - name: Assemble
+        # Xenia fork: the CodeQL Java extractor rejects Kotlin 2.4.20 ("Kotlin version 2.4.20
+        # is too recent"), which fails assembleDebug outright and produces no analysis at all,
+        # Java included. Disabling the Kotlin extractor lets the build finish and keeps Java
+        # coverage. Remove this env once a CodeQL bundle supports Kotlin 2.4.20 (XNT-169).
+        env:
+          CODEQL_EXTRACTOR_JAVA_AGENT_DISABLE_KOTLIN: "true"
         run: |
           mkdir -p "$HOME/.gradle"
           echo "org.gradle.jvmargs=-Xmx4g -XX:MaxMetaspaceSize=512m -XX:+HeapDumpOnOutOfMemoryError" > "$HOME/.gradle/gradle.properties"
