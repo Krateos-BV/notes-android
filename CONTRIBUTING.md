@@ -143,9 +143,13 @@ Add tests for your change, or state in the pull request why they are not needed.
 
 ## Translations
 
-Translations are managed through [Transifex](https://explore.transifex.com/nextcloud/nextcloud/) and synced into the
-repository automatically. Only ever edit `app/src/main/res/values/strings.xml`; never touch the translated
-`values-*/strings.xml` files.
+This fork does not sync translations from Transifex. Upstream's Transifex resource carries upstream's branding, so a
+`tx pull` would overwrite this fork's rebranded strings; the `.tx/config` that pointed at it has been removed. Translated
+`values-*/strings.xml` files reach this fork only through merges from `nextcloud/notes-android`.
+
+Only ever edit `app/src/main/res/values/strings.xml`; never touch the translated `values-*/strings.xml` files.
+Strings that carry the Xenia brand name belong in `values/strings.xml` alone, so every locale inherits them — if an
+upstream merge adds a brand-bearing override to a `values-*/strings.xml`, drop it as part of resolving that merge.
 
 If you need to change an existing translation, do not edit it. Create a new one and delete the old one.
 
