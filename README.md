@@ -61,7 +61,7 @@ F6:0A:21:D2:08:65:7A:46:F6:57:3A:01:9E:F5:D3:09:05:23:E5:0A:EB:FD:0F:73:6F:DE:DC
   * Single note widget and note list widget
   * Dark Mode
   * Render Markdown (using [Markwon](https://noties.io/Markwon))
-  * Translated in many languages on [Transifex](https://app.transifex.com/nextcloud/nextcloud/android-notes/)
+  * Translated in many languages, inherited from [upstream](https://github.com/nextcloud/notes-android)
   * Context based formatting ([#363](https://github.com/nextcloud/notes-android/issues/363))
   * App-lock ([#354](https://github.com/nextcloud/notes-android/issues/354))
 
@@ -75,7 +75,7 @@ F6:0A:21:D2:08:65:7A:46:F6:57:3A:01:9E:F5:D3:09:05:23:E5:0A:EB:FD:0F:73:6F:DE:DC
   * Report issues in the [issue tracker](https://github.com/nextcloud/notes-android/issues)
   * [Pick a good first issue](https://github.com/nextcloud/notes-android/labels/Good%20first%20issue) :notebook:
   * Create a [Pull Request](https://opensource.guide/how-to-contribute/#opening-a-pull-request)
-  * Help translating this app on [Transifex](https://app.transifex.com/nextcloud/nextcloud/android-notes/) 🌎
+  * Help translating this app [upstream](https://app.transifex.com/nextcloud/nextcloud/android-notes/) 🌎 — this fork inherits those translations through merges
 
 ## :link: Requirements
 

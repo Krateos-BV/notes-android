@@ -266,7 +266,9 @@ The bullets below are the summary; [`project-conventions`](.claude/skills/projec
 - Do not use decorative section-divider comments of any kind (e.g. `// ── Title ───`, `// ------`, `// ======`).
 - Every new file must end with exactly one empty trailing line (no more, no less).
 - All new files must include an SPDX license header: ` SPDX-License-Identifier: GPL-3.0-or-later `
-- Translations: only modify `values/strings.xml`; never the translated `values-*/strings.xml` files
+- Translations: only modify `values/strings.xml`; never the translated `values-*/strings.xml` files. This fork has no
+  Transifex sync (see [Contribution Guidelines](CONTRIBUTING.md#translations)), so brand-bearing strings live in
+  `values/strings.xml` alone and every locale inherits them.
 - Create models, states in different files instead of doing it one single file.
 - Do not use magic number.
 - Apply fail fast principle instead of using nested if-else statements.
