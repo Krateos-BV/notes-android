@@ -83,8 +83,10 @@ picks these up automatically.
 
 ### New files are Kotlin
 
-Kotlin is the language of this project. **Every new source file must be a `.kt` file** — a dedicated
-[CI check](.github/workflows/detectNewJavaFiles.yml) fails the pull request when a new `.java` file is added.
+Kotlin is the language of this project. **Every new source file must be a `.kt` file.** This is a review
+convention in this fork, not an automated check: upstream's `detectNewJavaFiles` workflow was removed because it
+ran on a runner label this organisation does not have, so it never produced a verdict here and instead left every
+pull request permanently one check short of green (XNT-200).
 
 A large amount of Java is still present as legacy that is being migrated away from. Editing, debugging and fixing that
 Java is normal and expected: fix a bug in a Java class by editing that Java class rather than converting it as a side
