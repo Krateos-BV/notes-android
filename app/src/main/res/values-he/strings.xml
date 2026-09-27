@@ -10,7 +10,6 @@
     <string name="about_icons_disclaimer_mdi">עיצוב צלמיות </string>
     <string name="about_icons_disclaimer_mdi_icons">כל שאר הסמלים בהם נעשה שימוש ביישומון זה הם %1$s שנוצרו על ידי Google בע״מ ומוגשים תחת הרישוי Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">סמלים</string>
-    <string name="about_issues">ניתן לדווח על תקלות, להציע שיפורים ותכונות במערכת מעקב התקלות שלנו שב־GitHub: %1$s</string>
     <string name="about_issues_title">תקלו</string>
     <string name="about_license_tab_title">רישיון</string>
     <string name="about_maintainer_title">מתחזק</string>

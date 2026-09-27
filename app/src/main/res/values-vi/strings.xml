@@ -10,7 +10,6 @@
     <string name="about_icons_disclaimer_mdi">Biểu tượng Thiết kế Material</string>
     <string name="about_icons_disclaimer_mdi_icons">Tất cả biểu tượng mới hơn được ứng dụng này sử dụng được %1$s tạo bởi Google Inc. và được cấp phép dưới Apache 2.0 License.</string>
     <string name="about_icons_disclaimer_title">Biểu tượng</string>
-    <string name="about_issues">Bạn có thể báo cáo lỗi, đề nghị cải thiện và yêu cầu tính năng tại trình theo dõi vấn đề của GitHub: %1$s</string>
     <string name="about_issues_title">Vấn đề</string>
     <string name="about_license_tab_title">Giấy phép</string>
     <string name="about_maintainer_title">Người duy trì</string>

@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Ikone materijalnog dizajna</string>
     <string name="about_icons_disclaimer_mdi_icons">Ostale ikone koje se upotrebljavaju u ovoj aplikaciji su %1$s koje je izradio Google Inc. i licencirane su pod licencom Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Ikone</string>
-    <string name="about_issues">Možete prijaviti pogreške, predložiti poboljšanja i zatražiti značajke putem GitHubovog alata za prijavu i praćenje poteškoća: %1$s</string>
     <string name="about_issues_title">Poteškoće</string>
     <string name="about_license_tab_title">Licenca</string>
     <string name="about_maintainer_title">Održavatelj</string>

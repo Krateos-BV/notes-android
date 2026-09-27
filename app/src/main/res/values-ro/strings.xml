@@ -10,7 +10,6 @@
     <string name="about_icons_disclaimer_mdi">Pictograme Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Toate pictogramele utilizate de această aplicație sunt%1$s realizate de Google Inc. și licențiate sub licența Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Pictograme</string>
-    <string name="about_issues">Puteți raporta erori, propuneri de îmbunătățiri și cereri de caracteristici noi în tracker-ul de probleme GitHub: %1$s</string>
     <string name="about_issues_title">Probleme</string>
     <string name="about_license_tab_title">Licență</string>
     <string name="about_maintainer_title">Maintainer</string>

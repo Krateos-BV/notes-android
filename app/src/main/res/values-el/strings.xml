@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Εικονίδια Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Όλα τα εικονίδια σε χρήση από την εφαρμογή είναι %1$sκαι δημιουργήθηκαν από την Google Inc. αδειοδοτημένα υπό την άδεια Apache 2.0 License.</string>
     <string name="about_icons_disclaimer_title">Εικονίδια</string>
-    <string name="about_issues">Μπορείτε να αναφέρετε σφάλματα, προτάσεις βελτιώσεων και αιτήματα για δυνατότητες στην εφαρμογή παρακολούθησης προβλημάτων GitHub:%1$s</string>
     <string name="about_issues_title">Ζητήματα</string>
     <string name="about_license_tab_title">Άδεια χρήσης</string>
     <string name="about_maintainer_title">Συντηρητής</string>

@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Иконки Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Все дальнейшие значки, используемые в этой программе, являются частью набора  %1$s, созданного компанией Google Inc., и распространяются в соответствии с лицензией Apache версии 2.0.</string>
     <string name="about_icons_disclaimer_title">Значки</string>
-    <string name="about_issues">Вы можете сообщить об ошибках, ваших пожеланиях, как можно улучшить продукт, в специальном разделе GitHub: %1$s</string>
     <string name="about_issues_title">Тикеты</string>
     <string name="about_license_tab_title">Лицензия</string>
     <string name="about_maintainer_title">Сопроводитель</string>

@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design Icons</string>
     <string name="about_icons_disclaimer_mdi_icons">Alle weiteren Symbole dieser App sind %1$s, erstellt von Google Inc. und unter der Apache 2.0-Lizenz lizenziert.</string>
     <string name="about_icons_disclaimer_title">Symbole</string>
-    <string name="about_issues">Sie können Fehler, Verbesserungsvorschläge oder Wünsche für neue Funktionen als Issue auf GitHub erfassen: %1$s</string>
     <string name="about_issues_title">Issues</string>
     <string name="about_license_tab_title">Lizenz</string>
     <string name="about_maintainer_title">Maintainer</string>

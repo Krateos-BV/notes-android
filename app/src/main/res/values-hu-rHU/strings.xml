@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design ikonok</string>
     <string name="about_icons_disclaimer_mdi_icons">Az alkalmazás által használt összes többi ikon a Google által készített %1$s része, és azok Apache 2.0 License alatt érhetők el.</string>
     <string name="about_icons_disclaimer_title">Ikonok</string>
-    <string name="about_issues">Hibákat jelenthet, fejlesztési javaslatokat adhat és funkciókat kérhet a GitHub hibakövetőjében: %1$s</string>
     <string name="about_issues_title">Hibajegyek</string>
     <string name="about_license_tab_title">Licenc</string>
     <string name="about_maintainer_title">Karbantartó</string>

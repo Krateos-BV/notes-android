@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Ikon Desain Material</string>
     <string name="about_icons_disclaimer_mdi_icons">Semua ikon selanjutnya yang digunakan oleh aplikasi ini adalah %1$s yang dibuat oleh Google Inc. dan dilisensikan di bawah Lisensi Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Ikon</string>
-    <string name="about_issues">Anda dapat melaporkan bug, proposal peningkatan, dan permintaan fitur di issue tracker GitHub: %1$s</string>
     <string name="about_issues_title">Isu</string>
     <string name="about_license_tab_title">Lisensi</string>
     <string name="about_maintainer_title">Pengelola</string>

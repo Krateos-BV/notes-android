@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design pictogrammen</string>
     <string name="about_icons_disclaimer_mdi_icons">Alle andere pictogrammen in deze app zijn %1$s gemaakt door Google Inc. en zijn gelicenseerd onder de Apache 2.0 Licensie.</string>
     <string name="about_icons_disclaimer_title">Pictogrammen</string>
-    <string name="about_issues">Je kunt problemen rapporteren, verbeteringen voorstellen en functionele aanpassingen aanvragen via de issue-tracker op GitHub: %1$s</string>
     <string name="about_issues_title">Problemen</string>
     <string name="about_license_tab_title">Licentie</string>
     <string name="about_maintainer_title">Projectleider</string>

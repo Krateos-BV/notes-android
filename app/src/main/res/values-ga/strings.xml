@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Deilbhíní Dearaidh Ábhar</string>
     <string name="about_icons_disclaimer_mdi_icons">Gach deilbhín eile a úsáideann an aip seo %1$s déanta ag Google Inc. agus ceadúnaithe faoi Cheadúnas Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Deilbhíní</string>
-    <string name="about_issues">Is féidir leat fabhtanna, moltaí feabhsúcháin agus iarratais ar ghnéithe a thuairisciú ag an rianaire eisiúna GitHub: %1$s</string>
     <string name="about_issues_title">Saincheisteanna</string>
     <string name="about_license_tab_title">Ceadúnas</string>
     <string name="about_maintainer_title">Cothaitheoir</string>

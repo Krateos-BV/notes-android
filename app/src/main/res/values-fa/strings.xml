@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">آیکون‌های طراحی متریال</string>
     <string name="about_icons_disclaimer_mdi_icons">تمام نمادهای دیگری که توسط این برنامه استفاده می‌شود %1$s توسط Google Inc ساخته شده و تحت مجوز Apache 2.0 دارای مجوز هستند.</string>
     <string name="about_icons_disclaimer_title">آیکون‌ها</string>
-    <string name="about_issues">شما می‌توانید اشکالات، پیشنهادات بهبود و درخواست ویژگی را در ردیاب شماره GitHub گزارش دهید: %1$s</string>
     <string name="about_issues_title">مسائل</string>
     <string name="about_license_tab_title">مجوز</string>
     <string name="about_maintainer_title">نگهدارنده</string>

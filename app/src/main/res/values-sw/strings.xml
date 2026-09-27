@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Aikoni za nyenzo za usanifu</string>
     <string name="about_icons_disclaimer_mdi_icons">Aikoni zote zaidi zinazotumiwa na programu hii ni %1$s zilizotengenezwa na Google Inc. na zimepewa leseni chini ya Leseni ya Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Aikono</string>
-    <string name="about_issues">Unaweza kuripoti hitilafu, mapendekezo ya uboreshaji na maombi ya kipengele kwenye tracker ya suala la GitHub: %1$s</string>
     <string name="about_issues_title">Masuala</string>
     <string name="about_license_tab_title">Leseni</string>
     <string name="about_maintainer_title">Mtunzaji</string>

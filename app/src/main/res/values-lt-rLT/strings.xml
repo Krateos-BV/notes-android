@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">„Material Design“ piktogramos</string>
     <string name="about_icons_disclaimer_mdi_icons">Visas kitas šioje programėlėje naudojamas piktogramas %1$s sukūrė „Google Inc.“ ir jos licencijuojamos pagal „Apache 2.0“ licenciją.</string>
     <string name="about_icons_disclaimer_title">Piktogramos</string>
-    <string name="about_issues">Apie klaidas, patobulinimų pasiūlymus ir funkcijų užklausas galite pranešti „GitHub“ problemų stebėjimo priemonėje: %1$s</string>
     <string name="about_issues_title">Problemos</string>
     <string name="about_license_tab_title">Licencija</string>
     <string name="about_maintainer_title">Prižiūrėtojas</string>

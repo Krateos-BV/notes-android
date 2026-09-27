@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Designi ikoonid</string>
     <string name="about_icons_disclaimer_mdi_icons">Kõik muud siin rakenduses kasutatavad ikoonid on „%1$s“ ja tehtud Google Inc. poolt ning valdatud Apache 2.0 litsentsi alusel.</string>
     <string name="about_icons_disclaimer_title">Ikoonid</string>
-    <string name="about_issues">Palun teata vigadest, parandusettepanekutest või uute arenduste ideedest meie GitHubi veahalduses: %1$s</string>
     <string name="about_issues_title">Veahaldus</string>
     <string name="about_license_tab_title">Litsents</string>
     <string name="about_maintainer_title">Haldaja</string>

@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Ikone Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Vse ostale ikone, uporabljene v programu, so del zbirke %1$s, ki jo je pod pogoji dovoljenja Apache 2.0 objavilo podjetje Google Inc..</string>
     <string name="about_icons_disclaimer_title">Ikone</string>
-    <string name="about_issues">Poročila o hroščih, predloge za izboljšave in prošnje za nove programske zmožnosti je mogoče objaviti na sledilniku GitHub: %1$s</string>
     <string name="about_issues_title">Odzivi</string>
     <string name="about_license_tab_title">Dovoljenje</string>
     <string name="about_maintainer_title">Vzdrževalec</string>
