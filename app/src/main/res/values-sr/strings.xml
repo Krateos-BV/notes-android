@@ -120,16 +120,12 @@
     <string name="error_dialog_check_server">Одговор са Вашег сервера није исправан. Проверите да ли можете да приступите апликацији Белешки преко веба.</string>
     <string name="error_dialog_check_server_logs">Постоји проблема са поставкама Вашег Некстклауда. Погледаје дневник у фајловима са сервера.</string>
     <string name="error_dialog_insufficient_storage">На Некстклауд инстанци више нема простора. Обришите неке фајлове да синхронизујете локалне измене на облак.</string>
-    <string name="error_dialog_min_version">The Андроид апликација Белешке захтева да је верзија Nextcloud Андроид апликације барем 3.18.</string>
     <string name="error_dialog_redirect">Сервер је одговорио са HTTP 302 кодом, што значи да немате инсталирану апликацију Белешке или да Вам сервер није правилно конфигурисан. Ово може да буде проузорковано произвољним додавањима у .htaccess фајлу или другим Некстклауд апликацијама као што је OID Client.</string>
     <string name="error_dialog_server_app_enabled">Проверите да ли сте инсталирали и укључили апликацију „Белешке” на Вашем серверу.</string>
     <string name="error_dialog_timeout_instance">Није било одговора са сервера у задатом времену. Проверите да ли вам инстанца ради добро.</string>
     <string name="error_dialog_timeout_toggle">Проверите конекцију. Некад укључивање и иксључивање мобилних података или Wi-Fi-а може да помогне.</string>
     <string name="error_dialog_tip_clear_storage">Складиште можете да обришете тако што отворите информације о апликацији и изаберете Storage → Clear storage. ⚠️ Упозорење: Ово ће да обрише белешке које још увек нису синхронизоване!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Искључите све оптимизације батерије за Некстаклауд и Белешке апликације.</string>
     <string name="error_dialog_tip_files_delete_storage">Ако ово заустављање не помогне, очистите податке за обе апликације.</string>
-    <string name="error_dialog_tip_files_outdated">Изгледа да је верзија Некстклауд апликације стара. Посетите Play Store или Ф-дроид да скинете најновију верзију.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Покушајте да форсирано затворите апликацију и стартујете је поново. Можда је била неисправна конекција ка Некстклауд апликацији.</string>
     <string name="error_dialog_title">О, не - шта сад? 🙁</string>
     <string name="error_dialog_we_need_info">Потребне су нам следеће техничке информација да бисмо Вам помогли:</string>
     <string name="error_maintenance_mode">Server je u režimu za održavanje</string>

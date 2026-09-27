@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">A kiszolgáló válasza helytelen volt. Ellenőrizze, hogy eléri-e a Jegyzetek alkalmazást a webes felületen keresztül.</string>
     <string name="error_dialog_check_server_logs">Hiba van a Nextcloudja beállításaiban. Nézzen bele a kiszolgáló naplófájljaiba.</string>
     <string name="error_dialog_insufficient_storage">A Nextcloud példányán elfogyott a szabad hely. Töröljön pár fájlt, hogy szinkronizálhassa a helyi változtatásait a felhővel.</string>
-    <string name="error_dialog_min_version">A Jegyzetek androidos alkalmazáshoz a Nextcloud androidos alkalmazásnak legalább a 3.18-as verziója szükséges.</string>
     <string name="error_dialog_redirect">A kiszolgálója 302-es HTTP állapotkóddal válaszolt, amely arra utal, hogy nincs telepítve a Jegyzetek alkalmazás a kiszolgálón, vagy valami hibásan van beállítva. Ezt egyéni felülírások is okozhatják, mint egy .htaccess-fájl vagy az OID klienshez hasonló Nextcloud alkalmazások.</string>
     <string name="error_dialog_server_app_enabled">Bizonyosodjon meg róla, hogy telepítette és bekapcsolta a „Jegyzetek” alkalmazást a szerverén.</string>
     <string name="error_dialog_timeout_instance">A megadott időn belül nem érkezett válasz a kiszolgálótól. Győződjön meg róla, hogy a példánya helyesen fut.</string>
     <string name="error_dialog_timeout_toggle">Ellenőrizze a hálózati kapcsolatát. Néha a mobil adathasználat vagy a Wi-Fi ki- és bekapcsolása is segíthet.</string>
     <string name="error_dialog_tip_clear_storage">Törölheti a tárhelyet az alkalmazás adatainak megnyitásával, és válassza a Tárolás → Tárolás törlése lehetőséget. ⚠️ Figyelem: Ezzel törli a még nem szinkronizált jegyzeteket!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Kapcsoljon ki minden energiatakarékossági beállítást a Nextcloud valamint a Jegyzetek alkalmazáshoz.</string>
     <string name="error_dialog_tip_files_delete_storage">Ha a kényszerített leállítás nem segít, akkor megpróbálhatja mindkét alkalmazás tárolóját kiüríteni.</string>
-    <string name="error_dialog_tip_files_outdated">A Nextcloud alkalmazása elavultnak tűnik. Keresse fel a Play Áruházat vagy az F-Droidot, hogy beszerezze a legfrissebb verziót.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Próbálja kényszeríteni az alkalmazás bezárását, és indítsa újra. Lehet, hogy hibás volt a kapcsolat a többi Nextcloud alkalmazással.</string>
     <string name="error_dialog_title">Jaj ne – Most mi legyen? 🙁</string>
     <string name="error_dialog_we_need_info">A következő műszaki információkra van szükségünk, hogy segíthessünk:</string>
     <string name="error_maintenance_mode">A kiszolgáló karbantartási módban van</string>

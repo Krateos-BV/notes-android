@@ -117,16 +117,12 @@
     <string name="error_dialog_check_server">Zerbitzariaren erantzuna ez da zuzena izan. Egiazta ezazu ea zure oharrak atzitu ditzakezun web interfazearen bidez.</string>
     <string name="error_dialog_check_server_logs">Arazo bat dago zure Nextcloud ezarpenekin. Eman begiratu bat zerbitzariko egunkari-fitxategiei.</string>
     <string name="error_dialog_insufficient_storage">Zure Nextcloud instantziak ez du biltegiratze leku libre gehiagorik. Ezabatu fitxategi batzuk, aldaketa lokalak hodeiarekin sinkroniza daitezen.</string>
-    <string name="error_dialog_min_version">Notes Android aplikazioak behar du Nextcloud Android aplikazioaren 3.18 bertsioa izatea gutxienez.</string>
     <string name="error_dialog_redirect">Zure zerbitzariak HTTP 302 egoera kodearekin erantzun du, honek esan nahi du ez duzula Oharrak aplikazioa zure zerbitzarian instalatu edo zerbait txarto konfiguratuta dagoela. Hau .htaccess fitxategi batean arau pertsonalizatuak daudelako edo OID Bezeroa izeneko aplikazioarengatik sortua izan daiteke. </string>
     <string name="error_dialog_server_app_enabled">Egiaztatu \"Oharrak\" aplikazioa instalatuta eta gaituta duzula zure zerbitzarian.</string>
     <string name="error_dialog_timeout_instance">Ez da zerbitzariaren erantzunik jaso emandako denboran. Ziurta ezazu zure instantzia ondo dabilela.</string>
     <string name="error_dialog_timeout_toggle">Egiaztatu sarera konexiorik duzun. Batzuetan, mugikorreko datuak edo Wi-Fia kendu eta berriro jartzeak laguntzen du.</string>
     <string name="error_dialog_tip_clear_storage">Biltegia garbi dezakezu aplikazioaren informazioa ireki eta hautatuz: Biltegia → Garbitu biltegia. ⚠️ Abisua: Honek oraindik sinkronizatuta ez dauden oharrak ezabatuko ditu!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Desgaitu bateria optimizazio guztiak Nextcloudentzat eta Oharrak aplikazioarentzat.</string>
     <string name="error_dialog_tip_files_delete_storage">Geldiarazteak ez badu arazoa konpontzen, bi biltegiak garbitzen saia zaitezke.</string>
-    <string name="error_dialog_tip_files_outdated">Daukazun Nextcloud aplikazioa zaharkituta dagoela dirudi. Zoaz Play Store edo F-Droidera azken bertsioa lortzeko.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Saia zaitez aplikazioa itxi eta berrabiarazten. Agian Nextcloud aplikazioarekin gaizki konektatzea gertatu da.</string>
     <string name="error_dialog_title">Oh ez - Eta orain zer? 🙁</string>
     <string name="error_dialog_we_need_info">Zuri laguntzeko hurrengo informazio teknikoa behar dugu:</string>
     <string name="error_maintenance_mode">Zerbitzaria mantentze moduan dago</string>

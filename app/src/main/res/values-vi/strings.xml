@@ -106,10 +106,7 @@
     <string name="error_dialog_timeout_instance">Không có phản hồi từ máy chủ của bạn trong thời gian được đưa ra. Vui lòng chắc chắn rằng bản sao của bạn đang chạy tốt.</string>
     <string name="error_dialog_timeout_toggle">Hãy kiểm tra kết nối mạng của bạn. Đôi khi việc tắt và bật lại dữ liệu di động hoặc Wi-Fi có thể giúp.</string>
     <string name="error_dialog_tip_clear_storage">Bạn có thể xoá bộ nhớ bằng cách mở thông tin ứng dụng và chọn Bộ nhớ → Xoá bộ nhớ. ⚠️ Cảnh báo: Việc này sẽ xoá các ghi chú chưa được đồng bộ hoá!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Vui lòng tắt tất cả tối ưu hoá pin cho Nextcloud và ứng dụng Ghi chú.</string>
     <string name="error_dialog_tip_files_delete_storage">Nếu việc buộc dừng chúng không giúp gì được, bạn có thể cố gắng xoá bộ nhớ của cả hai ứng dụng.</string>
-    <string name="error_dialog_tip_files_outdated">Ứng dụng Nextcloud của bạn có vẻ đã lỗi thời. Vui lòng đi đến CH Play hoặc F-Droid để lấy phiên bản mới nhất.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Vui lòng cố gắng buộc dừng và khởi động lại ứng dụng. Có thể đã có một kết nối không chính xác đến ứng dụng Nextcloud.</string>
     <string name="error_dialog_title">Ôi không - Làm gì bây giờ? 🙁</string>
     <string name="error_dialog_we_need_info">Chúng tôi cần thông tin kỹ thuật sau đây để giúp bạn:</string>
     <string name="error_maintenance_mode">Máy chủ đang trong chế độ bảo trì</string>

@@ -91,7 +91,6 @@
     <string name="error_dialog_check_maintenance">נא לבדוק שעותק ה־Nextcloud שלך אינו במצב תחזוקה כרגע.</string>
     <string name="error_dialog_timeout_instance">לא חזרה תגובה מהשרת שלך בזמן קצוב. נא לוודא שהעותק פועל כראוי.</string>
     <string name="error_dialog_tip_files_delete_storage">אם כפיית עצירה לא עוזרת, ניתן לנסות לרוקן את האחסון של שני היישומונים.</string>
-    <string name="error_dialog_tip_files_outdated">נראה כי יישומון ה־Nextcloud שלך אינו עדכני. נא לבקר בחנות Play או ב־F-Droid כדי לעדכן לגרסה האחרונה.</string>
     <string name="error_dialog_title">שוד ושבר - מה עכשיו? 🙁</string>
     <string name="error_dialog_we_need_info">אנו זקוקים לפירוט הטכני הבא כדי לסייע לך:</string>
     <string name="error_no_network">אין חיבור לאינטרנט</string>

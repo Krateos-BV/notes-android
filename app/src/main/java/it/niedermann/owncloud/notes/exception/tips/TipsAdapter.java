@@ -106,7 +106,7 @@ public class TipsAdapter extends RecyclerView.Adapter<TipsViewHolder> {
                 }
             } else if (throwable instanceof UnknownErrorException) {
                 if ("com.nextcloud.android.sso.QueryParam".equals(throwable.getMessage())) {
-                    add(R.string.error_dialog_min_version, new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com.nextcloud.client"))
+                    add(R.string.error_dialog_min_version, new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=eu.xeniacloud.files"))
                             .putExtra(INTENT_EXTRA_BUTTON_TEXT, R.string.error_action_update_files_app));
                 } else if("Read timed out".equals(throwable.getMessage())) {
                     add(R.string.error_dialog_timeout_instance);

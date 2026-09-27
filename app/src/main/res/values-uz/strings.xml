@@ -116,16 +116,12 @@
     <string name="error_dialog_check_server">Serveringizning javobi noto\'g\'ri. Iltimos, veb-interfeys orqali qaydlaringizga kirishingiz mumkinligini tekshiring.</string>
     <string name="error_dialog_check_server_logs">Nextcloud sozlamalarida muammo bor. Iltimos, server jurnali fayllarini ko\'rib chiqing.</string>
     <string name="error_dialog_insufficient_storage">Nextcloud nusxangizda bepul xotira qolmaydi. Mahalliy oʻzgarishlarni bulutga sinxronlashtirish uchun baʼzi fayllarni oʻchirib tashlang.</string>
-    <string name="error_dialog_min_version">Eslatmalar Android ilovasi Nextcloud Android ilovasining kamida 3.18 versiyasi boʻlishini talab qiladi.</string>
     <string name="error_dialog_redirect">Serveringiz HTTP 302 holat kodi bilan javob berdi, bu sizning serveringizda Notes ilovasini oʻrnatmaganingizni yoki biror narsa notoʻgʻri sozlanganligini bildiradi. Bunga .htaccess faylidagi maxsus bekor qilinganlar yoki OID Client kabi Nextcloud ilovalari sabab bo\'lishi mumkin.</string>
     <string name="error_dialog_server_app_enabled">Iltimos, serveringizda \"Eslatmalar\" ilovasini o\'rnatganingizga va yoqilganligiga ishonch hosil qiling.</string>
     <string name="error_dialog_timeout_instance">Berilgan vaqt ichida serveringizdan javob bo‘lmadi. Iltimos, namunangiz yaxshi ishlayotganiga ishonch hosil qiling.</string>
     <string name="error_dialog_timeout_toggle">Tarmoq ulanishingizni tekshiring. Ba\'zida mobil ma\'lumot yoki Wi-Fi-ni o\'chirish va qayta yoqish yordam berishi mumkin.</string>
     <string name="error_dialog_tip_clear_storage">Ilova maʼlumotlarini ochib, Xotira → Xotirani tozalash ni tanlash orqali xotirani tozalashingiz mumkin. ⚠️ Ogohlantirish: Bu hali sinxronlanmagan qaydlarni oʻchirib tashlaydi!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Nextcloud va Notes ilovasi uchun batareya quvvatini optimallashtirishni o‘chirib qo‘ying.</string>
     <string name="error_dialog_tip_files_delete_storage">Agar ularni majburan to\'xtatish yordam bermasa, ikkala ilovaning xotirasini tozalashga urinib ko\'rishingiz mumkin.</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud ilovangiz eskirganga o‘xshaydi. Eng soʻnggi versiyani olish uchun Play Store yoki F-Droid saytiga tashrif buyuring.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Iltimos, ilovani majburan yopishga urinib koʻring va uni qayta ishga tushiring. Nextcloud ilovasiga notoʻgʻri ulanish boʻlishi mumkin.</string>
     <string name="error_dialog_title">Yo\'q - Endi nima? 🙁</string>
     <string name="error_dialog_we_need_info">Sizga yordam berish uchun bizga quyidagi texnik ma\'lumotlar kerak:</string>
     <string name="error_maintenance_mode">Server parvarishlash rejimida</string>

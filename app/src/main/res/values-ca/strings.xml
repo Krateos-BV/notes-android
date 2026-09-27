@@ -119,16 +119,12 @@
     <string name="error_dialog_check_server">La resposta del servidor no ha estat correcta. Comproveu que podeu accedir les vostres notes des de la interfície web.</string>
     <string name="error_dialog_check_server_logs">Hi ha un problema amb la vostra configuració del Nextcloud. Consulteu els fitxers de registre del servidor.</string>
     <string name="error_dialog_insufficient_storage">No queda espai d\'emmagatzematge lliure a la vostra instància del Nextcloud. Suprimiu alguns fitxers per a sincronitzar els canvis locals en el núvol.</string>
-    <string name="error_dialog_min_version">L\'aplicació Notes per a l\'Android requereix que la versió de l\'aplicació Nextcloud instal·lada sigui com a mínim la versió 3.18.</string>
     <string name="error_dialog_redirect">El vostre servidor ha respost amb un codi d\'estat HTTP 302, que vol dir que no teniu instal·lada l\'aplicació Notes al vostre servidor o que hi ha alguna cosa mal configurada. Això pot tenir la causa en una anul·lació personalitzada en un fitxer .htaccess o en aplicacions del Nextcloud com Client OID.</string>
     <string name="error_dialog_server_app_enabled">Assegureu-vos que hàgiu instal·lat i activat l\'aplicació «Notes» al vostre servidor.</string>
     <string name="error_dialog_timeout_instance">No hi ha hagut cap resposta del servidor en el temps donat. Assegureu-vos que la vostra instància funcioni correctament.</string>
     <string name="error_dialog_timeout_toggle">Comproveu la connexió a la xarxa. De vegades, desactivar i tornar a activar les dades mòbils o la connexió sense fil pot ajudar.</string>
     <string name="error_dialog_tip_clear_storage">Per a esborrar l\'emmagatzematge, obriu la informació de l\'aplicació i seleccioneu Emmagatzematge → Esborra l\'emmagatzematge. ⚠️ Avís: això també esborrarà les notes que encara no s\'hagin sincronitzat!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Inhabiliteu totes les optimitzacions de la bateria per a les aplicacions Nextcloud i Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Si forçar-ne l\'aturada no ajuda, podeu provar d\'esborrar l\'emmagatzematge de totes dues aplicacions.</string>
-    <string name="error_dialog_tip_files_outdated">Sembla que l\'aplicació Nextcloud està obsoleta. Visiteu la Play Store o l\'F-Droid per a obtenir la darrera versió.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Proveu de forçar el tancament de l\'aplicació i reinicieu-la. Pot ser que hi hagi hagut una connexió incorrecta a l\'aplicació Nextcloud.</string>
     <string name="error_dialog_title">Oh, no! I ara què? </string>
     <string name="error_dialog_we_need_info">Necessitem la informació tècnica següent per a poder ajudar-vos:</string>
     <string name="error_maintenance_mode">El servidor es troba en mode de manteniment</string>

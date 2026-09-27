@@ -113,16 +113,12 @@
     <string name="error_dialog_check_server">Η απάντηση του διακομιστή σας δεν ήταν σωστή. Ελέγξτε αν μπορείτε να αποκτήσετε πρόσβαση στις σημειώσεις σας μέσω του περιηγητή σας.</string>
     <string name="error_dialog_check_server_logs">Υπάρχει ένα πρόβλημα με τη ρύθμιση Nextcloud. Ελέγξτε τα αρχεία καταγραφής του διακομιστή.</string>
     <string name="error_dialog_insufficient_storage">Δεν υπάρχει επαρκής χώρος αποθήκευσης στο Nextcloud. Διαγράψτε ορισμένα αρχεία για να συγχρονίσετε τις αλλαγές σας.</string>
-    <string name="error_dialog_min_version">Η εφαρμογή Notes Android απαιτεί την εγκατάσταση της εφαρμογής Nextcloud Android έκδοση 3.18.</string>
     <string name="error_dialog_redirect">Ο διακομιστής απάντησε με κωδικό κατάστασης HTTP 302, που σημαίνει, πως δεν έχετε εγκατεστημένη την εφαρμογή Notes στον διακομιστή σας ή υπάρχει λάθος ρύθμιση. Αυτό μπορεί να προκλήθηκε από λάθος καταχώρηση στο αρχείο .htaccess-file ή σε εφαρμογές του Nextcloud όπως την OID Client.</string>
     <string name="error_dialog_server_app_enabled">Παρακαλούμε βεβαιωθείτε ότι εγκαταστήσατε και ενεργοποιήσατε την εφαρμογή \"Notes\" στον διακομιστή σας.</string>
     <string name="error_dialog_timeout_instance">Δεν υπήρχε απάντηση από τον διακομιστή σας. Βεβαιωθείτε ότι η σύνδεσή σας λειτουργεί κανονικά.</string>
     <string name="error_dialog_timeout_toggle">Ελέγξτε τη σύνδεση δικτύου σας. Κάποιες φορές η εναλλαγή δεδομένων κινητής τηλεφωνίας ή Wi-Fi μπορεί να βοηθήσει.</string>
     <string name="error_dialog_tip_clear_storage">Μπορείτε να διαγράψετε τον αποθηκευτικό χώρο ανοίγοντας τις πληροφορίες της εφαρμογής και επιλέγοντας Αποθήκευση → Εκκαθάριση αποθηκευτικού χώρου. ⚠️ Προειδοποίηση: Αυτό θα διαγράψει τις μη συγχρονισμένες ακόμη σημειώσεις!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Παρακαλούμε απενεργοποιήστε όλες τις βελτιστοποιήσεις μπαταρίας για το Nextcloud και την εφαρμογή Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Εάν ο τερματισμός δεν βοηθήσει, μπορείτε να εκκαθαρίσετε τον αποθηκευτικό χώρο και των δύο εφαρμογών.</string>
-    <string name="error_dialog_tip_files_outdated">Η εφαρμογή Nextcloud δεν είναι ενημερωμένη. Παρακαλούμε επισκεφθείτε το Play Store ή το F-Groid για λήψη της τελευταίας έκδοσης.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Δοκιμάστε τερματισμό της εφαρμογή και επανεκκίνηση. Ίσως υπάρχει λάθος σύνδεση.</string>
     <string name="error_dialog_title">Ωχ όχι - Τώρα τί; 🙁</string>
     <string name="error_dialog_we_need_info">Χρειαζόμαστε τις ακόλουθες τεχνικές πληροφορίες για να σας βοηθήσουμε:</string>
     <string name="error_maintenance_mode">Ο διακομιστής βρίσκεται σε λειτουργία συντήρησης</string>

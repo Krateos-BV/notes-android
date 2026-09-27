@@ -87,7 +87,6 @@
     <string name="error_dialog_check_server_logs">Hay un problema con su configuración de Nextcloud. Por favor, revise los archivos de registro del servidor.</string>
     <string name="error_dialog_insufficient_storage">Su instancia de Nextcloud no tiene espacio de almacenamiento libre. Por favor, elimine algunos archivos para sincronizar sus cambios locales en su nube.</string>
     <string name="error_dialog_tip_files_delete_storage">Si detenerlas forzosamente no ayuda, puede intentar borrar el almacenamiento de ambas aplicaciones.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Por favor, intenta cerrar forzosamente la aplicación y reiniciarla nuevamente. Puede haber habido una conexión incorrecta con la aplicación Nextcloud.</string>
     <string name="error_dialog_title">¡Oh no! ¿Y ahora qué? 🙁</string>
     <string name="error_dialog_we_need_info">Necesitamos la siguiente información técnica para ayudarle:</string>
     <string name="error_maintenance_mode">El servidor está en modo de mantenimiento</string>

@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Jibu la seva yako halikuwa sahihi. Tafadhali angalia kama unaweza kufikia madokezo yako kupitia kiolesura cha wavuti.</string>
     <string name="error_dialog_check_server_logs">Kuna tatizo na usanidi wako wa Nextcloud. Tafadhali angalia faili za kumbukumbu za seva.</string>
     <string name="error_dialog_insufficient_storage">Mfano wako wa Nextcloud hauna hifadhi isiyolipishwa iliyosalia. Tafadhali futa baadhi ya faili ili kusawazisha mabadiliko yako ya ndani kwenye wingu lako.</string>
-    <string name="error_dialog_min_version">Programu ya Android Notes inahitaji programu za Nextcloud Android iwe toleo la 3.18.</string>
     <string name="error_dialog_redirect">Seva yako ilijibu kwa msimbo wa hali ya HTTP 302, ambayo ina maana, kuwa hujasakinisha programu ya Vidokezo kwenye seva yako au kuna kitu kimesanidiwa vibaya. Hii inaweza kusababishwa na ubatilishaji maalum katika faili ya .htaccess au programu za Nextcloud kama vile OID Client.</string>
     <string name="error_dialog_server_app_enabled">Tafadhali hakikisha kuwa umesakinisha na kuwezesha programu ya \"Vidokezo\" kwenye seva yako.</string>
     <string name="error_dialog_timeout_instance">Hakukuwa na jibu kutoka kwa seva yako kwa muda uliotolewa. Tafadhali hakikisha mfano wako unaendelea vizuri.</string>
     <string name="error_dialog_timeout_toggle">Angalia muunganisho wako wa mtandao. Wakati fulani kugeuza data ya simu au Wi-Fi kuzima na kuwasha tena kunaweza kusaidia.</string>
     <string name="error_dialog_tip_clear_storage">Unaweza kufuta hifadhi kwa kufungua maelezo ya programu na kuchagua Hifadhi → Futa hifadhi. ⚠️ Onyo: Hii itafuta madokezo ambayo bado hayajasawazishwa!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Tafadhali zima uboreshaji wote wa betri kwa Nextcloud na programu ya Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Ikiwa kulazimisha kuwazuia haisaidii, unaweza kujaribu kufuta uhifadhi wa programu zote mbili.</string>
-    <string name="error_dialog_tip_files_outdated">Programu yako ya Nextcloud inaonekana kuwa imepitwa na wakati. Tafadhali tembelea Play Store au F-Droid ili kupata toleo jipya zaidi.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Tafadhali jaribu kulazimisha kufunga programu na uiwashe upya. Huenda kulikuwa na muunganisho usio sahihi kwa programu ya Nextcloud.</string>
     <string name="error_dialog_title">Oh hapana- nini sasa?</string>
     <string name="error_dialog_we_need_info">Tunahitaji maelezo yafuatayo ya kiufundi ili kukusaidia:</string>
     <string name="error_maintenance_mode">Seva iko katika hali ya matengenezo</string>

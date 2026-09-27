@@ -120,16 +120,12 @@
     <string name="error_dialog_check_server">The response of your server was not correct. Please check whether you can access your notes via web interface.</string>
     <string name="error_dialog_check_server_logs">There is an issue with your Nextcloud setup. Please have a look into the server log files.</string>
     <string name="error_dialog_insufficient_storage">Your Nextcloud instance has no free storage left. Please delete some files to sync your local changes into your cloud.</string>
-    <string name="error_dialog_min_version">The Notes Android app requires the Nextcloud Android app to be at least version 3.18.</string>
     <string name="error_dialog_redirect">Your server did respond with a HTTP 302 status code, which implies, that you do not have installed the Notes app on your server or something is misconfigured. This can be caused by custom overrides in a .htaccess-file or by Nextcloud apps like OID Client.</string>
     <string name="error_dialog_server_app_enabled">Please make sure you have installed and enabled the "Notes" app on your server.</string>
     <string name="error_dialog_timeout_instance">There wasn\'t a response from your server in the given time. Please make sure your instance is running well.</string>
     <string name="error_dialog_timeout_toggle">Check your network connection. Sometime toggling the mobile data or Wi-Fi off and on again can help.</string>
     <string name="error_dialog_tip_clear_storage">You can clear the storage by opening the app info and selecting Storage → Clear storage. ⚠️ Warning: This will delete not yet synchronized notes!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Please disable all battery optimizations for Nextcloud and the Notes app.</string>
     <string name="error_dialog_tip_files_delete_storage">If force stopping them does not help, you can try to clear the storage of both apps.</string>
-    <string name="error_dialog_tip_files_outdated">Your Nextcloud app seems to be outdated. Please visit the Play Store or F-Droid to get the latest version.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Please try to force close the app and restart it again. There might have been an incorrect connection to the Nextcloud app.</string>
     <string name="error_dialog_title">Oh no - What now? 🙁</string>
     <string name="error_dialog_we_need_info">We need the following technical information to help you:</string>
     <string name="error_maintenance_mode">Server is in maintenance mode</string>

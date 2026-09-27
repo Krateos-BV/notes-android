@@ -119,17 +119,13 @@
     <string name="error_dialog_check_server">لم تكن استجابة الخادم صحيحة. يرجى التحقق مما إذا كان يمكنك الوصول إلى ملاحظاتك عبر واجهة الويب.</string>
     <string name="error_dialog_check_server_logs">هناك مشكلة في إعداد الخادم الخاص بك. يرجى مراجعة سجل أنشطة الخادم.</string>
     <string name="error_dialog_insufficient_storage">خادومك ليس لديه مساحة تخزين فارغة متبقية. يرجى حذف بعض الملفات لمزامنة تغييراتك المحلية في سحابتك.</string>
-    <string name="error_dialog_min_version">تطبيق الملاحظات Notes على الأندرويد يلزمه تطبيق Notes على نكست كلاود بإصدار لا يقل عن 3,18.</string>
     <string name="error_dialog_redirect">استجاب خادومك برمز حالة HTTP 302 ، مما يعني أنك لم تقم بتثبيت تطبيق Notes عليه أو أنه تم تكوين شيء ما بشكل خاطئ. يمكن أن يحدث هذا بسبب بعض التخصيصات في ملف htaccess أو تطبيقات Nextcloud مثل عميل OID.</string>
     <string name="error_dialog_server_app_enabled">يرجى التأكد من تنصيب و تفعيل تطبيق \"Notes\" على خادومك.</string>
     <string name="error_dialog_timeout_instance">لم تكن هناك استجابة من الخادم في الوقت المحدد. يرجى التأكد من أنه يعمل بشكل جيد.</string>
     <string name="error_dialog_timeout_toggle">تحقق من اتصالك بالشبكة. أحياناُ، يمكن لإيقاف ثم إعادة تشغيل بيانات الهاتف المحمول أو الواي فاي Wi-Fi أن يحل المشكل.</string>
     <string name="error_dialog_tip_clear_storage">يمكنك تنظيف ذاكرة التطبيق بفتح \"معلومات التطبيق\" app info ثم اختيار \"التخزين\" ثم \"محو التخزين\" Storage → Clear storage.
 ⚠️ تحذير: هذا سيؤدي إلى حذف الملاحظات التي لم تتم مزامنتها حتى الآن.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">يرجى تعطيل جميع تحسينات البطارية لـ Nextcloud وتطبيق Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">إذا لم يساعد إيقافهم بالقوة ، فيمكنك محاولة مسح تخزين كلا التطبيقين.</string>
-    <string name="error_dialog_tip_files_outdated">تطبيقك نيكست كلاود يبدو انه لم يتم تحديثه منذ وقت طويل. رجاءً، قم بزيارةمتجر تطبيقات \"إف-درويد\" f-droid للحصول على آخر إصدار منه.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">رجاءً، إفرض غلق التطبيق ثم أعد تشغيله، ربما هنالك خطأ في الاتصال مع تطبيق نيكست كلاود.</string>
     <string name="error_dialog_title">آه لا، ماذا الان؟🙁</string>
     <string name="error_dialog_we_need_info">نحتاج إلى المعلومات الفنية التالية لمساعدتك:</string>
     <string name="error_maintenance_mode">الخادم في وضع الصيانة</string>

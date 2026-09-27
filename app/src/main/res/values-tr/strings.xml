@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Sunucunuz doğru şekilde yanıt vermedi. Lütfen notlarınıza site arayüzü üzerinden erişebiliyor musunuz diye bakın.</string>
     <string name="error_dialog_check_server_logs">Nextcloud kurulumunuz ile ilgili bir sorun var. Lütfen sunucu günlük dosyalarını inceleyin.</string>
     <string name="error_dialog_insufficient_storage">Nextcloud kopyanızda boş depolama alanı kalmamış. Lütfen yerel değişikliklerinizi bulut ile eşitlemek için bazı dosyaları silerek yer açın.</string>
-    <string name="error_dialog_min_version">Notlar Android uygulamasının çalışması için Nextcloud Android uygulamasının en az 3.18 sürümü gereklidir</string>
     <string name="error_dialog_redirect">Sunucunuz, üzerine Notlar uygulamasının kurulmadığı ya da bir şeyin yanlış yapılandırıldığı anlamına gelen HTTP 302 durum kodu ile yanıt verdi. Bu durum, bir .htaccess dosyasındaki özel kısıtlamalardan ya da OID İstemcisi gibi Nextcloud uygulamalarından kaynaklanabilir.</string>
     <string name="error_dialog_server_app_enabled">Lütfen sunucunuzda \"Notlar\" uygulamasının kurulu ve kullanıma alınmış olduğundan emin olun.</string>
     <string name="error_dialog_timeout_instance">Belirtilen sürede sunucunuzdan bir yanıt alınamadı. Lütfen kopyanızın düzgün çalıştığından emin olun.</string>
     <string name="error_dialog_timeout_toggle">Ağ bağlantınızı denetleyin. Mobil veriye geçmek ya da kablosuz ağ bağlantısını kapatıp açmak yardımcı olabilir.</string>
     <string name="error_dialog_tip_clear_storage">Depolamayı temizlemek için uygulama bilgilerini açın ve Depolama (Hafıza) → Depolamayı temizle (Veriyi sil) seçin. ⚠️ Uyarı: Bu işlem henüz eşitlenmemiş notları silmeyecek!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Lütfen Nextcloud ve Notlar uygulaması için tüm pil iyileştirmelerini kapatın.</string>
     <string name="error_dialog_tip_files_delete_storage">Zorla durdurmak sorunu çözmediyse iki uygulamanın da depolamalarını temizlemeyi deneyebilirsiniz.</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud uygulamanız eski görünüyor. Lütfen son sürümü almak için Play Store ya da F-Droid mağazalarına gidin.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Lütfen uygulamayı zorla kapatıp yeniden başlatın. Yanlış bir Nextcloud uygulaması bağlantısı olmalı.</string>
     <string name="error_dialog_title">Hayıır. Şimdi ne olacak? 🙁</string>
     <string name="error_dialog_we_need_info">Size yardımcı olabilmemiz için şu teknik bilgilere gerek duyacağız:</string>
     <string name="error_maintenance_mode">Sunucu bakım kipinde</string>

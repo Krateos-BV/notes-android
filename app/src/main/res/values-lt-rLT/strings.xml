@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Atsakymas iš Jūsų serverio nebuvo teisingas. Patikrinkite, ar galite pasiekti savo užrašus naudodami žiniatinklio sąsają.</string>
     <string name="error_dialog_check_server_logs">Kyla problemų dėl jūsų „Nextcloud“ sąrankos. Peržiūrėkite serverio žurnalo įrašus.</string>
     <string name="error_dialog_insufficient_storage">„Nextcloud“ elementas nebeturi laisvos vietos saugykloje. Prašome, ištrinkite nereikalingus failus, kad lokalūs pakeitimai būtų sinchronizuoti su debesimi.</string>
-    <string name="error_dialog_min_version">Programėlei „Nextcloud Užrašai“ reikalinga ne senesnė nei 3.18 versijos „Nextcloud“ skirta „Android“ programėlė.</string>
     <string name="error_dialog_redirect">Jūsų serverio atsakymas turi HTTP 302 klaidos kodą, tai reiškia, kad jūs neįdiegėte „Užrašai“ programėlės savo serveryje arba ji įdiegta netinkamai. Taip galėjo dėl nustatymų pakeitimų .htaccess faile arba „Nextcloud“ programėlėje, tokios kaip OID klientas.</string>
     <string name="error_dialog_server_app_enabled">Įsitikinkite, kad įdiegėte ir įjungėte programėlę „Užrašai“ savo serveryje.</string>
     <string name="error_dialog_timeout_instance">Per nurodytą laiką iš jūsų serverio nebuvo atsakymo. Įsitikinkite, kad jūsų elementas veikia tinkamai.</string>
     <string name="error_dialog_timeout_toggle">Patikrinkite tinklo ryšį. Kartais gali padėti mobiliųjų duomenų arba „Wi-Fi“ išjungimas ir įjungimas.</string>
     <string name="error_dialog_tip_clear_storage">Atmintį galite išvalyti atidarydami programėlės informaciją ir pasirinkdami Atmintis → Išvalyti atmintį. ⚠️ Įspėjimas: tai ištrins dar nesinchronizuotus užrašus!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Išjunkite visus „Nextcloud“ ir „Užrašai“ programėlės akumuliatoriams optimizavimus.</string>
     <string name="error_dialog_tip_files_delete_storage">Jei priverstinis programėlės sustabdymas nepadėjo, galite pabandyti išvalyti abiejų programėlių saugyklas.</string>
-    <string name="error_dialog_tip_files_outdated">Panašu, kad jūsų „Nextcloud“ programėlės versija yra pasenusi. Norėdami gauti naujausią versiją, apsilankykite „Google Play“ parduotuvėje arba „F-Droid“.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Pabandykite priverstinai uždaryti programėlę ir paleisti ją iš naujo. Galbūt susidūrėte su ryšio su „Nextcloud“ programėle sutrikimu.</string>
     <string name="error_dialog_title">O, ne - Kas dabar? 🙁</string>
     <string name="error_dialog_we_need_info">Norint jums padėti, mums reikia techninės informacijos:</string>
     <string name="error_maintenance_mode">Serveris yra techninės priežiūros veiksenoje</string>

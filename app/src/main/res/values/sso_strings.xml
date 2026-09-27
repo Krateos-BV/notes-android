@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Nextcloud - Android Client
+  ~
+  ~ SPDX-FileCopyrightText: 2026 Nextcloud GmbH and Nextcloud contributors
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files not installed</string>
+    <string name="nextcloud_files_app_not_installed_message">This app depends on the Xenia Files app. Please install it in order to use this app.</string>
+    <string name="nextcloud_files_app_account_not_found_message">The requested account was not found in the Xenia Files app</string>
+    <string name="nextcloud_files_app_account_not_found_with_account_message" formatted="true">The account %1$s was not found in the Xenia Files app</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Xenia Files required</string>
+    <string name="nextcloud_files_app_no_store_installed_message">In order to continue please install the Xenia Files app on your device first.</string>
+    <string name="nextcloud_files_app_not_supported_title">Update Xenia Files app</string>
+    <string name="nextcloud_files_app_not_supported_message">Your Xenia Files app is an older version which does not yet support the Single Sign On feature.</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files app API is not responding. This is most likely due to battery optimizations on your phone. Try to disable the battery optimization for both apps (Xenia Files and this app). In all other cases please try to clear the storage of both apps.</string>
+
+    <string name="url_files_app_marketplace" translatable="false">market://details?id=eu.xeniacloud.files</string>
+    <string name="url_files_app_fdroid" translatable="false">https://play.google.com/store/apps/details?id=eu.xeniacloud.files</string>
+    <string name="url_install_nextcloud_client" translatable="false">https://play.google.com/store/apps/details?id=eu.xeniacloud.files</string>
+</resources>
