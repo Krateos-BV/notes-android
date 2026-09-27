@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design táknmyndir</string>
     <string name="about_icons_disclaimer_mdi_icons">Allar aðrar táknmyndir eru gerðar af Google Inc. %1$s og útgefnar samkvæmt Apache 2.0 hugbúnaðarleyfinu.</string>
     <string name="about_icons_disclaimer_title">Táknmyndir</string>
-    <string name="about_issues">Þú getur tilkynnt um villur, beðið um viðbótareiginleika og betrumbætur á GitHub villuskrásetjaranum: %1$s</string>
     <string name="about_issues_title">Villutilkynningar</string>
     <string name="about_license_tab_title">Notkunarleyfi</string>
     <string name="about_maintainer_title">Umsjónarmaður</string>

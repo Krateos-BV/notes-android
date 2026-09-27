@@ -200,7 +200,7 @@
     <string name="error_unknown">An unknown error has occurred.</string>
 
     <string name="url_source" translatable="false">https://github.com/Krateos-BV/notes-android</string>
-    <string name="url_issues" translatable="false">https://github.com/nextcloud/notes-android/issues/new/choose</string>
+    <string name="url_issues" translatable="false">https://xeniacloud.eu/contact/</string>
     <string name="url_license" translatable="false">https://github.com/Krateos-BV/notes-android/blob/main/LICENSE</string>
     <string name="url_translations" translatable="false">https://app.transifex.com/nextcloud/nextcloud/</string>
     <string name="url_niedermann_it" translatable="false">https://www.niedermann.it/</string>
@@ -223,7 +223,7 @@
     <string name="about_source_title">Source code</string>
     <string name="about_source">This project is hosted on GitHub: %1$s</string>
     <string name="about_issues_title">Issues</string>
-    <string name="about_issues">You can report bugs, enhancement proposals and feature requests at the GitHub issue tracker: %1$s</string>
+    <string name="about_issues">You can report bugs, enhancement proposals and feature requests to the XeniaCloud support assistant: %1$s</string>
     <string name="about_translate_title">Translate</string>
     <string name="about_translate">Join the Nextcloud team on Transifex and help us to translate this app: %1$s</string>
     <string name="about_app_license_title">App license</string>

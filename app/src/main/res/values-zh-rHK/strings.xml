@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design 圖示</string>
     <string name="about_icons_disclaimer_mdi_icons">此應用程序使用的所有其他圖標 %1$s 均由Google Inc. 製造，並根據Apache 2.0許可獲得許可。</string>
     <string name="about_icons_disclaimer_title">圖示</string>
-    <string name="about_issues">您可以在 GitHub 問題舉報系統舉報錯誤、改善建議及功能需求：%1$s</string>
     <string name="about_issues_title">問題</string>
     <string name="about_license_tab_title">授權條款</string>
     <string name="about_maintainer_title">保養員</string>

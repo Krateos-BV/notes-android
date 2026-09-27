@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design Icons</string>
     <string name="about_icons_disclaimer_mdi_icons">Bu uygulama tarafından kullanılan tüm simgeler %1$s Google Inc. tarafından oluşturulmuştur ve Apache 2.0 Lisansı koşullarına göre lisanslanmıştır.</string>
     <string name="about_icons_disclaimer_title">Simgeler</string>
-    <string name="about_issues">Sorun, istek ve önerilerinizi GitHub sorun izleyiciye yazabilirsiniz: %1$s</string>
     <string name="about_issues_title">Sorunlar</string>
     <string name="about_license_tab_title">Lisans</string>
     <string name="about_maintainer_title">Sorumlu</string>

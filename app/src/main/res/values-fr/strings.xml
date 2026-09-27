@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Icônes Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Les icônes suivantes utilisées dans cette applications sont %1$s réalisées par Google Inc. et sous licence Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Icônes</string>
-    <string name="about_issues">Vous pouvez signaler des anomalies, suggérer des améliorations et demander de nouvelles fonctionnalités sur GitHub : %1$s</string>
     <string name="about_issues_title">Bugs</string>
     <string name="about_license_tab_title">Licence</string>
     <string name="about_maintainer_title">Responsable</string>

@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Iconas Material Desig</string>
     <string name="about_icons_disclaimer_mdi_icons">Todas as iconas usadas nesta aplicación %1$sforon feitas por Google Inc. e licenciadas baixo unha Licenza Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Iconas</string>
-    <string name="about_issues">Vde. pode informar de fallos, propoñer melloras e solicitar funcionalidades na ferramenta de seguimento de incidencias do GitHub: %1$s</string>
     <string name="about_issues_title">Incidencias</string>
     <string name="about_license_tab_title">Licenza</string>
     <string name="about_maintainer_title">Mantedor</string>

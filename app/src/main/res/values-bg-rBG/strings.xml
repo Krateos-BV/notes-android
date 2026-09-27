@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Икони за материален дизайн</string>
     <string name="about_icons_disclaimer_mdi_icons">Всички следващи икони, използвани от това приложение, са%1$s направени от Google Inc. и лицензирани под  Apache 2.0 лиценз.</string>
     <string name="about_icons_disclaimer_title">Икони</string>
-    <string name="about_issues">Можете да съобщите за грешки, предложения за подобрения и заявки за функции на GitHub issue tracker/проследяване напроблеми/: %1$s</string>
     <string name="about_issues_title">Проблеми</string>
     <string name="about_license_tab_title">Лиценз</string>
     <string name="about_maintainer_title">Отговорник</string>

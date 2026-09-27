@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design 图标</string>
     <string name="about_icons_disclaimer_mdi_icons">本应用所使用的所有其他图标为 %1$s，其由 Google Inc. 制作并在 Apache 2.0 许可证下授权</string>
     <string name="about_icons_disclaimer_title">图标</string>
-    <string name="about_issues">你可以通过GitHub议题跟踪器报告bug、提议增强已有功能和请求新功能：%1$s</string>
     <string name="about_issues_title">问题</string>
     <string name="about_license_tab_title">授权</string>
     <string name="about_maintainer_title">维护者</string>

@@ -10,7 +10,6 @@
     <string name="about_icons_disclaimer_mdi">Iconas de Gràfica Materiale</string>
     <string name="about_icons_disclaimer_mdi_icons">Totu is iconas in prus impreadas dae custa aplicatzione sunt %1$s creadas dae Google Inc. e suta lissèntzia Apache 2.0 License.</string>
     <string name="about_icons_disclaimer_title">Iconas</string>
-    <string name="about_issues">Podes sinnalare unu problema, fàghere propostas de megioramentu e rechestas de funtzionalidades a su rilevadore de problemas de GitHub: %1$s</string>
     <string name="about_issues_title">Problemas</string>
     <string name="about_license_tab_title">Lissèntzia</string>
     <string name="about_maintainer_title">Responsàbile</string>

@@ -10,7 +10,6 @@
     <string name="about_icons_disclaimer_mdi">Material Design-kuvakkeet</string>
     <string name="about_icons_disclaimer_mdi_icons">Kaikki muut tämän sovelluksen kuvakkeet on %1$s tehnyt Google Inc. ja ne on lisensoitu Apache 2.0 lisenssillä.</string>
     <string name="about_icons_disclaimer_title">Kuvakkeet</string>
-    <string name="about_issues">Voit raportoida virheitä ja ehdottaa parannuksia ja uusia tomintoja GitHub:n ongelmien seuraaja toiminnolla: %1$s</string>
     <string name="about_issues_title">Ongelmat</string>
     <string name="about_license_tab_title">Lisenssi</string>
     <string name="about_maintainer_title">Ylläpitäjät</string>

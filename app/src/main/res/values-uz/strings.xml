@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Materiallar dizayni piktogrammalari</string>
     <string name="about_icons_disclaimer_mdi_icons">Ushbu ilova tomonidan ishlatiladigan barcha boshqa piktogrammalar Google Inc. tomonidan ishlab chiqarilgan %1$s boʻlib, Apache 2.0 litsenziyasi ostida litsenziyalangan.</string>
     <string name="about_icons_disclaimer_title">Belgilar</string>
-    <string name="about_issues">Xatolar, takomillashtirish takliflari va funksiya soʻrovlari haqida GitHub muammo kuzatuvchisida xabar berishingiz mumkin: %1$s</string>
     <string name="about_issues_title">Muammolar</string>
     <string name="about_license_tab_title">Litsenziya</string>
     <string name="about_maintainer_title">Ta\'minotchi</string>

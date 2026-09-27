@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">マテリアルデザインアイコン</string>
     <string name="about_icons_disclaimer_mdi_icons">このアプリで使用しているすべてのアイコンは、%1$sGoogle Inc.によって作成されたもので、Apache 2.0利用許諾によって許諾されています。</string>
     <string name="about_icons_disclaimer_title">アイコン</string>
-    <string name="about_issues">GitHub の問題追跡ツールで、不具合、拡張の提案、機能のリクエストを報告できます: %1$s</string>
     <string name="about_issues_title">問題</string>
     <string name="about_license_tab_title">利用許諾</string>
     <string name="about_maintainer_title">管理者</string>

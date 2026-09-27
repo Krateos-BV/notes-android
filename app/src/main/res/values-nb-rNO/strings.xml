@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Materialdesignikoner</string>
     <string name="about_icons_disclaimer_mdi_icons">Alle øvrige ikoner brukt i denne appen er %1$s laget av Google Inc. og lisensiert under Apache 2.0-lisens.</string>
     <string name="about_icons_disclaimer_title">Ikoner</string>
-    <string name="about_issues">Du kan rapportere inn feil, forbedringsforslag og funksjonsforespørsler på GitHub issue tracker: %1$s</string>
     <string name="about_issues_title">Feil</string>
     <string name="about_license_tab_title">Lisens</string>
     <string name="about_maintainer_title">Vedlikeholder</string>

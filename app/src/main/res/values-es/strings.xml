@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Íconos de Diseño Material</string>
     <string name="about_icons_disclaimer_mdi_icons">Todos los demás íconos utilizados por esta aplicación están %1$s hechos por Google Inc. y están bajo la licencia Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Íconos</string>
-    <string name="about_issues">Puede informar de errores, proponer mejoras y solicitar nuevas características en el rastreador de problemas de GitHub: %1$s</string>
     <string name="about_issues_title">Problemas</string>
     <string name="about_license_tab_title">Licencia</string>
     <string name="about_maintainer_title">Mantenedor</string>

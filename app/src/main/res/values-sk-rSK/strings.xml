@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">Ikony v štýle Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">Všetky ďalšie ikony, ktoré používa táto aplikácia, sú %1$s vyrobené spoločnosťou Google Inc. a licencované na základe licencie Apache 2.0 License.</string>
     <string name="about_icons_disclaimer_title">Ikony</string>
-    <string name="about_issues">Hlásenia chýb, návrhy na vylepšenia a požiadavky na funkcie môžete nahlásiť na GitHub: %1$s</string>
     <string name="about_issues_title">Problémy</string>
     <string name="about_license_tab_title">Licencia</string>
     <string name="about_maintainer_title">Udržovateľ</string>

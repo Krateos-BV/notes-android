@@ -11,7 +11,6 @@
     <string name="about_icons_disclaimer_mdi">icones de Material Design</string>
     <string name="about_icons_disclaimer_mdi_icons">La resta d\'icones que utilitza aquesta aplicació són %1$s fetes per Google Inc. i publicades sota la llicència Apache 2.0.</string>
     <string name="about_icons_disclaimer_title">Icones</string>
-    <string name="about_issues">Podeu informar d\'errors, proposar millores i demanar noves funcionalitats al gestor d\'errors de GitHub: %1$s</string>
     <string name="about_issues_title">Errors</string>
     <string name="about_license_tab_title">Llicència</string>
     <string name="about_maintainer_title">Manteniment</string>
