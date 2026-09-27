@@ -527,8 +527,8 @@
     <string name="placeholder_user_status" translatable="false">Online</string>
     <string name="ecosystem_apps_display_files">Files</string>
     <string name="ecosystem_apps_display_talk">Talk</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
-    <string name="ecosystem_apps_more">More Nextcloud Apps</string>
+    <string name="ecosystem_apps_talk">Xenia Talk</string>
+    <string name="ecosystem_apps_more">More Xenia Apps</string>
     <string name="ecosystem_apps_display_more">More</string>
     <string name="activity_sharing_title">Sharing</string>
     <string name="activity_sharing_details_title">Sharing Details</string>
