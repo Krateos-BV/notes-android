@@ -184,7 +184,7 @@
     <string name="settings_background_sync">Background synchronization</string>
     <string name="settings_prevent_screen_capture">Prevent screen capture</string>
     <string name="settings_show_ecosystem_apps">Show app switcher</string>
-    <string name="settings_show_ecosystem_apps_summary">Nextcloud app suggestions in navigation heading</string>
+    <string name="settings_show_ecosystem_apps_summary">Xenia app suggestions in navigation heading</string>
     <string name="settings_gridview">Grid view</string>
     <string name="settings_enable_direct_edit">Direct Edit</string>
     <string name="settings_enable_direct_edit_summary">When disabled, the advanced editor will be hidden.</string>
@@ -204,13 +204,13 @@
     <string name="url_license" translatable="false">https://github.com/Krateos-BV/notes-android/blob/main/LICENSE</string>
     <string name="url_translations" translatable="false">https://app.transifex.com/nextcloud/nextcloud/</string>
     <string name="url_niedermann_it" translatable="false">https://www.niedermann.it/</string>
-    <string name="url_about_icon_author" translatable="false">https://github.com/nextcloud/notes/blob/76d15214f80f2bf7ea08427bff73ad145128f090/img/notes.svg</string>
+    <string name="url_about_icon_author" translatable="false">https://github.com/Krateos-BV/files-android/blob/main/app/src/main/res/drawable/ic_launcher_foreground.xml</string>
     <string name="url_about_icons_disclaimer_mdi" translatable="false">https://materialdesignicons.com/</string>
 
     <string name="about_version_title">Version</string>
     <string name="about_version">You are currently using %1$s</string>
     <string name="about_maintainer_title">Maintainer</string>
-    <string name="about_maintainer" translatable="false">Nextcloud</string>
+    <string name="about_maintainer" translatable="false">XeniaCloud</string>
     <string name="about_developers_title">Developers</string>
     <string name="about_developers" translatable="false">%1$s, Kristof Hamann, HeaDBanGer84, Felix Edelmann, Daniel Bailey</string>
     <string name="about_developers_stefan" translatable="false">Stefan Niedermann (%1$s)</string>
@@ -527,8 +527,8 @@
     <string name="placeholder_user_status" translatable="false">Online</string>
     <string name="ecosystem_apps_display_files">Files</string>
     <string name="ecosystem_apps_display_talk">Talk</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
-    <string name="ecosystem_apps_more">More Nextcloud Apps</string>
+    <string name="ecosystem_apps_talk">Xenia Talk</string>
+    <string name="ecosystem_apps_more">More Xenia Apps</string>
     <string name="ecosystem_apps_display_more">More</string>
     <string name="activity_sharing_title">Sharing</string>
     <string name="activity_sharing_details_title">Sharing Details</string>

@@ -5,17 +5,24 @@
 # SPDX-FileCopyrightText: 2022 Álvaro Brey <alvaro@alvarobrey.com>
 # SPDX-License-Identifier: GPL-3.0-or-later
 
+# XNT-235: this workflow's daily cron queued against the ubuntu-latest-low
+# label, which no runner here ever serves, so every scheduled run was
+# cancelled roughly 24h later by the next one -- it has never completed,
+# once, since it was added. Automatic scheduling is disabled until that is
+# confirmed fixed; run it manually via workflow_dispatch to verify a hosted
+# runner picks it up, then restore the schedule below.
+# schedule:
+#   - cron: '0 0 * * *'
 name: 'Close stale issues'
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 # Declare default permissions as read only.
 permissions: read-all
 
 jobs:
   stale:
-    runs-on: ubuntu-latest-low
+    runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write

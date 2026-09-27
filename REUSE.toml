@@ -22,3 +22,9 @@ path = ["app/src/main/res/mipmap-**dpi/ic_launcher.png"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2026 XeniaCloud"
 SPDX-License-Identifier = "GPL-3.0-or-later"
+
+[[annotations]]
+path = ["app/src/main/res/drawable/ic_launcher_foreground.xml", "app/src/dev/res/drawable/ic_launcher_foreground.xml", "app/src/qa/res/drawable/ic_launcher_foreground.xml"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 XeniaCloud"
+SPDX-License-Identifier = "GPL-3.0-or-later"

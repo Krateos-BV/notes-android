@@ -10,10 +10,18 @@
 # SPDX-FileCopyrightText: 2023 Florian Steffens <florian.steffens@nextcloud.com>
 # SPDX-License-Identifier: MIT
 
+# XNT-235: this job's own condition (repository_owner == 'nextcloud') can
+# never be true in this fork (Krateos-BV), and its content is upstream's
+# community-management survey -- so the daily cron below both queued
+# against a nonexistent runner label and would have been a permanent no-op
+# even if it had run. Disabled; kept reachable via workflow_dispatch only
+# for verifying the label problem is understood, not because this workflow
+# has any use in this fork.
+# schedule:
+#   - cron: '30 1 * * *'
 name: 'Ask for feedback on PRs'
 on:
-  schedule:
-    - cron: '30 1 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -22,7 +30,7 @@ permissions:
 jobs:
   pr-feedback:
     if: ${{ github.repository_owner == 'nextcloud' }}
-    runs-on: ubuntu-latest-low
+    runs-on: ubuntu-latest
     steps:
       - name: The get-github-handles-from-website action
         uses: marcelklehr/get-github-handles-from-website-action@06b2239db0a48fe1484ba0bfd966a3ab81a08308 # v1.0.1

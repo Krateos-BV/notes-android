@@ -4,17 +4,23 @@
 # SPDX-FileCopyrightText: 2023 Álvaro Brey <alvaro@alvarobrey.com>
 # SPDX-License-Identifier: GPL-3.0-or-later
 
+# XNT-235: this job's own condition (actor == 'nextcloud-android-bot')
+# can never be true in this fork -- that bot only opens PRs upstream -- so
+# the automatic trigger below never produces a signal, it only silently
+# skips. Disabled until this fork gets its own sync-approval actor; kept
+# reachable via workflow_dispatch for testing.
+# pull_request_target: # zizmor: ignore[dangerous-triggers]
+#   branches:
+#     - master
+#     - main
+#   types:
+#     - opened
+#     - reopened
+#     - synchronize
+#     - labeled
 name: Auto approve sync
 on:
-  pull_request_target: # zizmor: ignore[dangerous-triggers]
-    branches:
-      - master
-      - main
-    types:
-      - opened
-      - reopened
-      - synchronize
-      - labeled
+  workflow_dispatch:
 
 concurrency:
   group: sync-approve-${{ github.head_ref || github.run_id }}
@@ -26,7 +32,7 @@ permissions:
 jobs:
   auto-approve:
     name: Auto approve sync
-    runs-on: ubuntu-latest-low
+    runs-on: ubuntu-latest
     if: ${{ contains(github.event.pull_request.labels.*.name, 'sync') && github.actor == 'nextcloud-android-bot' }}
     steps:
       - name: Disabled on forks
