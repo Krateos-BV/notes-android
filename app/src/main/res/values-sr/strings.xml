@@ -17,8 +17,6 @@
     <string name="about_source">Овај пројекат се налази на Гитхабу: %1$s</string>
     <string name="about_source_title">Изворни кôд</string>
     <string name="about_testers_title">Тестери</string>
-    <string name="about_translate">Придружите се Некстклауд тиму на Трансифексу и помозите нам да преведемо ову апликацију: %1$s</string>
-    <string name="about_translate_title">Преведи</string>
     <string name="about_translators_title">Преводиоци</string>
     <string name="about_translators_transifex">Некстклауд заједница на %1$s</string>
     <string name="about_version">Тренутно користите %1$s</string>

@@ -17,8 +17,6 @@
     <string name="about_source">این پروژه در GitHub میزبانی شده است: %1$s</string>
     <string name="about_source_title">کد منبع</string>
     <string name="about_testers_title">آزمایش‌کنندگان</string>
-    <string name="about_translate">در Transifex به تیم Nextcloud بپیوندید و در ترجمه این برنامه به ما کمک کنید: %1$s</string>
-    <string name="about_translate_title">ترجمه</string>
     <string name="about_translators_title">مترجم</string>
     <string name="about_translators_transifex">انجمن نکست‌کلود در %1$s</string>
     <string name="about_version">شما در حال استفاده %1$s هستید</string>

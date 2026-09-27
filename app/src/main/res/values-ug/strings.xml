@@ -17,8 +17,6 @@
     <string name="about_source">بۇ تۈر GitHub دا: %1$s</string>
     <string name="about_source_title">مەنبە كودى</string>
     <string name="about_testers_title">سىناق قىلغۇچىلار</string>
-    <string name="about_translate">Transifex دىكى Nextcloud ئەترىتىگە قوشۇلۇڭ ۋە بىزنىڭ بۇ ئەپنى تەرجىمە قىلىشىمىزغا ياردەملىشىڭ: %1$s</string>
-    <string name="about_translate_title">تەرجىمە</string>
     <string name="about_translators_title">تەرجىمانلار</string>
     <string name="about_translators_transifex">%1$s دىكى Nextcloud مەھەللىسى</string>
     <string name="about_version">ھازىر %1$s ئىشلىتىۋاتىسىز</string>

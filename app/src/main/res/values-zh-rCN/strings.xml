@@ -17,8 +17,6 @@
     <string name="about_source">此项目托管在GitHub上：%1$s</string>
     <string name="about_source_title">源代码</string>
     <string name="about_testers_title">测试人员</string>
-    <string name="about_translate">加入 Transifex 上的 Nextcloud 团队，帮助我们翻译这个应用程序：%1$s</string>
-    <string name="about_translate_title">翻译</string>
     <string name="about_translators_title">翻译人员</string>
     <string name="about_translators_transifex">%1$s 上的 Nextcloud 社区</string>
     <string name="about_version">您正使用 %1$s</string>

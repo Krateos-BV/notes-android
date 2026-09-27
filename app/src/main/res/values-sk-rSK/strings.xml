@@ -17,8 +17,6 @@
     <string name="about_source">Tento projekt sa nachádza na sieti GitHub: %1$s</string>
     <string name="about_source_title">Zdrojový kód</string>
     <string name="about_testers_title">Testeri</string>
-    <string name="about_translate">Pripojte sa k tímu Nextcloud na stránke Transifex a pomožte nám s prekladom tejto apky: %1$s</string>
-    <string name="about_translate_title">Preložiť</string>
     <string name="about_translators_title">Prekladatelia</string>
     <string name="about_translators_transifex">Nextcloud komunita na %1$s</string>
     <string name="about_version">Momentálne používate %1$s</string>

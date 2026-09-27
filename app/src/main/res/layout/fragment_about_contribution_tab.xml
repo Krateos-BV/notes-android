@@ -43,20 +43,5 @@
             android:layout_height="wrap_content"
             android:paddingTop="@dimen/spacer_1x"
             android:text="@string/about_issues" />
-
-        <TextView
-            android:id="@+id/about_translate_headline"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/spacer_2x"
-            android:text="@string/about_translate_title"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/about_translate"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:paddingTop="@dimen/spacer_1x"
-            android:text="@string/about_translate" />
     </LinearLayout>
 </ScrollView>

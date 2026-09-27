@@ -17,8 +17,6 @@
     <string name="about_source">Bu proje GitHub üzerinde barındırılmaktadır: %1$s</string>
     <string name="about_source_title">Kaynak kodu</string>
     <string name="about_testers_title">Deneyenler</string>
-    <string name="about_translate">Transifex üzerindeki Nextcloud takımına katılarak uygulamanın çevirisini yapmamıza yardımcı olabilirsiniz: %1$s</string>
-    <string name="about_translate_title">Çevirin</string>
     <string name="about_translators_title">Çevirmenler</string>
     <string name="about_translators_transifex">%1$s üzerindeki Nextcloud topluluğu</string>
     <string name="about_version">Şu anda %1$s kullanıyorsunuz</string>

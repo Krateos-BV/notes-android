@@ -16,8 +16,6 @@
     <string name="about_source">Custu progetu nch\'est allogadu in GitHub: %1$s</string>
     <string name="about_source_title">Còdighe fonte</string>
     <string name="about_testers_title">Collaudadores</string>
-    <string name="about_translate">Iscrie·ti a s\'iscuadra de Nextcloud in Transifex e agiuda·nos a bortare custa aplicatzione: %1$s</string>
-    <string name="about_translate_title">Borta</string>
     <string name="about_translators_title">Tradutores</string>
     <string name="about_translators_transifex">Comunidade Nextcloud in su %1$s</string>
     <string name="about_version">Immoe ses impreende %1$s</string>

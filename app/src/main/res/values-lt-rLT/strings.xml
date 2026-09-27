@@ -17,8 +17,6 @@
     <string name="about_source">Šis projektas talpinamas „GitHub“: %1$s</string>
     <string name="about_source_title">Pradinis kodas</string>
     <string name="about_testers_title">Testuotojai</string>
-    <string name="about_translate">Prisijunkite prie „Nextcloud“ komandos „Transifex“ platformoje ir padėkite mums išversti šią programėlę: %1$s</string>
-    <string name="about_translate_title">Versti</string>
     <string name="about_translators_title">Vertėjai</string>
     <string name="about_translators_transifex">„Nextcloud“ bendruomenė, esanti %1$s</string>
     <string name="about_version">Šiuo metu naudojate %1$s</string>

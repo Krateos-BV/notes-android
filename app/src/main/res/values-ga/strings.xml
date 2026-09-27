@@ -17,8 +17,6 @@
     <string name="about_source">Tá an tionscadal seo á óstáil ar GitHub: %1$s</string>
     <string name="about_source_title">Cód foinse</string>
     <string name="about_testers_title">Tástálaithe</string>
-    <string name="about_translate">Bí ar fhoireann Nextcloud ar Transifex agus cuidigh linn an aip seo a aistriú: %1$s</string>
-    <string name="about_translate_title">Aistrigh</string>
     <string name="about_translators_title">Aistritheoirí</string>
     <string name="about_translators_transifex">Pobal Nextcloud ar %1$s</string>
     <string name="about_version">Tá tú ag úsáid faoi láthair %1$s</string>

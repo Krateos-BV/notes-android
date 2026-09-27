@@ -33,7 +33,6 @@ public class AboutFragmentContributingTab extends BrandedFragment {
         binding = FragmentAboutContributionTabBinding.inflate(inflater, container, false);
         setTextWithURL(binding.aboutSource, getResources(), R.string.about_source, R.string.url_source, R.string.url_source);
         setTextWithURL(binding.aboutIssues, getResources(), R.string.about_issues, R.string.url_issues, R.string.url_issues);
-        setTextWithURL(binding.aboutTranslate, getResources(), R.string.about_translate, R.string.url_translations, R.string.url_translations);
         return binding.getRoot();
     }
 
@@ -44,7 +43,5 @@ public class AboutFragmentContributingTab extends BrandedFragment {
         util.platform.colorTextView(binding.aboutIssues, ColorRole.ON_SURFACE_VARIANT);
         util.platform.colorTextView(binding.aboutSourceHeadline);
         util.platform.colorTextView(binding.aboutSource, ColorRole.ON_SURFACE_VARIANT);
-        util.platform.colorTextView(binding.aboutTranslateHeadline);
-        util.platform.colorTextView(binding.aboutTranslate, ColorRole.ON_SURFACE_VARIANT);
     }
 }

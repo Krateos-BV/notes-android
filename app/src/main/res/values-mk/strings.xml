@@ -13,7 +13,6 @@
     <string name="about_source">Овој проект е хостиран на GitHub: %1$s</string>
     <string name="about_source_title">Изворен код</string>
     <string name="about_testers_title">Тестери</string>
-    <string name="about_translate_title">Преведи</string>
     <string name="about_translators_title">Преведувачи</string>
     <string name="about_translators_transifex">Nextcloud заедницата на %1$s</string>
     <string name="about_version">Моментално користите %1$s</string>

@@ -17,8 +17,6 @@
     <string name="about_source">Dette projekt hostes på GitHub: %1$s</string>
     <string name="about_source_title">Kildekode</string>
     <string name="about_testers_title">Testere</string>
-    <string name="about_translate">Bliv en del af Nextcloudholdet på Transifex, og hjælp os med at oversætte denne app: %1$s</string>
-    <string name="about_translate_title">Oversæt</string>
     <string name="about_translators_title">Oversættere</string>
     <string name="about_translators_transifex">Nextcloud fællesskabet på %1$s</string>
     <string name="about_version">Du bruger lige nu %1$s</string>
