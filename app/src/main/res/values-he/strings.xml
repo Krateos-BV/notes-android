@@ -16,8 +16,6 @@
     <string name="about_source">הפרוייקט מתארח ב GitHub %1$s</string>
     <string name="about_source_title">קוד מקור</string>
     <string name="about_testers_title">בודקים</string>
-    <string name="about_translate">ניתן להצטרף לצוות של Nextcloud ב־Transifex ולסייע לנו לתרגם את היישומון הזה: %1$s</string>
-    <string name="about_translate_title">תרגום</string>
     <string name="about_translators_title">מתרגמים</string>
     <string name="about_translators_transifex">קהילת nextcloud ב %1$s</string>
     <string name="about_version">אתה משתמש כרגע ב%1$s</string>

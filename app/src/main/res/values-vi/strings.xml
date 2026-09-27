@@ -16,8 +16,6 @@
     <string name="about_source">Dự án này được lưu trữ trên GitHub: %1$s</string>
     <string name="about_source_title">Mã nguồn</string>
     <string name="about_testers_title">Người thử nghiệm</string>
-    <string name="about_translate">Tham gia nhóm Nextcloud trên Transifex và giúp chúng tôi dịch ứng dụng này: %1$s</string>
-    <string name="about_translate_title">Dịch</string>
     <string name="about_translators_title">Người phiên dịch</string>
     <string name="about_translators_transifex">Cộng đồng Nextcloud trên %1$s</string>
     <string name="about_version">Hiện tại bạn đang sử dụng %1$s</string>

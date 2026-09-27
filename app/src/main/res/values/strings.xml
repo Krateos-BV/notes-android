@@ -224,8 +224,6 @@
     <string name="about_source">This project is hosted on GitHub: %1$s</string>
     <string name="about_issues_title">Issues</string>
     <string name="about_issues">You can report bugs, enhancement proposals and feature requests to the XeniaCloud support assistant: %1$s</string>
-    <string name="about_translate_title">Translate</string>
-    <string name="about_translate">Join the Nextcloud team on Transifex and help us to translate this app: %1$s</string>
     <string name="about_app_license_title">App license</string>
     <string name="about_app_license">This application is licensed under the GNU GENERAL PUBLIC LICENSE v3+.</string>
     <string name="about_app_license_button">View license</string>

@@ -17,8 +17,6 @@
     <string name="about_source">本項目寄存於 GitHub 上：%1$s</string>
     <string name="about_source_title">原始碼</string>
     <string name="about_testers_title">測試員</string>
-    <string name="about_translate">歡迎加入 Transifex 的 Nextcloud 團隊並協助翻譯此應用程式：%1$s</string>
-    <string name="about_translate_title">翻譯</string>
     <string name="about_translators_title">翻譯員</string>
     <string name="about_translators_transifex">%1$s 上的 Nextcloud 社群</string>
     <string name="about_version">你目前使用 %1$s</string>

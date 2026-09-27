@@ -17,8 +17,6 @@
     <string name="about_source">Este proxecto está aloxado en GitHub: %1$s</string>
     <string name="about_source_title">Código fonte</string>
     <string name="about_testers_title">Probadores</string>
-    <string name="about_translate">Únase ao equipo Nextcloud en Transifex e axúdenos a traducir esta aplicación: %1$s</string>
-    <string name="about_translate_title">Traducir</string>
     <string name="about_translators_title">Tradutores</string>
     <string name="about_translators_transifex">Comunidade Nextcloud en %1$s</string>
     <string name="about_version">Agora está a empregar %1$s</string>

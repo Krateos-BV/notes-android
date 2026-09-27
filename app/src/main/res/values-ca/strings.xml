@@ -17,8 +17,6 @@
     <string name="about_source">Aquest projecte s\'allotja a GitHub: %1$s</string>
     <string name="about_source_title">Codi font</string>
     <string name="about_testers_title">Verificació</string>
-    <string name="about_translate">Uniu-vos a l\'equip del Nextcloud a Transifex i ajudeu-nos a traduir aquesta aplicació: %1$s</string>
-    <string name="about_translate_title">Traducció</string>
     <string name="about_translators_title">Traducció</string>
     <string name="about_translators_transifex">Comunitat del Nextcloud a %1$s</string>
     <string name="about_version">Actualment, teniu la versió %1$s</string>

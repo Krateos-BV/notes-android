@@ -16,8 +16,6 @@
     <string name="about_source">이 프로젝트는 깃허브에 호스팅 중입니다: %1$s</string>
     <string name="about_source_title">소스 코드</string>
     <string name="about_testers_title">테스터</string>
-    <string name="about_translate">Transifex의 Nextcloud팀에 가입해서 번역을 도와주세요: %1$s</string>
-    <string name="about_translate_title">번역</string>
     <string name="about_translators_title">번역자</string>
     <string name="about_translators_transifex">%1$s에 위치한 Nextcloud 커뮤니티</string>
     <string name="about_version"> 현재 %1$s사용 중</string>

@@ -17,8 +17,6 @@
     <string name="about_source">Bu loyiha GitHub’da joylashgan: %1$s</string>
     <string name="about_source_title">Manba kodi</string>
     <string name="about_testers_title">Sinovchilar</string>
-    <string name="about_translate">Transifex’dagi Nextcloud jamoasiga qo‘shiling va bizga ushbu ilovani tarjima qilishda yordam bering: %1$s</string>
-    <string name="about_translate_title">Tarjima</string>
     <string name="about_translators_title">Tarjimonlar</string>
     <string name="about_translators_transifex"> %1$s da NextCloud hamjamiyati</string>
     <string name="about_version">Siz hozirda %1$s dan foydalanyapsiz</string>

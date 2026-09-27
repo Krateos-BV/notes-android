@@ -17,8 +17,6 @@
     <string name="about_source">Tento projekt je hostován na portálu GitHub: %1$s</string>
     <string name="about_source_title">Zdrojové kódy</string>
     <string name="about_testers_title">Testeři</string>
-    <string name="about_translate">Připojte se k týmu Nexcloud na portálu Transifex a pomozte nám překládat (i) tuto aplikaci: %1$s</string>
-    <string name="about_translate_title">Překládání</string>
     <string name="about_translators_title">Překladatelé</string>
     <string name="about_translators_transifex">Nextcloud komunita na portálu %1$s</string>
     <string name="about_version">Nyní používáte %1$s</string>

@@ -17,8 +17,6 @@
     <string name="about_source">This project is hosted on GitHub: %1$s</string>
     <string name="about_source_title">Source code</string>
     <string name="about_testers_title">Testers</string>
-    <string name="about_translate">Join the Nextcloud team on Transifex and help us to translate this app: %1$s</string>
-    <string name="about_translate_title">ແປ</string>
     <string name="about_translators_title">Translators</string>
     <string name="about_translators_transifex">Nextcloud community on %1$s</string>
     <string name="about_version">You are currently using %1$s</string>

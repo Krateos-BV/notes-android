@@ -17,8 +17,6 @@
     <string name="about_source">Ovaj je projekt smješten na platformi GitHub: %1$s</string>
     <string name="about_source_title">Izvorni kod</string>
     <string name="about_testers_title">Ispitivači</string>
-    <string name="about_translate">Pridružite se Nextcloudovom timu na Transifexu i pomozite nam da prevedemo ovu aplikaciju: %1$s</string>
-    <string name="about_translate_title">Prevedi</string>
     <string name="about_translators_title">Prevoditelji</string>
     <string name="about_translators_transifex">Zajednica Nextcloud na %1$s</string>
     <string name="about_version">Trenutno se koristite %1$s</string>

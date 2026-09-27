@@ -17,8 +17,6 @@
     <string name="about_source">Proiektu hau GitHuben ostatatuta dago: %1$s</string>
     <string name="about_source_title">Iturburu-kodea</string>
     <string name="about_testers_title">Probatzaileak</string>
-    <string name="about_translate">Elkartu Nextcloud taldera Transifexen eta lagundu app hau itzultzen: %1$s</string>
-    <string name="about_translate_title">Itzuli</string>
     <string name="about_translators_title">Itzultzaileak</string>
     <string name="about_translators_transifex">%1$s Nextcloud komunitatea</string>
     <string name="about_version">%1$s erabiltzen ari zara</string>

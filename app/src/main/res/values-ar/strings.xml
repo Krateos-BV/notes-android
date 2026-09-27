@@ -17,8 +17,6 @@
     <string name="about_source">هذا المشروع مستضاف على Github: %1$s</string>
     <string name="about_source_title">الكود المصدري</string>
     <string name="about_testers_title">المجَرِّبون</string>
-    <string name="about_translate">إنضم إلى فريق نكست كلاود على Transifex وساعد في ترجمة هذا التطبيق: %1$s</string>
-    <string name="about_translate_title">تَرجِم</string>
     <string name="about_translators_title">المترجِمون</string>
     <string name="about_translators_transifex">مجتمع نكست كلاود على %1$s</string>
     <string name="about_version">أنت حاليّاً تستعمل %1$s</string>

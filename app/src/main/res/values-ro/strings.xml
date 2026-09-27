@@ -16,8 +16,6 @@
     <string name="about_source">Acest proiect este găzduit pe GitHub: %1$s</string>
     <string name="about_source_title">Cod sursă</string>
     <string name="about_testers_title">Testeri</string>
-    <string name="about_translate">Alăturați-vă echipei Nextcloud de pe Transifex și ajutați-ne să traducem această aplicație:%1$s</string>
-    <string name="about_translate_title">Tradu</string>
     <string name="about_translators_title">Traducători</string>
     <string name="about_translators_transifex">Comunitatea Nextcloud pe %1$s</string>
     <string name="about_version">În momentul de față folosești %1$s</string>

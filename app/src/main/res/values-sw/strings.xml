@@ -17,8 +17,6 @@
     <string name="about_source">Mradi huu unafanyiwa wenyeji katika GitHub: %1$s</string>
     <string name="about_source_title">Msimbo wa chanzo</string>
     <string name="about_testers_title">Wajaribu</string>
-    <string name="about_translate">Jiunge na timu ya Nextcloud kwenye Transifex na utusaidie kutafsiri programu hii: %1$s</string>
-    <string name="about_translate_title">Tafsiri</string>
     <string name="about_translators_title">Watafsiri</string>
     <string name="about_translators_transifex">Jamii ya Nextcloud juu ya %1$s</string>
     <string name="about_version">Sasa unatumia %1$s</string>

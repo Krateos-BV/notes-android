@@ -17,8 +17,6 @@
     <string name="about_source">Selle projekti lähtekood on GitHubis: %1$s</string>
     <string name="about_source_title">Lähtekood</string>
     <string name="about_testers_title">Testijad</string>
-    <string name="about_translate">Liitu Nextcloudi tiimiga Transifexis ja aita meil seda rakendust tõlkida: %1$s</string>
-    <string name="about_translate_title">Tõlgi</string>
     <string name="about_translators_title">Tõlkijad</string>
     <string name="about_translators_transifex">Nextcloudi kogukond: %1$s</string>
     <string name="about_version">Sul on hetkel kasutusel: %1$s</string>

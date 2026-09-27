@@ -16,8 +16,6 @@
     <string name="about_source">Tämä projekti on GitHubissa: %1$s</string>
     <string name="about_source_title">Lähdekoodi</string>
     <string name="about_testers_title">Testaajat</string>
-    <string name="about_translate">Liity Nextcloud joukkoon Transflex:ssa ja auta meitä tämän sovelluksen käännöstyössä: %1$s</string>
-    <string name="about_translate_title">Käännä</string>
     <string name="about_translators_title">Kääntäjät</string>
     <string name="about_translators_transifex">Nextcloud-yhteisö paikassa %1$s</string>
     <string name="about_version">Käytössäsi on %1$s</string>
