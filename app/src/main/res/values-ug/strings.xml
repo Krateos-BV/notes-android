@@ -128,9 +128,7 @@
     <string name="error_dialog_tip_clear_storage">ئەپ ئۇچۇرىنى ئېچىش ۋە ساقلاش → ساقلاشنى تاللاش ئارقىلىق ساقلاشنى تازىلىيالايسىز. ئاگاھلاندۇرۇش: بۇ تېخى ماس قەدەملىك خاتىرىلەرنى ئۆچۈرمەيدۇ!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Nextcloud ۋە ئىزاھات دېتالىنىڭ بارلىق باتارېيە ئەلالاشتۇرۇشىنى چەكلەڭ.</string>
     <string name="error_dialog_tip_files_delete_storage">ئەگەر ئۇلارنى توسۇشنىڭ پايدىسى بولمىسا ، ھەر ئىككى ئەپنىڭ ساقلاش بوشلۇقىنى تازىلىسىڭىز بولىدۇ.</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloud دېتالىڭىزدا خاتالىق باردەك قىلىدۇ. Nextcloud دېتالى ۋە Nextcloud ئىزاھلىرى دېتالىنى ھەر ئىككىسىنى توختىتىشقا مەجبۇرلاڭ.</string>
     <string name="error_dialog_tip_files_outdated">Nextcloud دېتالىڭىزنىڭ ۋاقتى ئۆتكەندەك قىلىدۇ. ئەڭ يېڭى نەشرىگە ئېرىشىش ئۈچۈن Play Store ياكى F-Droid نى زىيارەت قىلىڭ.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">ئەگەر مەسىلە يەنە داۋاملاشسا ، بۇ مەسىلىنى ھەل قىلىش ئۈچۈن Nextcloud ۋە Nextcloud ئىزاھاتىنىڭ ھەر ئىككى ئەپنىڭ ساقلىنىشىنى تازىلاپ بېقىڭ.</string>
     <string name="error_dialog_tip_token_mismatch_retry">ئەپنى تاقاپ قايتا قوزغىتىڭ. Nextcloud دېتالىغا خاتا ئۇلىنىش بولۇشى مۇمكىن.</string>
     <string name="error_dialog_title">ھە ياق - ھازىرچۇ؟ 🙁</string>
     <string name="error_dialog_we_need_info">سىزگە ياردەم قىلىش ئۈچۈن تۆۋەندىكى تېخنىكىلىق ئۇچۇرلار لازىم:</string>

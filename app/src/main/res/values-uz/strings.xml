@@ -124,9 +124,7 @@
     <string name="error_dialog_tip_clear_storage">Ilova maʼlumotlarini ochib, Xotira → Xotirani tozalash ni tanlash orqali xotirani tozalashingiz mumkin. ⚠️ Ogohlantirish: Bu hali sinxronlanmagan qaydlarni oʻchirib tashlaydi!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Nextcloud va Notes ilovasi uchun batareya quvvatini optimallashtirishni o‘chirib qo‘ying.</string>
     <string name="error_dialog_tip_files_delete_storage">Agar ularni majburan to\'xtatish yordam bermasa, ikkala ilovaning xotirasini tozalashga urinib ko\'rishingiz mumkin.</string>
-    <string name="error_dialog_tip_files_force_stop">Nextcloud ilovangizda nimadir noto‘g‘ri ko‘rinadi. Iltimos, ikkalasini ham, Nextcloud ilovasini va Nextcloud Notes ilovasini majburan to‘xtatishga harakat qiling.</string>
     <string name="error_dialog_tip_files_outdated">Nextcloud ilovangiz eskirganga o‘xshaydi. Eng soʻnggi versiyani olish uchun Play Store yoki F-Droid saytiga tashrif buyuring.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Muammo davom etsa, ushbu muammoni hal qilish uchun ikkala ilovaning xotirasini tozalashga harakat qiling: Nextcloud va Nextcloud Notes.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Iltimos, ilovani majburan yopishga urinib koʻring va uni qayta ishga tushiring. Nextcloud ilovasiga notoʻgʻri ulanish boʻlishi mumkin.</string>
     <string name="error_dialog_title">Yo\'q - Endi nima? 🙁</string>
     <string name="error_dialog_we_need_info">Sizga yordam berish uchun bizga quyidagi texnik ma\'lumotlar kerak:</string>

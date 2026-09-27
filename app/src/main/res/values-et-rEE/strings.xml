@@ -129,9 +129,7 @@
     <string name="error_dialog_tip_clear_storage">Andmeruumi saad tühjendada, kui avad rakenduse teabe ning valid „Andmeruum“ → „Tühjenda andmeruum“.  ⚠️ Hoiatus: sellega kustutad ka senisünkroniseerimata märkmed!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Palun keela Nextcloudi ja Märkmete rakenduste jaoks akukasutuse optimeerimine.</string>
     <string name="error_dialog_tip_files_delete_storage">Kui rakenduste jõuga peatamine ei eita, siis proovi tühjendada mõlema andmeruumid.</string>
-    <string name="error_dialog_tip_files_force_stop">Midagi on valesti sinu Nextcloudi rakendusega. Proovi jõuga peatada nii Nextcloudi kliendi kui Nextcloudi Märkmete rakenduse töö.</string>
     <string name="error_dialog_tip_files_outdated">Sinu Nextcloudi rakendus tundub olema aegunud. Palun laadi Play Store\'i või F-Droidi rakendustepoest viimane versioon.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Kui probleem jätkub, siis proovi selle lahendamiseks tühjendada mõlema rakenduse andmeruumid: Nextcloud ja Nextcloudi Märkmed.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Palun  proovi sundkorras rakendus kinni panna ja siis uuesti käivitada. Tegemist võis olla ühenduse veaga Nextcloudi serveri ja rakenduse vahel.</string>
     <string name="error_dialog_title">Appikene, mis nüüd saab? 🙁</string>
     <string name="error_dialog_we_need_info">Me vajame sinult järgnevat tehnilist teavet:</string>

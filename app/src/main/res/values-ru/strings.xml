@@ -129,9 +129,7 @@
     <string name="error_dialog_tip_clear_storage">Вы можете очистить хранилище, открыв информацию о приложении и выбрав Хранилище → Очистить хранилище. ⚠️ Предупреждение: это удалит еще не синхронизированные заметки!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Пожалуйста, отключите оптимизацию энергопотребления для Nextcloud и Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Если принудительная остановка не поможет, попробуйте очистить хранилище обоих приложений.</string>
-    <string name="error_dialog_tip_files_force_stop">Похоже что с вашим приложением Nextcloud что-то не так. Попробуйте принудительно остановить оба приложения Nextcloud и Nextcloud Notes. </string>
     <string name="error_dialog_tip_files_outdated">Ваше приложение Nextcloud устарело. Установите новую версию с Play Store или F-Droid.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Если проблема повторилась, попробуйте для ее решения очистить хранилище обоих приложений: Nextcloud и Nextcloud Notes</string>
     <string name="error_dialog_tip_token_mismatch_retry">Попробуйте принудительно закрыть приложение и запустить его снова. Это может быть связано с некорректным подключением к приложению Nextcloud.</string>
     <string name="error_dialog_title">О нет, что теперь? 🙁</string>
     <string name="error_dialog_we_need_info">Требуется следующая техническая информация от вас:</string>

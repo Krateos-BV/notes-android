@@ -140,12 +140,8 @@
     <string name="error_dialog_tip_disable_battery_optimizations">Gerðu allar bestanir á rafhlöðunotkun óvirkar fyrir Nextcloud og
  Notes-forritið.</string>
     <string name="error_dialog_tip_files_delete_storage">Ef þvinguð stöðvun leysir ekki vandamálið, skaltu reyna að hreinsa geymslurými beggja forritanna.</string>
-    <string name="error_dialog_tip_files_force_stop">Eitthvað virðist vera í ólagi með Nextcloud-forritið þitt. Reyndu að þvinga
- fram stöðvun beggja forritanna, Nextcloud og Nextcloud Notes.</string>
     <string name="error_dialog_tip_files_outdated">Nextcloud-forritið þitt lítur út fyrir að vera úrelt. Farðu inn á Play Store
  eða F-Droid til að sækja nýjustu útgáfuna.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Ef vandamálið er viðvarandi, skaltu reyna að hreinsa geymslurými beggja
- forritanna, Nextcloud og Nextcloud Notes, til að leysa málið.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Prófaðu að þvinga lokun á forritinu og endurræsa það síðan. Mögulega hefur verið röng tenging við Nextcloud-forritið.</string>
     <string name="error_dialog_title">Ó-nei - Hvað nú? 🙁</string>
     <string name="error_dialog_we_need_info">Við þurfum eftirfarandi tæknilegar upplýsingar til að geta aðstoðað þig:</string>

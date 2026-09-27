@@ -129,9 +129,7 @@
     <string name="error_dialog_tip_clear_storage">Is féidir leat an stóráil a ghlanadh tríd an eolas app a oscailt agus Stóráil → Stóráil Glan a roghnú. ⚠️ Rabhadh: Scriosfaidh sé seo nótaí nach bhfuil sioncronaithe fós!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Díchumasaigh gach leas iomlán a bhaint ceallraí le haghaidh Nextcloud agus an aip Nótaí le do thoil.</string>
     <string name="error_dialog_tip_files_delete_storage">Más rud é nach bhfeidhm chun stop a chur leo cabhrú, is féidir leat triail a ghlanadh a stóráil an dá apps.</string>
-    <string name="error_dialog_tip_files_force_stop">Is cosúil go bhfuil rud éigin cearr le d’aip Nextcloud. Déan iarracht le do thoil stop a chur leis an dá, an aip Nextcloud agus an aip Nextcloud Notes.</string>
     <string name="error_dialog_tip_files_outdated">Is cosúil go bhfuil d\'aip Nextcloud as dáta. Tabhair cuairt ar an Store Súgartha nó F-Droid chun an leagan is déanaí a fháil le do thoil.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Má leanann an cheist, déan iarracht stóráil an dá apps a ghlanadh: Nextcloud agus Nextcloud Notes chun an cheist seo a réiteach.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Déan iarracht iallach a chur ar an aip a dhúnadh agus í a atosú arís le do thoil. Seans go raibh nasc mícheart leis an aip Nextcloud.</string>
     <string name="error_dialog_title">Ó ní hea - Cad anois? 🙁</string>
     <string name="error_dialog_we_need_info">Tá an fhaisnéis theicniúil seo a leanas ag teastáil uainn chun cabhrú leat:</string>
