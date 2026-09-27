@@ -1,6 +1,7 @@
 <!--
   ~ Nextcloud Notes - Android Client
   ~
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-FileCopyrightText: 2018-2024 Nextcloud GmbH and Nextcloud contributors
   ~ SPDX-FileCopyrightText: 2023 Álvaro Brey <alvaro@alvarobrey.com>
   ~ SPDX-FileCopyrightText: 2018-2020 Stefan Niedermann <info@niedermann.it>
@@ -9,14 +10,16 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
-    android:viewportWidth="24"
-    android:viewportHeight="24">
-  <group android:scaleX="0.45"
-      android:scaleY="0.45"
-      android:translateX="6.6"
-      android:translateY="6.6">
-      <path
-          android:fillColor="@android:color/white"
-          android:pathData="M20.71,7.04C21.1,6.65 21.1,6 20.71,5.63L18.37,3.29C18,2.9 17.35,2.9 16.96,3.29L15.12,5.12L18.87,8.87M3,17.25V21H6.75L17.81,9.93L14.06,6.18L3,17.25Z" />
-  </group>
+    android:viewportWidth="480"
+    android:viewportHeight="480">
+    <group
+        android:scaleX="1.041667"
+        android:scaleY="1.041667"
+        android:translateX="-35.70501"
+        android:translateY="13.034049">
+        <path
+            android:fillColor="#ffffff"
+            android:fillType="nonZero"
+            android:pathData="m 188,296 c -36,0 -64,-28 -64,-62 0,-34 26,-61 60,-62 6,-40 38,-68 76,-68 38,0 70,28 76,68 34,1 60,28 60,62 0,34 -28,62 -64,62 z" />
+    </group>
 </vector>

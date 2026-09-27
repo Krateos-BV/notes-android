@@ -12,13 +12,15 @@
     android:height="108dp"
     android:viewportWidth="24"
     android:viewportHeight="24">
-    <group android:scaleX="0.45"
-        android:scaleY="0.45"
-        android:translateX="6.6"
-        android:translateY="6.6">
+    <group
+        android:scaleX="0.225"
+        android:scaleY="0.225"
+        android:translateX="1.13"
+        android:translateY="9.03">
         <path
-            android:fillColor="@android:color/white"
-            android:pathData="M20.71,7.04C21.1,6.65 21.1,6 20.71,5.63L18.37,3.29C18,2.9 17.35,2.9 16.96,3.29L15.12,5.12L18.87,8.87M3,17.25V21H6.75L17.81,9.93L14.06,6.18L3,17.25Z" />
+            android:fillColor="#ffffff"
+            android:fillType="nonZero"
+            android:pathData="m 188,296 c -36,0 -64,-28 -64,-62 0,-34 26,-61 60,-62 6,-40 38,-68 76,-68 38,0 70,28 76,68 34,1 60,28 60,62 0,34 -28,62 -64,62 z" />
     </group>
     <group
         android:scaleX=".075"
