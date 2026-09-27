@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Svaret fra din server var ikke korrekt. Tjek venligst om du kan tilgå dine noter via webgrænsefladen.</string>
     <string name="error_dialog_check_server_logs">Der er et problem med din opsætning af Nextcloud. Kig venligst i serverens logfiler. </string>
     <string name="error_dialog_insufficient_storage">Din Nextcloud-instans har ikke mere ledig lagerplads. Slet venligst nogle filer for at synkronisere dine lokale ændringer ind i skyen.</string>
-    <string name="error_dialog_min_version">Noter Android-appen kræver, at Nextcloud Android-appen er mindst version 3.18.</string>
     <string name="error_dialog_redirect">Din server svarede med en HTTP 302-statuskode, hvilket betyder, at du endnu ikke har installeret app\'en Noter på din server, eller at der er en forkert konfiguration. Dette kan skyldes brugerdefinerede tilsidesættelser i en .htaccess-fil eller af apps fra Nextcloud som OID Client.</string>
     <string name="error_dialog_server_app_enabled">Tjek venligst, om du har installeret og aktiveret appen \"Noter\" på din server.</string>
     <string name="error_dialog_timeout_instance">Der var intet svar fra din server på nuværende tidspunkt. Sørg venligst for at sikre, at din instans kører rigtigt. </string>
     <string name="error_dialog_timeout_toggle">Tjek din netværksforbindelse. Undertiden kan det hjælpe at slukke og tænde for mobildata eller wifi.</string>
     <string name="error_dialog_tip_clear_storage">Du kan rydde lageret ved at åbne appoplysningerne og vælge Lager → Ryd lager. ⚠️ Advarsel: Dette vil slette endnu ikke synkroniserede noter!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Deaktivér venligst alle batterioptimeringer for Nextcloud og Noter-appen.</string>
     <string name="error_dialog_tip_files_delete_storage">Hvis det ikke hjælper at stoppe begge, så kan du forsøge at rydde lagerpladsen for begge apps.</string>
-    <string name="error_dialog_tip_files_outdated">Din Nextcloud-app ser ud til at være forældet. Gå venligst til Play Butik eller F-Droid for at få seneste version.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Forsøg venligst at tvinge app\'en til at lukke og start den påny igen. Der kan have været en ukorrekt forbindelse til Nextcloud-app\'en.</string>
     <string name="error_dialog_title">Åh nej - hvad nu? 🙁</string>
     <string name="error_dialog_we_need_info">Vi har brug for følgende tekniske information for at hjælpe dig:</string>
     <string name="error_maintenance_mode">Serveren er i vedligeholdelsestilstand</string>

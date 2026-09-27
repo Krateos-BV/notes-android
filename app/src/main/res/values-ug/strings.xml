@@ -120,16 +120,12 @@
     <string name="error_dialog_check_server">مۇلازىمېتىرىڭىزنىڭ ئىنكاسى توغرا ئەمەس. خاتىرىلىرىڭىزنى تور كۆرۈنمە يۈزى ئارقىلىق زىيارەت قىلالايدىغان ياكى قىلالمايدىغانلىقىنى تەكشۈرۈپ بېقىڭ.</string>
     <string name="error_dialog_check_server_logs">Nextcloud تەڭشىكىڭىزدە مەسىلە بار. مۇلازىمېتىر خاتىرى ھۆججىتىنى كۆرۈپ بېقىڭ.</string>
     <string name="error_dialog_insufficient_storage">Nextcloud مىسالىڭىزدا ھەقسىز ساقلاش بوشلۇقى قالمىدى. يەرلىك ھۆججەتلىرىڭىزنى بۇلۇتقا ماسقەدەملەش ئۈچۈن بەزى ھۆججەتلەرنى ئۆچۈرۈڭ.</string>
-    <string name="error_dialog_min_version">Notes ئاندىرويىد دېتالى Nextcloud ئاندىرويىد دېتالىنىڭ كەم دېگەندە 3.18 نەشرى بولۇشىنى تەلەپ قىلىدۇ.</string>
     <string name="error_dialog_redirect">مۇلازىمېتىرىڭىز HTTP 302 ھالەت كودى بىلەن جاۋاب قايتۇردى ، بۇ سىزنىڭ ئىزاھات دېتالىنى مۇلازىمېتىرىڭىزغا قاچىلىمىغانلىقىڭىزنى ياكى بىرەر ئىشنىڭ خاتا ئۆزگەرتىلگەنلىكىنى كۆرسىتىدۇ. بۇنى .htaccess ھۆججىتىدىكى ئىختىيارى قاپلاش ياكى OID Client غا ئوخشاش Nextcloud ئەپلىرى كەلتۈرۈپ چىقىرىدۇ.</string>
     <string name="error_dialog_server_app_enabled">مۇلازىمېتىرىڭىزغا «ئىزاھات» دېتالىنى ئورناتقانلىقىڭىزنى جەزملەشتۈرۈڭ.</string>
     <string name="error_dialog_timeout_instance">بېرىلگەن ۋاقىتتا مۇلازىمېتىرىڭىزدىن ھېچقانداق جاۋاب كەلمىدى. مىسالىڭىزنىڭ ياخشى يۈرۈشىگە كاپالەتلىك قىلىڭ.</string>
     <string name="error_dialog_timeout_toggle">تور ئۇلىنىشىڭىزنى تەكشۈرۈڭ. بەزى ۋاقىتلاردا كۆچمە سانلىق مەلۇمات ياكى Wi-Fi نى قايتا قوزغىتىپ قايتا قوزغىتىشقا پايدىسى بار.</string>
     <string name="error_dialog_tip_clear_storage">ئەپ ئۇچۇرىنى ئېچىش ۋە ساقلاش → ساقلاشنى تاللاش ئارقىلىق ساقلاشنى تازىلىيالايسىز. ئاگاھلاندۇرۇش: بۇ تېخى ماس قەدەملىك خاتىرىلەرنى ئۆچۈرمەيدۇ!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Nextcloud ۋە ئىزاھات دېتالىنىڭ بارلىق باتارېيە ئەلالاشتۇرۇشىنى چەكلەڭ.</string>
     <string name="error_dialog_tip_files_delete_storage">ئەگەر ئۇلارنى توسۇشنىڭ پايدىسى بولمىسا ، ھەر ئىككى ئەپنىڭ ساقلاش بوشلۇقىنى تازىلىسىڭىز بولىدۇ.</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud دېتالىڭىزنىڭ ۋاقتى ئۆتكەندەك قىلىدۇ. ئەڭ يېڭى نەشرىگە ئېرىشىش ئۈچۈن Play Store ياكى F-Droid نى زىيارەت قىلىڭ.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">ئەپنى تاقاپ قايتا قوزغىتىڭ. Nextcloud دېتالىغا خاتا ئۇلىنىش بولۇشى مۇمكىن.</string>
     <string name="error_dialog_title">ھە ياق - ھازىرچۇ؟ 🙁</string>
     <string name="error_dialog_we_need_info">سىزگە ياردەم قىلىش ئۈچۈن تۆۋەندىكى تېخنىكىلىق ئۇچۇرلار لازىم:</string>
     <string name="error_maintenance_mode">مۇلازىمېتىر ئاسراش ھالىتىدە</string>

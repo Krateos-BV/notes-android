@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Servern gav ett ogiltigt svar. Kontrollera att du har tillgång till dina anteckningar genom din webbläsare.</string>
     <string name="error_dialog_check_server_logs">Det finns problem med din Nextcloud-installation. Ta gärna en titt i serverns loggfiler. </string>
     <string name="error_dialog_insufficient_storage">Din Nextcloud-installation har slut på diskutrymme. Ta bort några filer för att kunna synkronisera ändringar till ditt moln.</string>
-    <string name="error_dialog_min_version">Anteckningar Android-appen kräver att Nextcloud Android-appen är minst version 3.18.</string>
     <string name="error_dialog_redirect">Din server svarade med ett HTTP 302 statusmeddelande, vilket innebär att du inte har installerat Notes-appen på din server eller att något är felkonfigurerat. Detta kan orsakas av manuella ändringar i en .htaccess-fil eller av Nextcloud-appar som \"OID Client\".</string>
     <string name="error_dialog_server_app_enabled">Se till att du har installerat och aktiverat Notes-appen på din server.</string>
     <string name="error_dialog_timeout_instance">Din server svarade inte inom den angivna tiden. Kontrollera att den fungerar normalt.</string>
     <string name="error_dialog_timeout_toggle">Kontrollera din nätverkanslutning. Ibland kan det hjälpa att slå av och slå på mobildata Wi-Fi.</string>
     <string name="error_dialog_tip_clear_storage">Du kan tömma lagringsminnet genom att öppna appinfo och välja Lagring  → Tömma minne. ⚠️ Varning! Åtgärden tar bort anteckning som ännu inte synkroniserats.</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Stäng av alla batterioptimeringar för Nextcloud och Notes-appen.</string>
     <string name="error_dialog_tip_files_delete_storage">Om tvångsavslutning ej hjälper kan du försöka rensa datan på båda appar.</string>
-    <string name="error_dialog_tip_files_outdated">Din Nextcloud-app verkar utdaterad. Besök Play Butiken eller F-Droid för att hämta senaste versionen</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Försök att tvångsavsluta appen och starta om den. En felaktig anslutning till Nextcloud-appen kan ha förekommit.</string>
     <string name="error_dialog_title">Å nej - Vad händer nu?🙁</string>
     <string name="error_dialog_we_need_info">Vi behöver följande teknisk information för att kunna hjälpa dig:</string>
     <string name="error_maintenance_mode">Servern står i underhållsläge</string>

@@ -116,16 +116,12 @@
     <string name="error_dialog_check_server">Respons dari server Anda tidak benar. Silakan periksa apakah Anda dapat mengakses catatan Anda melalui antarmuka web.</string>
     <string name="error_dialog_check_server_logs">Ada masalah dengan penyiapan Nextcloud Anda. Silakan lihat berkas log server.</string>
     <string name="error_dialog_insufficient_storage">Instansi Nextcloud Anda tidak memiliki penyimpanan gratis yang tersisa. Silakan hapus beberapa berkas untuk menyinkronkan perubahan lokal Anda ke cloud Anda.</string>
-    <string name="error_dialog_min_version">Aplikasi Android Catatan membutuhkan aplikasi Nextcloud Android setidaknya versi 3.18.</string>
     <string name="error_dialog_redirect">Server Anda merespon dengan kode status HTTP 302, yang menandakan bahwa aplikasi Catatan tidak terpasang di server Anda atau ada yang salah konfigurasi. Hal ini bisa disebabkan oleh penimpaan khusus di .htaccess-file atau aplikasi Nextcloud seperti Klien OID.</string>
     <string name="error_dialog_server_app_enabled">Pastikan Anda telah menginstal dan mengaktifkan aplikasi \"Catatan\" di server Anda.</string>
     <string name="error_dialog_timeout_instance">Tidak ada respons dari server Anda dalam waktu yang diberikan. Pastikan instansi Anda berjalan dengan baik.</string>
     <string name="error_dialog_timeout_toggle">Periksa koneksi jaringan Anda. Kadang-kadang mematikan dan menghidupkan kembali data seluler atau Wi-Fi dapat membantu.</string>
     <string name="error_dialog_tip_clear_storage">Anda dapat membersihkan penyimpanan dengan membuka info aplikasi dan memilih Penyimpanan → Bersihkan penyimpanan. ⚠️ Peringatan: Tindakan ini akan menghapus catatan yang belum disinkronkan!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Mohon nonaktifkan semua optimisasi baterai untuk Nextcloud dan aplikasi Catatan.</string>
     <string name="error_dialog_tip_files_delete_storage">Jika menghentikan paksa mereka tidak membantu, Anda dapat mencoba untuk membersihkan penyimpanan kedua aplikasi.</string>
-    <string name="error_dialog_tip_files_outdated">Aplikasi Nextcloud Anda tampaknya sudah usang. Silakan kunjungi Play Store atau F-Droid untuk mendapatkan versi terbaru.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Silakan mencoba untuk menutup aplikasi secara paksa dan mulai ulang. Mungkin ada koneksi yang tidak benar ke aplikasi Nextcloud.</string>
     <string name="error_dialog_title">Aduh — apa sekarang? 🙁</string>
     <string name="error_dialog_we_need_info">Kami membutuhkan informasi teknis berikut untuk membantu Anda.</string>
     <string name="error_maintenance_mode">Server sedang dalam mode perawatan</string>

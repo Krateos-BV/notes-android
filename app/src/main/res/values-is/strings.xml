@@ -123,8 +123,6 @@
  minnispunktana þína í gegnum vefviðmótið.</string>
     <string name="error_dialog_check_server_logs">Það er vandamál með Nextcloud-uppsetninguna þína. Athugaðu atvikaskrár netþjónsins.</string>
     <string name="error_dialog_insufficient_storage">Nextcloud-netþjónninn þinn á ekkert laust geymslupláss eftir. Eyddu einhverjum skrám til að geta samstillt breytingar á tækinu yfir í skýið.</string>
-    <string name="error_dialog_min_version">Minnispunktaforritið Notes á Android krefst þess að Nextcloud- forritið á
- Android sé að minnsta kosti af útgáfu 3.18.</string>
     <string name="error_dialog_redirect">Þjónninn þinn svaraði með HTTP 302 stöðukóðae, sem bendir til að þú hafir
  ekki sett Notes minnispunktaforritið upp á netþjóninum eða að eitthvað sé
  vanstillt. Þetta getur komið til vegna sérsniðinna skipana í .htaccess-skrá
@@ -137,12 +135,7 @@
     <string name="error_dialog_tip_clear_storage">Þú getur hreinsað geymslurýmið með því að opna upplýsingar forritsins og
  velja Geymslurými → Hreinsa geymslurými. ⚠️ Aðvörun: Þetta mun eyða þeim
  minnispunktum sem ekki hafa verið samstilltir!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Gerðu allar bestanir á rafhlöðunotkun óvirkar fyrir Nextcloud og
- Notes-forritið.</string>
     <string name="error_dialog_tip_files_delete_storage">Ef þvinguð stöðvun leysir ekki vandamálið, skaltu reyna að hreinsa geymslurými beggja forritanna.</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud-forritið þitt lítur út fyrir að vera úrelt. Farðu inn á Play Store
- eða F-Droid til að sækja nýjustu útgáfuna.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Prófaðu að þvinga lokun á forritinu og endurræsa það síðan. Mögulega hefur verið röng tenging við Nextcloud-forritið.</string>
     <string name="error_dialog_title">Ó-nei - Hvað nú? 🙁</string>
     <string name="error_dialog_we_need_info">Við þurfum eftirfarandi tæknilegar upplýsingar til að geta aðstoðað þig:</string>
     <string name="error_maintenance_mode">Þjónninn er í viðhaldsham</string>

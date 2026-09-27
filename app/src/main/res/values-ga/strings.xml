@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Ní raibh freagra do fhreastalaí ceart. Seiceáil le do thoil an féidir leat rochtain a fháil ar do nótaí trí chomhéadan gréasáin.</string>
     <string name="error_dialog_check_server_logs">Tá fadhb ann le do shocrú Nextcloud. Breathnaigh le do thoil ar chomhaid logála an fhreastalaí.</string>
     <string name="error_dialog_insufficient_storage">Níl aon stóras saor in aisce fágtha ag do shampla Nextcloud. Scrios roinnt comhad chun d\'athruithe áitiúla a shioncronú isteach i do néal.</string>
-    <string name="error_dialog_min_version">Éilíonn an aip Nótaí Android go bhfuil an aip Android Nextcloud ar a laghad leagan 3.18.</string>
     <string name="error_dialog_redirect">D\'fhreagair do fhreastalaí le cód stádais HTTP 302, rud a thugann le tuiscint, nach bhfuil an aip Nótaí suiteáilte agat ar do fhreastalaí nó go bhfuil rud éigin míchumraithe. Is féidir é seo a bheith mar chúis le sáruithe saincheaptha i gcomhad .htaccess nó trí apps Nextcloud cosúil le Cliant OID.</string>
     <string name="error_dialog_server_app_enabled">Cinntigh le do thoil go bhfuil an aip \"Nótaí\" suiteáilte agus cumasaithe agat ar do fhreastalaí.</string>
     <string name="error_dialog_timeout_instance">Ní raibh freagra ó do fhreastalaí san am tugtha. Cinntigh le do thoil go bhfuil do chás ag feidhmiú go maith.</string>
     <string name="error_dialog_timeout_toggle">Seiceáil do cheangal líonra. Uaireanta is féidir cabhrú le scoránaigh na sonraí soghluaiste nó Wi-Fi as agus ar aghaidh.</string>
     <string name="error_dialog_tip_clear_storage">Is féidir leat an stóráil a ghlanadh tríd an eolas app a oscailt agus Stóráil → Stóráil Glan a roghnú. ⚠️ Rabhadh: Scriosfaidh sé seo nótaí nach bhfuil sioncronaithe fós!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Díchumasaigh gach leas iomlán a bhaint ceallraí le haghaidh Nextcloud agus an aip Nótaí le do thoil.</string>
     <string name="error_dialog_tip_files_delete_storage">Más rud é nach bhfeidhm chun stop a chur leo cabhrú, is féidir leat triail a ghlanadh a stóráil an dá apps.</string>
-    <string name="error_dialog_tip_files_outdated">Is cosúil go bhfuil d\'aip Nextcloud as dáta. Tabhair cuairt ar an Store Súgartha nó F-Droid chun an leagan is déanaí a fháil le do thoil.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Déan iarracht iallach a chur ar an aip a dhúnadh agus í a atosú arís le do thoil. Seans go raibh nasc mícheart leis an aip Nextcloud.</string>
     <string name="error_dialog_title">Ó ní hea - Cad anois? 🙁</string>
     <string name="error_dialog_we_need_info">Tá an fhaisnéis theicniúil seo a leanas ag teastáil uainn chun cabhrú leat:</string>
     <string name="error_maintenance_mode">Tá an freastalaí i mód cothabhála</string>

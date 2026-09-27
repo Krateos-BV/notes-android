@@ -112,16 +112,12 @@
     <string name="error_dialog_check_server">Răspunsul serverului dumneavoastră nu este corect. Vă rugăm să verificaţi dacă puteţi accesa Notiţe din browserul dumneavoastră web.</string>
     <string name="error_dialog_check_server_logs">Există o problemă cu setările serverului Nexcloud. Vă rugăm să verificaţi fişierele log de pe server.</string>
     <string name="error_dialog_insufficient_storage">Instanţa dumneavoastră Nextcloud nu mai are spaţiu liber. Vă rugăm să ştergeţi nişte nişte fişiere pentru a începe sincronizarea.</string>
-    <string name="error_dialog_min_version">Aplicaţia Android Notes necesită ca versiunea aplicaţiei Android Nextcloud să fie cel puţin la versiunea 3.18.</string>
     <string name="error_dialog_redirect">Serverul tău nu a răspuns cu codul HTTP 302, ceea ce sugerează că nu ai instalată aplicația Notes pe server ceva este configurat greșit. Acest lucru poate fi cauzat de un fișier customizat .htaccess-file sau de aplicația Nextcloud precum clientul OID.</string>
     <string name="error_dialog_server_app_enabled">Te rugăm să te asiguri că ai instalat și activat aplicația \"Notes\" pe serverul tău.</string>
     <string name="error_dialog_timeout_instance">Nu există un răsouns de la serverul dumneavoastră în timpul alocat. Vă rugăm să vă asigurați că serverul este funcțional și corect setat.</string>
     <string name="error_dialog_timeout_toggle">Vă rugăm să verificați conexiunea la rețea. Uneori activarea și dezactivarea datelor mobile sau Wi-Fi poate rezolva problema.</string>
     <string name="error_dialog_tip_clear_storage">Puteți să ștergeți memoria prin deschiderea meniului de informații iar mai apoi selectarea Stocare →  Golește memoria. ⚠️  Ateție: Această metodă va șterge notițele ce nu sunt încă sincronizate!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Vă rugăm să dezactivați toate optimizările de baterie pentru aplicațiile Nextcloud și Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Dacă inchiderea forțată nu este de folos, atunci puteți încerca ștergerea stocării celor două aplicații.</string>
-    <string name="error_dialog_tip_files_outdated">Aplicația dumneavoastră Nextcloud pare a fi învechită. Vă rugăm să vizitați Magazinul Google Play sau F-Droid pentru a descărca cea mai nouă versiune.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Vă rugăm să închideţi forţat alicaţia şi să o reporniţi. Este posibil să existe o conexiune setată incorect către aplicaţia Nextcloud.</string>
     <string name="error_dialog_title">Ooo nu - Acum ce? 🙁</string>
     <string name="error_dialog_we_need_info">Avem nevoie de următoarele informații pentru a te putea ajuta:</string>
     <string name="error_maintenance_mode">Serverul se află in modul de mentenanţă</string>

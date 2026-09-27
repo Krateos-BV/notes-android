@@ -116,16 +116,12 @@
     <string name="error_dialog_check_server">Palvelimesi vastaus oli virheellinen. Tarkista, onnistuuko muistiinpanojen käyttäminen verkkokäyttöliittymän kautta.</string>
     <string name="error_dialog_check_server_logs">Nextcloud-asennuksessasi on ongelma. Katso lisätietoja palvelimen lokitiedostoista.</string>
     <string name="error_dialog_insufficient_storage">Nextcloud-palvelimellasi ei ole vapaata tallennustilaa. Poista tiedostoja, jotta paikallisten muutosten synkronointi pilveen onnistuu.</string>
-    <string name="error_dialog_min_version">Muistiinpanosovellus vaatii Nextcloud-sovelluksen version 3.18 tai uudemman.</string>
     <string name="error_dialog_redirect">Palvelimesi vastasi HTTP 302-tilakoodilla, joka viittaa siihen, että sinulla ei ole Notes-sovellusta asennettuna palvelimellesi tai jokin asetus on väärin. Tämä saattaa johtua mukautetusta .htaccess-tiedostosta tai Nextcloud-sovelluksista, kuten OID-Clientistä.</string>
     <string name="error_dialog_server_app_enabled">Varmista, että olet asentanut \"Notes\"-sovelluksen palvelimellasi.</string>
     <string name="error_dialog_timeout_instance">Palvelimen aikakatkaisu. Varmista, että se on toiminnassa.</string>
     <string name="error_dialog_timeout_toggle">Tarkista verkkoyhteytesi. Joskus mobiilidatan ja Wi-Fin välillä vaihtaminen saattaa auttaa. </string>
     <string name="error_dialog_tip_clear_storage">Voit tyhjentää tallennustilan avaamalla sovelluksen tiedot ja valitsemalla Tallennustila → Tyhjennä tallennustila. Tämä poistaa kaikki synkronoimattomat muistiinpanot!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Poista käytöstä akun optimointi Nextcloud- ja Muistiinpanot-sovelluksilta.</string>
     <string name="error_dialog_tip_files_delete_storage">Jos pakotettu lopettaminen ei auta, voit yrittää tyhjentää sovelluksien tallennustilan.</string>
-    <string name="error_dialog_tip_files_outdated">Nextcloud-sovelluksesi on vanhentunut. Lataa uusin version Play Storesta tai F-Droidista.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Yritä pakottaa sovelluksen sulkeminen ja käynnistä se uudelleen. Nextcloud-sovellukseen on saattanut olla virheellinen yhteys.</string>
     <string name="error_dialog_title">Voi ei - Mitä nyt? 🙁</string>
     <string name="error_dialog_we_need_info">Tarvitsemme seuraavat tekniset tiedot auttaaksemme sinua:</string>
     <string name="error_maintenance_mode">Palvelin on huoltotilassa</string>

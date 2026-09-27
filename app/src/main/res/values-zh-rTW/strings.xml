@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">來自您的伺服器的回應並不正確，請確認您是否可藉由網頁界面存取您的筆記。</string>
     <string name="error_dialog_check_server_logs">您的 Nextcloud 設定有問題，請查看您的伺服器日誌檔。</string>
     <string name="error_dialog_insufficient_storage">您的 Nextcloud 已無可用空間，請刪除部份檔案以將您的本地修改同步至雲端。</string>
-    <string name="error_dialog_min_version">Notes Android 功能要求 Nextcloud Android 應用程式最低版本為 3.18。</string>
     <string name="error_dialog_redirect">您的伺服器以 HTTP 302 狀態代碼回應，這表示您尚未在伺服器上安裝 Notes 應用程式或配置錯誤。這可能是由於 .htaccess 檔案中的自訂覆寫或 Nextcloud 應用程式（如OID客戶端）引起的。</string>
     <string name="error_dialog_server_app_enabled">請確保您已在您的伺服器安裝並啟用了「筆記」應用程式。</string>
     <string name="error_dialog_timeout_instance">您的伺服器未在時限內回應，請確保您的 Nextcloud 正常運作。</string>
     <string name="error_dialog_timeout_toggle">請檢查您的網路連線，可以嘗試先停用行動數據或 Wi-Fi 然後再次啟用。</string>
     <string name="error_dialog_tip_clear_storage">您可以藉由打開應用程式資訊 → 清除儲存空間以清除儲存空間。⚠️警告：這將會刪除尚未同步的筆記！</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">請停用 Nextcloud 和 Notes 應用程式的所有電池最佳化。</string>
     <string name="error_dialog_tip_files_delete_storage">如果強制停止沒有幫助，請試著清除這兩個應用程式的儲存空間。</string>
-    <string name="error_dialog_tip_files_outdated">您的 Nextcloud 應用程式似乎過舊，請造訪 Play Store 或 F-Droid 以取得最新版本。</string>
-    <string name="error_dialog_tip_token_mismatch_retry">請嘗試強制關閉應用程式再重新啟動，這可能因為與 Nextcloud 應用程式連結不正確。</string>
     <string name="error_dialog_title">喔不 - 現在怎麼辦？🙁</string>
     <string name="error_dialog_we_need_info">我們需要以下的技術資訊來幫助您：</string>
     <string name="error_maintenance_mode">伺服器正處於維護模式</string>

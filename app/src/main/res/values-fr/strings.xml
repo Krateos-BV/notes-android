@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Le serveur a renvoyé une réponse incorrecte. Vérifier si vous pouvez accéder à vos notes via l\'interface Web.</string>
     <string name="error_dialog_check_server_logs">Il y a un problème avec votre configuration Nextcloud. Consulter les fichiers de log du serveur.</string>
     <string name="error_dialog_insufficient_storage">Votre instance Nextcloud n\'a plus d\'espace disponible. Veuillez supprimer certains fichiers pour pouvoir synchroniser vos modifications locales dans votre cloud.</string>
-    <string name="error_dialog_min_version">L\'application Notes Android  nécessite que l\'application Nextcloud Android soit au moins en version 3.18.</string>
     <string name="error_dialog_redirect">Votre serveur a répondu avec le code HTTP 302, ce qui implique que vous n\'avez pas installé l\'application Notes sur votre serveur ou que quelque chose est mal configuré. Cela peut être dû à des modifications du fichier .htaccess or à une autre application Nextcloud comme OID Client.</string>
     <string name="error_dialog_server_app_enabled">Veuillez vérifier que vous avez installé et activé l\'application \"Notes\" sur votre serveur.</string>
     <string name="error_dialog_timeout_instance">Le serveur n’a pas répondu dans le temps imparti. Assurez-vous que votre instance fonctionne correctement.</string>
     <string name="error_dialog_timeout_toggle">Vérifiez votre connexion réseau. L\'activation et la désactivation des données mobiles ou du Wi-Fi peuvent aider.</string>
     <string name="error_dialog_tip_clear_storage">Vous pouvez nettoyer l\'espace de stockage en ouvrant les paramètres Android de l\'application et en sélectionnant Stockage → Effacer le stockage. ⚠️ Attention: cela supprimera les notes non encore synchronisées avec votre serveur Nextcloud!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Veuillez désactiver toutes les options d\'optimalisation de la batterie pour les applications Nextcloud et Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Si l’arrêt forcé ne fonctionne pas, vous pouvez essayer d\'effacer les données des deux applications.</string>
-    <string name="error_dialog_tip_files_outdated">Votre application Nextcloud semble ancienne. Veuillez visiter le Play Store ou F-Droid pour installer la dernière version.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Essayez de forcer la fermeture de l\'application puis redémarrer la. Il y avait peut-être une mauvaise connexion à Nextcloud.</string>
     <string name="error_dialog_title">Oh non ! - Et maintenant ? 🙁</string>
     <string name="error_dialog_we_need_info">Nous avons besoin des informations techniques suivantes pour pouvoir vous aider :</string>
     <string name="error_maintenance_mode">Le serveur est en mode maintenance</string>

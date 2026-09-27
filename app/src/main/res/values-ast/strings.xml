@@ -83,7 +83,6 @@
     <string name="error_action_open_battery_settings">Configuración de la batería</string>
     <string name="error_action_open_deck_info">Abrir la información de l\'aplicación</string>
     <string name="error_action_update_files_app">Anovar</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Tenta de forciar el zarru de l\'aplicación y volvi aniciala. Quiciabes heba una conexón incorreuta cola aplicación de Nextcloud.</string>
     <string name="error_dialog_title">Oh non - ¿Y agora qué?</string>
     <string name="error_no_network">Nun hai conexón a la rede</string>
     <string name="error_synchronization">La sincronización falló</string>

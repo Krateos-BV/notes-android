@@ -100,10 +100,7 @@
     <string name="error_dialog_timeout_instance">Non ddoe at àpidu peruna risposta dae su serbidore in su tempus istabilidu. Segura·ti chi sa rechesta tua siat esecutada in manera curreta.</string>
     <string name="error_dialog_timeout_toggle">Controlla sa connesione tua a sa rete. A bortas podet agiudare a disativare is datos mòbiles o su Wi-Fi e a ddos torrare a ativare.</string>
     <string name="error_dialog_tip_clear_storage">Podes limpiare s\'archiviatzione aberende is informatziones de s\'aplicatzione e seberende Archiviatzione → Lìmpia archiviatzione. ⚠️ Atentzione: Custu at a cantzellare is notas no ancora sincronizadas!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Disabilita totu is otimizatziones de sa bateria pro is aplicatziones Nextcloud e Note.</string>
     <string name="error_dialog_tip_files_delete_storage">Si a ddas firmare a fortza no agiudat, podes proare a limpiare s\'archiviatzione de ambas is aplicatziones.</string>
-    <string name="error_dialog_tip_files_outdated">S\'aplicatzione tua de Nextcloud paret foras d\'usu. Pro praghere, bìsita su Play Store o F-Droid pro otènnere s\'ùrtima versione.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Proa a serrare a fortza s\'aplicatzione e torrala a aviare. Fortzis ddoe at àpidu unu problema de connessione a s\'aplicatzione de Nextcloud. </string>
     <string name="error_dialog_title">Oh no - Immoe ite ddoe at? 🙁</string>
     <string name="error_dialog_we_need_info">Nos bisòngiant is sighentes informatziones tècnicas pro t\'agiuare:</string>
     <string name="error_maintenance_mode">Serbidore in modalidade de mantenidura</string>

@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Odgovor poslužitelja nije točan. Provjerite možete li svojim bilješkama pristupiti putem web-sučelja.</string>
     <string name="error_dialog_check_server_logs">Postoji određeni problem s vašim Nextcloudom. Provjerite datoteke zapisa poslužitelja.</string>
     <string name="error_dialog_insufficient_storage">Nema slobodnog prostora za pohranu u vašoj instanci Nextclouda. Izbrišite dio datoteka kako biste sinkronizirali lokalne promjene u oblak.</string>
-    <string name="error_dialog_min_version">Aplikacija Notes za Android zahtijeva da Nextcloud aplikacija za Android bude najmanje verzije 3.18.</string>
     <string name="error_dialog_redirect">Vaš je poslužitelj vratio šifru statusa HTTP 302, što znači da aplikacija Notes nije instalirana na poslužitelju ili postoji pogreška u konfiguraciji. To mogu uzrokovati prilagođena prepisivanja u datoteci .htaccess ili određene aplikacije u Nextcloudu, kao što je OID Client.</string>
     <string name="error_dialog_server_app_enabled">Provjerite jeste li instalirali i omogućili aplikaciju „Notes” na svom poslužitelju.</string>
     <string name="error_dialog_timeout_instance">Nije stigao odgovor poslužitelja u zadanom vremenskom razdoblju. Provjerite radi li vaša instanca.</string>
     <string name="error_dialog_timeout_toggle">Provjerite mrežnu vezu. Ponekad može pomoći isključivanje i ponovno uključivanje mobilnih podataka ili bežične (Wi-Fi) mreže.</string>
     <string name="error_dialog_tip_clear_storage">Pohranjene podatke možete izbrisati tako da otvorite informacije o aplikaciji i odaberete Pohrana → Brisanje pohrane podataka. ⚠️ Upozorenje: ova radnja će izbrisati bilješke koje još uvijek nisu sinkronizirane!</string>
-    <string name="error_dialog_tip_disable_battery_optimizations">Onemogućite sve optimizacije baterije za aplikacije Nextcloud i Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Ako prisilno zatvaranje nije otklonilo problem, pokušajte izbrisati pohranjene podatke iz obje aplikacije.</string>
-    <string name="error_dialog_tip_files_outdated">Čini se da je vaša aplikacija Nextcloud zastarjela. Posjetite trgovinu Play Store ili F-Droid kako biste dohvatili najnoviju inačicu.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Pokušajte prisilno zatvoriti aplikaciju i ponovo je pokrenuti. Možda se radi o nepravilnoj vezi s aplikacijom Nextcloud.</string>
     <string name="error_dialog_title">Ups, što sada? 🙁</string>
     <string name="error_dialog_we_need_info">Potrebne su nam sljedeće tehničke informacije kako bismo vam pomogli:</string>
     <string name="error_maintenance_mode">Poslužitelj je u načinu održavanja</string>

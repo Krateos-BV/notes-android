@@ -121,16 +121,12 @@
     <string name="error_dialog_check_server">Odpověď od serveru nebyla správná. Zkontrolujte, zda ke svým poznámkám můžete přistupovat přes webové rozhraní.</string>
     <string name="error_dialog_check_server_logs">Je problém s nastavením vámi využívané instance Nextcloud. Podívejte se do souborů se záznamem událostí na serveru.</string>
     <string name="error_dialog_insufficient_storage">Na vámi využívané instanci Nexcloud nezbývá žádné volné místo na úložišti. Aby bylo možné synchronizovat vaše místní změny do vámi využívaného cloudu, je třeba nejprve smazat nějaké soubory.</string>
-    <string name="error_dialog_min_version">Android aplikace Poznámky vyžaduje, aby Android aplikace Nextcloud byla přinejmenším verze 3.18.</string>
     <string name="error_dialog_redirect">Vámi využívaný server odpověděl HTTP stavovým kódem 302, což ukazuje na to, že na serveru buď není nainstalovaná aplikace Poznámky, nebo je něco nesprávně nastavené. Toto může být způsobeno uživatelsky určenými přepsáními v souboru .htaccess nebo Nextcloud aplikacemi jako je OID klient.</string>
     <string name="error_dialog_server_app_enabled">Ověřte, že na vámi využívaném serveru je nainstalovaná a zapnutá aplikace „Poznámky“.</string>
     <string name="error_dialog_timeout_instance">Server neodpověděl do určené doby. Ověřte, že vámi využívaná instance je v pořádku spuštěná.</string>
     <string name="error_dialog_timeout_toggle">Zkontrolujte nastavení sítě. Někdy může pomoci vypnout a zase zapnout mobilní data nebo Wi-Fi.</string>
     <string name="error_dialog_tip_clear_storage">Úložiště můžete vyčistit otevřením nformací o aplikaci a vybráním Úložiště a mezipaměť → Vyčistit úložiště. ⚠️ Varování: toto nenávratně odstraní poznámky, které ještě nebyly synchronizovány se serverem. </string>
-    <string name="error_dialog_tip_disable_battery_optimizations">V nastavení systému prosím pro aplikace Nextcloud a Notes vypněte veškeré optimalizace spotřeby energie z akumulátoru.</string>
     <string name="error_dialog_tip_files_delete_storage">Pokud vynucení jejich zastavení nepomůže, můžete zkusit vyčistit úložiště obou aplikací.</string>
-    <string name="error_dialog_tip_files_outdated">Zdá se, že aplikace Nextcloud, nainstalovaná na vašem zařízení, je staré verze. Přejděte prosím do Play Store nebo F-Droid a nainstalujte si nejnovější verzi.</string>
-    <string name="error_dialog_tip_token_mismatch_retry">Prosím pokuste se vynutit ukončení aplikace a spusťte ji znovu. Možná se něco nepodařilo při spojení s aplikací Nextcloud.</string>
     <string name="error_dialog_title">Ó ne – co teď? 🙁</string>
     <string name="error_dialog_we_need_info">Abychom vám mohli pomoci, potřebujeme následující technické údaje:</string>
     <string name="error_maintenance_mode">Na serveru probíhá údržba</string>
