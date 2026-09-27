@@ -120,9 +120,7 @@
     <string name="error_dialog_tip_clear_storage">Puteți să ștergeți memoria prin deschiderea meniului de informații iar mai apoi selectarea Stocare →  Golește memoria. ⚠️  Ateție: Această metodă va șterge notițele ce nu sunt încă sincronizate!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Vă rugăm să dezactivați toate optimizările de baterie pentru aplicațiile Nextcloud și Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">Dacă inchiderea forțată nu este de folos, atunci puteți încerca ștergerea stocării celor două aplicații.</string>
-    <string name="error_dialog_tip_files_force_stop">Ceva pare a fi în neregulă cu aplicația Nextcloud. Vă rugăm să forțați închiderea aplicației Nextcloud și aplicația de Notițe Nextcloud.</string>
     <string name="error_dialog_tip_files_outdated">Aplicația dumneavoastră Nextcloud pare a fi învechită. Vă rugăm să vizitați Magazinul Google Play sau F-Droid pentru a descărca cea mai nouă versiune.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Dacă problema persistă, încercați să goliți memoria aplicației Nextcloud și a aplicației Nextcloud Notes, pentru a rezolva această problemă.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Vă rugăm să închideţi forţat alicaţia şi să o reporniţi. Este posibil să existe o conexiune setată incorect către aplicaţia Nextcloud.</string>
     <string name="error_dialog_title">Ooo nu - Acum ce? 🙁</string>
     <string name="error_dialog_we_need_info">Avem nevoie de următoarele informații pentru a te putea ajuta:</string>

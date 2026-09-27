@@ -128,10 +128,7 @@
 ⚠️ تحذير: هذا سيؤدي إلى حذف الملاحظات التي لم تتم مزامنتها حتى الآن.</string>
     <string name="error_dialog_tip_disable_battery_optimizations">يرجى تعطيل جميع تحسينات البطارية لـ Nextcloud وتطبيق Notes.</string>
     <string name="error_dialog_tip_files_delete_storage">إذا لم يساعد إيقافهم بالقوة ، فيمكنك محاولة مسح تخزين كلا التطبيقين.</string>
-    <string name="error_dialog_tip_files_force_stop">يبدو أن هناك خطأ ما في تطبيقك نكست كلاود. يرجى محاولة فرض إيقاف كلا التطبيقين: Nextcloud و Nextcloud Notes.</string>
     <string name="error_dialog_tip_files_outdated">تطبيقك نيكست كلاود يبدو انه لم يتم تحديثه منذ وقت طويل. رجاءً، قم بزيارةمتجر تطبيقات \"إف-درويد\" f-droid للحصول على آخر إصدار منه.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">اذا تكررت المشكلة، حاول تنظيف مساحة التخزين في التطبيقين كلاهما: 
-نيكست كلاود nextcloud، نيكست كلاود ملاحظات nextcloud notes لحل هذه المشكلة.</string>
     <string name="error_dialog_tip_token_mismatch_retry">رجاءً، إفرض غلق التطبيق ثم أعد تشغيله، ربما هنالك خطأ في الاتصال مع تطبيق نيكست كلاود.</string>
     <string name="error_dialog_title">آه لا، ماذا الان؟🙁</string>
     <string name="error_dialog_we_need_info">نحتاج إلى المعلومات الفنية التالية لمساعدتك:</string>

@@ -124,9 +124,7 @@
     <string name="error_dialog_tip_clear_storage">Anda dapat membersihkan penyimpanan dengan membuka info aplikasi dan memilih Penyimpanan → Bersihkan penyimpanan. ⚠️ Peringatan: Tindakan ini akan menghapus catatan yang belum disinkronkan!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Mohon nonaktifkan semua optimisasi baterai untuk Nextcloud dan aplikasi Catatan.</string>
     <string name="error_dialog_tip_files_delete_storage">Jika menghentikan paksa mereka tidak membantu, Anda dapat mencoba untuk membersihkan penyimpanan kedua aplikasi.</string>
-    <string name="error_dialog_tip_files_force_stop">Sepertinya ada yang salah dengan aplikasi Nextcloud Anda. Silakan coba hentikan paksa kedua aplikasi, aplikasi Nextcloud dan aplikasi Catatan Nextcloud.</string>
     <string name="error_dialog_tip_files_outdated">Aplikasi Nextcloud Anda tampaknya sudah usang. Silakan kunjungi Play Store atau F-Droid untuk mendapatkan versi terbaru.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Jika masalah masih berlanjut, cobalah untuk membersihkan penyimpanan dari kedua aplikasi: Nextcloud dan Catatan Nextcloud untuk mengatasi masalah ini.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Silakan mencoba untuk menutup aplikasi secara paksa dan mulai ulang. Mungkin ada koneksi yang tidak benar ke aplikasi Nextcloud.</string>
     <string name="error_dialog_title">Aduh — apa sekarang? 🙁</string>
     <string name="error_dialog_we_need_info">Kami membutuhkan informasi teknis berikut untuk membantu Anda.</string>

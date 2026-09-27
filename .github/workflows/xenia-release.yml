@@ -1,0 +1,178 @@
+# SPDX-FileCopyrightText: 2026 XeniaCloud
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# XeniaCloud release — signed AAB (play flavour) and Google Play upload. XNT-211.
+#
+# Tag push `YY.M.D.ID` (the CalVer tag `fastlane/common.Fastfile` getTagName
+# produces, no `v` prefix) builds, signs and uploads. workflow_dispatch builds and
+# signs only, unless `upload` is ticked — so signing can be proven on `main`
+# without putting anything on Play. Same reasoning as XNT-198 on talk-desktop.
+#
+# Secrets live in Infisical and are synced into this repository's GitHub secrets.
+# An unscoped or unsynced secret resolves to an EMPTY STRING, not an error
+# (XNT-184), so every required secret is asserted non-empty before it is used.
+#
+# versionCode is `400000000 + YYMMDD*1000 + ID` (see common.Fastfile, XNT-209).
+# The first upload to a new Play listing fixes the floor for every later one.
+
+name: Xenia release (signed AAB)
+
+on:
+  push:
+    tags:
+      - '[0-9][0-9].[0-9]*.[0-9]*.[0-9]*'
+  workflow_dispatch:
+    inputs:
+      upload:
+        description: 'Also upload to Google Play (otherwise build and sign only)'
+        type: boolean
+        default: false
+      track:
+        description: 'Play track'
+        type: choice
+        options: [ internal, alpha, beta ]
+        default: internal
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+env:
+  PACKAGE_NAME: eu.xeniacloud.notes
+  BRAND_NAME: Xenia Notes
+  AAB_PATH: app/build/outputs/bundle/playRelease/app-play-release.aab
+
+jobs:
+  bundle:
+    name: Build signed AAB
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Tag matches versionName
+        if: github.ref_type == 'tag'
+        env:
+          TAG: ${{ github.ref_name }}
+        run: |
+          version_name=$(sed -n 's/^ *versionName "\(.*\)"$/\1/p' app/build.gradle)
+          if [ "$version_name" != "$TAG" ]; then
+            echo "::error::Tag $TAG does not match versionName $version_name in app/build.gradle"
+            exit 1
+          fi
+
+      # No Transifex sync here (XNT-108), so an upstream merge is the only thing that
+      # can revert the launcher name. Locales must inherit it, never override it.
+      - name: Launcher name is still the brand
+        run: |
+          fail=0
+          for key in app_name app_name_long; do
+            value=$(sed -n "s|.*<string name=\"$key\">\(.*\)</string>.*|\1|p" app/src/main/res/values/strings.xml)
+            if [ "$value" != "$BRAND_NAME" ]; then
+              echo "::error::$key is '$value', expected '$BRAND_NAME'"
+              fail=1
+            fi
+          done
+          overrides=$(grep -lE '<string name="app_name(_long)?"' app/src/*/res/values-*/strings.xml || true)
+          if [ -n "$overrides" ]; then
+            echo "::error::Locale files override the launcher name:"
+            echo "$overrides"
+            fail=1
+          fi
+          exit $fail
+
+      - name: Required signing secrets are present
+        env:
+          KEYSTORE_BASE64: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_BASE64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_PASSWORD }}
+        run: |
+          missing=0
+          for name in KEYSTORE_BASE64 KEYSTORE_PASSWORD KEY_ALIAS KEY_PASSWORD; do
+            if [ -z "${!name}" ]; then
+              echo "::error::XENIA_NOTES_UPLOAD_$name is empty or not available to this repository"
+              missing=1
+            fi
+          done
+          exit $missing
+
+      - name: Set up JDK
+        uses: actions/setup-java@dd06d9cba3e5552c54d9f8ea23572deb30010f7c # v6.0.0
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+          check-latest: true
+          cache: 'gradle'
+
+      - name: Build signed AAB (play flavour)
+        env:
+          KEYSTORE_BASE64: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_BASE64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_PASSWORD }}
+        run: |
+          keystore="$RUNNER_TEMP/upload.jks"
+          echo "$KEYSTORE_BASE64" | base64 --decode > "$keystore"
+          trap 'rm -f "$keystore"' EXIT
+          bash ./gradlew bundlePlayRelease --stacktrace --no-configuration-cache \
+            -Pandroid.injected.signing.store.file="$keystore" \
+            -Pandroid.injected.signing.store.password="$KEYSTORE_PASSWORD" \
+            -Pandroid.injected.signing.key.alias="$KEY_ALIAS" \
+            -Pandroid.injected.signing.key.password="$KEY_PASSWORD"
+
+      # jarsigner exits 0 on an UNSIGNED archive ("jar is unsigned."), so the exit
+      # code proves nothing; only the "jar verified." line does. No `-strict`: it
+      # rejects self-signed certificates, and every Android upload key is one.
+      - name: Verify AAB signature
+        run: |
+          if ! jarsigner -verify "$AAB_PATH" | grep -qx 'jar verified.'; then
+            echo "::error::$AAB_PATH is not signed"
+            exit 1
+          fi
+          keytool -printcert -jarfile "$AAB_PATH" | grep -E 'Owner:|SHA256:'
+
+      - name: Upload AAB
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: app-play-release
+          path: ${{ env.AAB_PATH }}
+          if-no-files-found: error
+
+  play:
+    name: Upload to Google Play
+    needs: bundle
+    if: github.ref_type == 'tag' || inputs.upload
+    runs-on: ubuntu-latest
+    # Add required reviewers to this environment to gate every upload on a human.
+    environment: google-play
+    steps:
+      - name: Required Play secret is present
+        env:
+          SERVICE_ACCOUNT_JSON: ${{ secrets.XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON }}
+        run: |
+          if [ -z "$SERVICE_ACCOUNT_JSON" ]; then
+            echo "::error::XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON is empty or not available to this repository"
+            exit 1
+          fi
+
+      - name: Download AAB
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: app-play-release
+
+      # `draft`: Play rejects any other status while the listing itself is still a
+      # draft, and it leaves promotion to review as a manual step in the console.
+      - name: Upload to Play
+        uses: r0adkll/upload-google-play@e738b9dd8f2476ea806d921b64aacd24f34515a5 # v1.1.5
+        with:
+          serviceAccountJsonPlainText: ${{ secrets.XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON }}
+          packageName: ${{ env.PACKAGE_NAME }}
+          releaseFiles: app-play-release.aab
+          track: ${{ inputs.track || 'internal' }}
+          status: draft

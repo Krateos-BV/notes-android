@@ -122,9 +122,7 @@
     <string name="error_dialog_tip_clear_storage">Можете да изчистите хранилището, като отворите информацията за приложението и изберете Хранилище → Изчистване на хранилище. ⚠️ Предупреждение: Това ще изтрие все още несинхронизираните бележки!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Моля, деактивирайте всички оптимизации на батерията за Nextcloud и приложението Бележки.</string>
     <string name="error_dialog_tip_files_delete_storage">Ако принудителното им спиране не помогне, можете да опитате да изчистите хранилището на двете приложения.</string>
-    <string name="error_dialog_tip_files_force_stop">Изглежда, че нещо не е наред с вашето приложение Nextcloud. Моля, опитайте да спрете принудиттелно и двете приложения -и Nextcloud и приложението Nextcloud Бележки.</string>
     <string name="error_dialog_tip_files_outdated">Вашето приложение Nextcloud изглежда е остаряло. Моля, посетете Play Store или F-Droid, за да получите най-новата версия.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Ако проблемът продължава, опитайте се да изчистите хранилището на двете приложения: Nextcloud и Nextcloud Бележки, за да разрешите този проблем.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Моля, опитайте принудително да затворите приложението и отново да го рестартирате. Възможно е да е имало неправилна връзка с приложението Nextcloud.</string>
     <string name="error_dialog_title">О не - сега какво? 🙁</string>
     <string name="error_dialog_we_need_info">Имаме нужда от следната техническа информация, за да ви помогнем:</string>

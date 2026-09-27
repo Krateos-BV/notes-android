@@ -129,9 +129,7 @@
     <string name="error_dialog_tip_clear_storage">می‌توانید فضای ذخیره‌سازی را با باز کردن اطلاعات برنامه و انتخاب Storage → Clear storage پاک کنید. ⚠️ هشدار: این کار یادداشت‌های همگام‌سازی نشده را حذف خواهد کرد!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">لطفا تمامی فرایند‌های بهینه‌سازی مصرف باتری برای Nextcloud و Notes app را غیر فعال کنید.</string>
     <string name="error_dialog_tip_files_delete_storage">"اگر توقف اجباری برنامه‌ها کمکی نکرد، می‌توانید پاک‌کردن فضای ذخیره‌سازی هردو برنامه را پاک کنید."</string>
-    <string name="error_dialog_tip_files_force_stop">به نظر می‌رسد که مشکلی در برنامک نکست‌کلود ایجاد شده است. لطفا سعی کنید با توقف اجباری هر دو برنامک Nextcloud app و Nextcloud Notes را ببندید.</string>
     <string name="error_dialog_tip_files_outdated">ظاهرا برنامک یادداشت منسوخ شده است. لطفا آخرین نسخه را از Play Store یا F-Droid دانلود کنید.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">اگر این مشکل استمرار داشت، سعی کنید با پاک کردن فضای ذخیره‌سازی هردو برنامک: Nextcloud و Nextcloud Notes این مورد را برطرف کنید.</string>
     <string name="error_dialog_tip_token_mismatch_retry">لطفا از طریق توقف اجباری برنامه را بسته و دوباره اجرا کنید. ممکن است یک اتصال نادرست با نکست‌کلود ایجاد شده باشد.</string>
     <string name="error_dialog_title">وای نه - حالا چی کار کنیم؟</string>
     <string name="error_dialog_we_need_info">ما برای کمک به شما احتیاج به دنبال کردن اطلاعات فنی داریم:</string>

@@ -129,9 +129,7 @@
     <string name="error_dialog_tip_clear_storage">Atmintį galite išvalyti atidarydami programėlės informaciją ir pasirinkdami Atmintis → Išvalyti atmintį. ⚠️ Įspėjimas: tai ištrins dar nesinchronizuotus užrašus!</string>
     <string name="error_dialog_tip_disable_battery_optimizations">Išjunkite visus „Nextcloud“ ir „Užrašai“ programėlės akumuliatoriams optimizavimus.</string>
     <string name="error_dialog_tip_files_delete_storage">Jei priverstinis programėlės sustabdymas nepadėjo, galite pabandyti išvalyti abiejų programėlių saugyklas.</string>
-    <string name="error_dialog_tip_files_force_stop">Atrodo, kad kažkas negerai su jūsų „Nextcloud“ programėle. Pabandykite priverstinai sustabdyti abi – „Nextcloud“ ir „Nextcloud Užrašai“ – programėles.</string>
     <string name="error_dialog_tip_files_outdated">Panašu, kad jūsų „Nextcloud“ programėlės versija yra pasenusi. Norėdami gauti naujausią versiją, apsilankykite „Google Play“ parduotuvėje arba „F-Droid“.</string>
-    <string name="error_dialog_tip_token_mismatch_clear_storage">Jei problema išlieka, pabandykite išvalyti abiejų programų – „Nextcloud“ ir „Nextcloud Užrašai“ – saugyklą, kad ją išspręstumėte.</string>
     <string name="error_dialog_tip_token_mismatch_retry">Pabandykite priverstinai uždaryti programėlę ir paleisti ją iš naujo. Galbūt susidūrėte su ryšio su „Nextcloud“ programėle sutrikimu.</string>
     <string name="error_dialog_title">O, ne - Kas dabar? 🙁</string>
     <string name="error_dialog_we_need_info">Norint jums padėti, mums reikia techninės informacijos:</string>
