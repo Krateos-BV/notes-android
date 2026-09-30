@@ -88,15 +88,15 @@ jobs:
 
       - name: Required signing secrets are present
         env:
-          KEYSTORE_BASE64: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_BASE64 }}
-          KEYSTORE_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_PASSWORD }}
-          KEY_ALIAS: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_ALIAS }}
-          KEY_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_PASSWORD }}
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: |
           missing=0
           for name in KEYSTORE_BASE64 KEYSTORE_PASSWORD KEY_ALIAS KEY_PASSWORD; do
             if [ -z "${!name}" ]; then
-              echo "::error::XENIA_NOTES_UPLOAD_$name is empty or not available to this repository"
+              echo "::error::Required Android signing secret for $name is empty or not available to this repository"
               missing=1
             fi
           done
@@ -112,10 +112,10 @@ jobs:
 
       - name: Build signed AAB (play flavour)
         env:
-          KEYSTORE_BASE64: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_BASE64 }}
-          KEYSTORE_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEYSTORE_PASSWORD }}
-          KEY_ALIAS: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_ALIAS }}
-          KEY_PASSWORD: ${{ secrets.XENIA_NOTES_UPLOAD_KEY_PASSWORD }}
+          KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+          KEYSTORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
         run: |
           keystore="$RUNNER_TEMP/upload.jks"
           echo "$KEYSTORE_BASE64" | base64 --decode > "$keystore"
@@ -154,10 +154,10 @@ jobs:
     steps:
       - name: Required Play secret is present
         env:
-          SERVICE_ACCOUNT_JSON: ${{ secrets.XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON }}
+          SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
         run: |
           if [ -z "$SERVICE_ACCOUNT_JSON" ]; then
-            echo "::error::XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON is empty or not available to this repository"
+            echo "::error::GSC_SERVICE_ACCOUNT_JSON is empty or not available to this repository"
             exit 1
           fi
 
@@ -171,7 +171,7 @@ jobs:
       - name: Upload to Play
         uses: r0adkll/upload-google-play@e738b9dd8f2476ea806d921b64aacd24f34515a5 # v1.1.5
         with:
-          serviceAccountJsonPlainText: ${{ secrets.XENIA_NOTES_PLAY_SERVICE_ACCOUNT_JSON }}
+          serviceAccountJsonPlainText: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           packageName: ${{ env.PACKAGE_NAME }}
           releaseFiles: app-play-release.aab
           track: ${{ inputs.track || 'internal' }}
