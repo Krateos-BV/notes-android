@@ -18,7 +18,7 @@ import sys
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 ALLOWLIST = pathlib.Path(__file__).with_name("brand-allowlist.txt")
 INHERIT = pathlib.Path(__file__).with_name("brand-inherit.txt")
-SKIPPED_SOURCE_SETS = {"test", "androidTest"}
+SKIPPED_SOURCE_SETS = {"test", "androidTest", "dev", "qa", "versionDev"}
 
 REPLACEMENTS = [
     ("https://nextcloud.com", "https://xeniacloud.eu"),
@@ -30,7 +30,7 @@ REPLACEMENTS = [
     ("نكست كلاود", "XeniaCloud"),
     ("نکست\u200cکلود", "XeniaCloud"),
 ]
-LOWERCASE_BRAND = re.compile(r"(?<![./@\w])nextcloud")
+OTHER_SPELLINGS = re.compile(r"(?<![./@\w])nextcloud", re.I)
 
 STRING = re.compile(r"(<string\b([^>]*)>)(.*?)(</string>)", re.S)
 GROUP = re.compile(r"(<(plurals|string-array)\b([^>]*)>)(.*?)(</\2>)", re.S)
@@ -66,7 +66,7 @@ def is_translatable(attributes):
 def rebrand(text):
     for old, new in REPLACEMENTS:
         text = text.replace(old, new)
-    return LOWERCASE_BRAND.sub("XeniaCloud", text)
+    return OTHER_SPELLINGS.sub("XeniaCloud", text)
 
 
 def name_of(attributes):
