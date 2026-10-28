@@ -106,11 +106,11 @@
     <string name="error_action_open_deck_info">Abrir información de la aplicación</string>
     <string name="error_action_open_network">Configuración de red</string>
     <string name="error_action_update_files_app">Actualizar</string>
-    <string name="error_dialog_check_maintenance">Por favor, verifica si tu instancia de Nextcloud no está actualmente en modo de mantenimiento.</string>
+    <string name="error_dialog_check_maintenance">Por favor, verifica si tu instancia de XeniaCloud no está actualmente en modo de mantenimiento.</string>
     <string name="error_dialog_check_server">La respuesta de tu servidor no fue correcta. Verifica si puedes acceder a tus notas a través de la interfaz web.</string>
-    <string name="error_dialog_check_server_logs">Hay un problema con tu configuración de Nextcloud. Por favor, revisa los archivos de registro del servidor.</string>
-    <string name="error_dialog_insufficient_storage">Tu instancia de Nextcloud no tiene espacio de almacenamiento libre. Por favor, elimina algunos archivos para sincronizar tus cambios locales en tu nube.</string>
-    <string name="error_dialog_redirect">Tu servidor respondió con un código de estado HTTP 302, lo que implica que no tienes instalada la aplicación Notes en tu servidor o algo está mal configurado. Esto puede ser causado por anulaciones personalizadas en un archivo .htaccess o por aplicaciones de Nextcloud como OID Client.</string>
+    <string name="error_dialog_check_server_logs">Hay un problema con tu configuración de XeniaCloud. Por favor, revisa los archivos de registro del servidor.</string>
+    <string name="error_dialog_insufficient_storage">Tu instancia de XeniaCloud no tiene espacio de almacenamiento libre. Por favor, elimina algunos archivos para sincronizar tus cambios locales en tu nube.</string>
+    <string name="error_dialog_redirect">Tu servidor respondió con un código de estado HTTP 302, lo que implica que no tienes instalada la aplicación Notes en tu servidor o algo está mal configurado. Esto puede ser causado por anulaciones personalizadas en un archivo .htaccess o por aplicaciones de XeniaCloud como OID Client.</string>
     <string name="error_dialog_server_app_enabled">Asegúrate de haber instalado y habilitado la aplicación \"Notes\" en tu servidor.</string>
     <string name="error_dialog_timeout_instance">No hubo respuesta de tu servidor en el tiempo indicado. Asegúrate de que tu instancia esté funcionando correctamente.</string>
     <string name="error_dialog_timeout_toggle">Verifica tu conexión de red. A veces, activar y desactivar los datos móviles o Wi-Fi puede ayudar.</string>
@@ -169,7 +169,7 @@
     <string name="formatting_help_tables_column">Columna %1d</string>
     <string name="formatting_help_tables_title">Tablas</string>
     <string name="formatting_help_tables_value">Valor %1d</string>
-    <string name="formatting_help_text_body">Es muy fácil hacer que algunas palabras estén %1$s negrita%1$s y otras palabras %2$s cursiva%2$s con Markdown. Puedes %3$stachar%3$s algunas palabras e incluso [enlazar a Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Es muy fácil hacer que algunas palabras estén %1$s negrita%1$s y otras palabras %2$s cursiva%2$s con Markdown. Puedes %3$stachar%3$s algunas palabras e incluso [enlazar a XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Texto</string>
     <string name="fourHours">4 horas</string>
     <string name="http_status_code">Código de estado HTTP: %1$d</string>
@@ -240,7 +240,7 @@
     <string name="set_online_status">Estado en línea</string>
     <string name="settings_background_sync">Sincronización en segundo plano</string>
     <string name="settings_file_suffix">Extensión de archivo</string>
-    <string name="settings_file_suffix_description">Extensión de archivo para nuevas notas en tu Nextcloud</string>
+    <string name="settings_file_suffix_description">Extensión de archivo para nuevas notas en tu XeniaCloud</string>
     <string name="settings_file_suffix_success">Nuevo sufijo de archivo: %1$s</string>
     <string name="settings_font_size">Tamaño de fuente</string>
     <string name="settings_font_title">Fuente monoespaciada</string>
@@ -252,7 +252,7 @@
     <string name="settings_note_mode">Modo de visualización de las notas</string>
     <string name="settings_note_mode_new">Comportamiento de apertura de las notas</string>
     <string name="settings_notes_path">Establecer carpeta</string>
-    <string name="settings_notes_path_description">Carpeta para almacenar tus notas en tu Nextcloud</string>
+    <string name="settings_notes_path_description">Carpeta para almacenar tus notas en tu XeniaCloud</string>
     <string name="settings_notes_path_success">Nueva carpeta de notas: %1$s</string>
     <string name="settings_prevent_screen_capture">Evitar la captura de pantalla</string>
     <string name="settings_theme_title">Tema</string>

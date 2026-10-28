@@ -88,11 +88,11 @@
     <string name="error_action_open_deck_info">Aberi informatziones aplicatzione</string>
     <string name="error_action_open_network">Cunfiguratzione de rete</string>
     <string name="error_action_update_files_app">Agiorna</string>
-    <string name="error_dialog_check_maintenance">Controlla chi s\'istantza tua de Nextcloud non siat in fase de mantenimentu.</string>
+    <string name="error_dialog_check_maintenance">Controlla chi s\'istantza tua de XeniaCloud non siat in fase de mantenimentu.</string>
     <string name="error_dialog_check_server">Sa risposta de su serbidore tuo non fiat curreta. Controlla su podet atzèdere a is notas tuas tràmite interfache web.</string>
-    <string name="error_dialog_check_server_logs">Ddoe at unu problema cun s\'installatzione tua de Nextcloud. Pro praghere càstia in is archìvios de registru de su serbidore.</string>
-    <string name="error_dialog_insufficient_storage">In su Nextcloud tuo non ddoe at prus logu lìberu. Pro praghere cantzella unos cantos archìvios pro sincronizare is modìficas locales tuas con sa nue virtuale.</string>
-    <string name="error_dialog_redirect">Su serbidore tuo at rispostu cun unu còdighe de istadu HTTP 302, chi ìmplicat chi no as installadu s\'aplicatzione Note in su serbidore tuo o calicuna cosa no est cunfigurada in manera curreta. Custu podet èssere dèpidu a cunfiguratziones personalizadas in su documentu .htaccess o a aplicatziones de Nextcloud comente OID Client.</string>
+    <string name="error_dialog_check_server_logs">Ddoe at unu problema cun s\'installatzione tua de XeniaCloud. Pro praghere càstia in is archìvios de registru de su serbidore.</string>
+    <string name="error_dialog_insufficient_storage">In su XeniaCloud tuo non ddoe at prus logu lìberu. Pro praghere cantzella unos cantos archìvios pro sincronizare is modìficas locales tuas con sa nue virtuale.</string>
+    <string name="error_dialog_redirect">Su serbidore tuo at rispostu cun unu còdighe de istadu HTTP 302, chi ìmplicat chi no as installadu s\'aplicatzione Note in su serbidore tuo o calicuna cosa no est cunfigurada in manera curreta. Custu podet èssere dèpidu a cunfiguratziones personalizadas in su documentu .htaccess o a aplicatziones de XeniaCloud comente OID Client.</string>
     <string name="error_dialog_server_app_enabled">Segurati de àere installadu e abilitadu s\'aplicatzione \"Notes\" in su serbidore tuo.</string>
     <string name="error_dialog_timeout_instance">Non ddoe at àpidu peruna risposta dae su serbidore in su tempus istabilidu. Segura·ti chi sa rechesta tua siat esecutada in manera curreta.</string>
     <string name="error_dialog_timeout_toggle">Controlla sa connesione tua a sa rete. A bortas podet agiudare a disativare is datos mòbiles o su Wi-Fi e a ddos torrare a ativare.</string>
@@ -149,7 +149,7 @@
     <string name="formatting_help_tables_column">Colunna %1d</string>
     <string name="formatting_help_tables_title">Tabellas</string>
     <string name="formatting_help_tables_value">Balore %1d</string>
-    <string name="formatting_help_text_body">Est fàtzile meda a pònnere faeddos in %1$sgrassetu%1$s e àteros faeddos in %2$scursivu%2$s cun Markdown. Immoe podes %3$sbarrare%3$s faeddos e puru creare [ligòngios a Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Est fàtzile meda a pònnere faeddos in %1$sgrassetu%1$s e àteros faeddos in %2$scursivu%2$s cun Markdown. Immoe podes %3$sbarrare%3$s faeddos e puru creare [ligòngios a XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Testu</string>
     <string name="fourHours">4 oras</string>
     <string name="http_status_code">Còdighe de istadu HTTP: %1$d</string>
@@ -209,7 +209,7 @@
     <string name="set_online_status">Istadu in lìnia</string>
     <string name="settings_background_sync">Sincronizatzione isfundu</string>
     <string name="settings_file_suffix">Estensione de archìviu</string>
-    <string name="settings_file_suffix_description">Estensione de archìviu pro notas noas in su Nextcloud tuo</string>
+    <string name="settings_file_suffix_description">Estensione de archìviu pro notas noas in su XeniaCloud tuo</string>
     <string name="settings_file_suffix_success">Sufissu de archìviu nou: %1$s</string>
     <string name="settings_font_size">Dimensione caràtere</string>
     <string name="settings_font_title">Caràtere a ispatziadura fissa</string>
@@ -218,11 +218,10 @@
     <string name="settings_lock_summary">Credentziales de su dispositivu</string>
     <string name="settings_note_mode">Modalidades de visualizatzione de is notas</string>
     <string name="settings_notes_path">Cunfigura sa cartella</string>
-    <string name="settings_notes_path_description">Cartella pro archiviare is notas tuas in Nextcloud</string>
+    <string name="settings_notes_path_description">Cartella pro archiviare is notas tuas in XeniaCloud</string>
     <string name="settings_notes_path_success">Cartella de notas noa: %1$s</string>
     <string name="settings_prevent_screen_capture">Impedi sa catura de ischermu</string>
     <string name="settings_show_ecosystem_apps">Mustra su cuncambiadore de aplicatziones</string>
-    <string name="settings_show_ecosystem_apps_summary">Cussìgios de aplicatziones de Nextcloud in s\'intestatzione de su navigadore</string>
     <string name="settings_theme_title">Tema</string>
     <string name="settings_wifi_only">Sincroniza isceti cun su Wi-Fi</string>
     <string name="share">Cumpartzidura</string>

@@ -106,8 +106,6 @@
     <string name="ecosystem_apps_display_files">Фајлови</string>
     <string name="ecosystem_apps_display_more">Више</string>
     <string name="ecosystem_apps_display_talk">Разговор</string>
-    <string name="ecosystem_apps_more">Још Nextcloud апликација</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
     <string name="email_pick_failed">Није успело бирање и-мејл адресе.</string>
     <string name="error_action_open_battery_settings">Подешавања батерије</string>
     <string name="error_action_open_deck_info">Отвори инфо о апликацији</string>
@@ -115,9 +113,9 @@
     <string name="error_action_update_files_app">Ажурирај</string>
     <string name="error_dialog_check_maintenance">Проверите да ли Вам инстанца можда тренутно ради у режиму одржавања.</string>
     <string name="error_dialog_check_server">Одговор са Вашег сервера није исправан. Проверите да ли можете да приступите апликацији Белешки преко веба.</string>
-    <string name="error_dialog_check_server_logs">Постоји проблема са поставкама Вашег Некстклауда. Погледаје дневник у фајловима са сервера.</string>
-    <string name="error_dialog_insufficient_storage">На Некстклауд инстанци више нема простора. Обришите неке фајлове да синхронизујете локалне измене на облак.</string>
-    <string name="error_dialog_redirect">Сервер је одговорио са HTTP 302 кодом, што значи да немате инсталирану апликацију Белешке или да Вам сервер није правилно конфигурисан. Ово може да буде проузорковано произвољним додавањима у .htaccess фајлу или другим Некстклауд апликацијама као што је OID Client.</string>
+    <string name="error_dialog_check_server_logs">Постоји проблема са поставкама Вашег XeniaCloud. Погледаје дневник у фајловима са сервера.</string>
+    <string name="error_dialog_insufficient_storage">На XeniaCloud инстанци више нема простора. Обришите неке фајлове да синхронизујете локалне измене на облак.</string>
+    <string name="error_dialog_redirect">Сервер је одговорио са HTTP 302 кодом, што значи да немате инсталирану апликацију Белешке или да Вам сервер није правилно конфигурисан. Ово може да буде проузорковано произвољним додавањима у .htaccess фајлу или другим XeniaCloud апликацијама као што је OID Client.</string>
     <string name="error_dialog_server_app_enabled">Проверите да ли сте инсталирали и укључили апликацију „Белешке” на Вашем серверу.</string>
     <string name="error_dialog_timeout_instance">Није било одговора са сервера у задатом времену. Проверите да ли вам инстанца ради добро.</string>
     <string name="error_dialog_timeout_toggle">Проверите конекцију. Некад укључивање и иксључивање мобилних података или Wi-Fi-а може да помогне.</string>
@@ -179,7 +177,7 @@
     <string name="formatting_help_tables_column">Колона %1d</string>
     <string name="formatting_help_tables_title">Табеле</string>
     <string name="formatting_help_tables_value">Вредност %1d</string>
-    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка Нексткладу](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Текст</string>
     <string name="fourHours">4 сата</string>
     <string name="http_status_code">HTTP статусни кôд: %1$d</string>
@@ -272,7 +270,7 @@
     <string name="settings_enable_direct_edit">Директно уређивање</string>
     <string name="settings_enable_direct_edit_summary">Када је искључено, сакриће се напредни едитор.</string>
     <string name="settings_file_suffix">Екстензија фајла</string>
-    <string name="settings_file_suffix_description">Екстензија фајла за нове белешке на вашем Nextcloud серверу</string>
+    <string name="settings_file_suffix_description">Екстензија фајла за нове белешке на вашем XeniaCloud серверу</string>
     <string name="settings_file_suffix_success">Суфикс новог фајла: %1$s</string>
     <string name="settings_font_size">Величина фонта</string>
     <string name="settings_font_title">Фонт фиксне ширине</string>
@@ -284,11 +282,10 @@
     <string name="settings_note_mode">Режим приказа белешки</string>
     <string name="settings_note_mode_new">Понашање отварања белешке</string>
     <string name="settings_notes_path">Постави фолдер</string>
-    <string name="settings_notes_path_description">Фолдер у којем се на вашем Nextcloud серверу чувају белешке</string>
+    <string name="settings_notes_path_description">Фолдер у којем се на вашем XeniaCloud серверу чувају белешке</string>
     <string name="settings_notes_path_success">Нови фолдер за белешке: %1$s</string>
     <string name="settings_prevent_screen_capture">Спречи снимак екрана</string>
     <string name="settings_show_ecosystem_apps">Прикажи мењач апликација</string>
-    <string name="settings_show_ecosystem_apps_summary">Предлози Nextcloud апликација у заглављу навигације</string>
     <string name="settings_theme_title">Тема</string>
     <string name="settings_wifi_only">Синхронизуј само преко бежичне везе</string>
     <string name="share">Пдели</string>

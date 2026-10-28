@@ -108,22 +108,20 @@
     <string name="ecosystem_apps_display_files">Skráaforrit</string>
     <string name="ecosystem_apps_display_more">Meira</string>
     <string name="ecosystem_apps_display_talk">Spjalla</string>
-    <string name="ecosystem_apps_more">Fleiri Nextcloud-forrit</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
     <string name="email_pick_failed">Mistókst að velja tölvupóstfang.</string>
     <string name="error_action_open_battery_settings">Stillingar rafhlöðu</string>
     <string name="error_action_open_deck_info">Opna upplýsingar um forrit</string>
     <string name="error_action_open_network">Netkerfisstillingar</string>
     <string name="error_action_update_files_app">Uppfæra</string>
-    <string name="error_dialog_check_maintenance">Athugaðu hvort Nextcloud-þjónninn þinn sé nokkuð núna í viðhaldsham.</string>
+    <string name="error_dialog_check_maintenance">Athugaðu hvort XeniaCloud-þjónninn þinn sé nokkuð núna í viðhaldsham.</string>
     <string name="error_dialog_check_server">Svarið frá netþjóninum var ekki rétt. Athugaðu hvort þú getur komist í
  minnispunktana þína í gegnum vefviðmótið.</string>
-    <string name="error_dialog_check_server_logs">Það er vandamál með Nextcloud-uppsetninguna þína. Athugaðu atvikaskrár netþjónsins.</string>
-    <string name="error_dialog_insufficient_storage">Nextcloud-netþjónninn þinn á ekkert laust geymslupláss eftir. Eyddu einhverjum skrám til að geta samstillt breytingar á tækinu yfir í skýið.</string>
+    <string name="error_dialog_check_server_logs">Það er vandamál með XeniaCloud-uppsetninguna þína. Athugaðu atvikaskrár netþjónsins.</string>
+    <string name="error_dialog_insufficient_storage">XeniaCloud-netþjónninn þinn á ekkert laust geymslupláss eftir. Eyddu einhverjum skrám til að geta samstillt breytingar á tækinu yfir í skýið.</string>
     <string name="error_dialog_redirect">Þjónninn þinn svaraði með HTTP 302 stöðukóðae, sem bendir til að þú hafir
  ekki sett Notes minnispunktaforritið upp á netþjóninum eða að eitthvað sé
  vanstillt. Þetta getur komið til vegna sérsniðinna skipana í .htaccess-skrá
- eða vegna Nextcloud-forrita á borð við OID Client.</string>
+ eða vegna XeniaCloud-forrita á borð við OID Client.</string>
     <string name="error_dialog_server_app_enabled">Gakktu úr skugga um að þú hafir sett upp og virkjað Notes-forritið á netþjóninum þínum.</string>
     <string name="error_dialog_timeout_instance">Netþjónninn svaraði ekki innan tímamarka. Athugaðu hvort hann sé að starfa
  eðlilega.</string>
@@ -207,7 +205,7 @@
     <string name="formatting_help_tables_value">Gildi %1d</string>
     <string name="formatting_help_text_body">Það er mjög auðvelt að gera sum orð %1$sfeitletruð%1$s og önnur orð 
 %2$siskáletruð%2$s með Markdown. Þú getur líka %3$sgegnumstrikað%3$s orð og
- jafnvel [tengt í Nextcloud](https://nextcloud.com).</string>
+ jafnvel [tengt í XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Texti</string>
     <string name="fourHours">4 klukkustundir</string>
     <string name="http_status_code">HTTP-stöðukóði: %1$d</string>
@@ -304,7 +302,7 @@
     <string name="settings_enable_direct_edit">Breyta beint</string>
     <string name="settings_enable_direct_edit_summary">Þegar þetta er óvirkt verður ítarlegi ritillinn falinn.</string>
     <string name="settings_file_suffix">Skráarending</string>
-    <string name="settings_file_suffix_description">Skráarending fyrir nýja minnispunkta á Nextcloud-svæðinu þínu</string>
+    <string name="settings_file_suffix_description">Skráarending fyrir nýja minnispunkta á XeniaCloud-svæðinu þínu</string>
     <string name="settings_file_suffix_success">Skráarending nýrra skráa: %1$s</string>
     <string name="settings_font_size">Leturstærð</string>
     <string name="settings_font_title">Jafnbreitt letur</string>
@@ -316,11 +314,10 @@
     <string name="settings_note_mode">Birtingarhamur minnispunkta</string>
     <string name="settings_note_mode_new">Hegðun minnispunktaforrits við opnun</string>
     <string name="settings_notes_path">Setja möppu</string>
-    <string name="settings_notes_path_description">Mappa til að geyma minnispunktana þína á Nextcloud-svæðinu þínu</string>
+    <string name="settings_notes_path_description">Mappa til að geyma minnispunktana þína á XeniaCloud-svæðinu þínu</string>
     <string name="settings_notes_path_success">Mappa undir nýja minnispunkta: %1$s</string>
     <string name="settings_prevent_screen_capture">Koma í veg fyrir upptöku af skjá</string>
     <string name="settings_show_ecosystem_apps">Sýna forritaskipti</string>
-    <string name="settings_show_ecosystem_apps_summary">Tillögur Nextcloud-forrita í flakkfyrirsögn</string>
     <string name="settings_swipe_actions">Strokuaðgerðir</string>
     <string name="settings_swipe_actions_summary">Merktu minnispunkta sem eftirlæti eða eyddu þeim með stroku</string>
     <string name="settings_theme_title">Þema</string>

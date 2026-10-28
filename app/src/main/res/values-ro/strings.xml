@@ -98,8 +98,6 @@
     <string name="dismiss">Elimină</string>
     <string name="ecosystem_apps_display_more">Mai mult</string>
     <string name="ecosystem_apps_display_talk">Discuție</string>
-    <string name="ecosystem_apps_more">Mai multe aplicații Nextcloud</string>
-    <string name="ecosystem_apps_talk">Nextcloud Talk</string>
     <string name="email_pick_failed">Nu s-a putut alege adresa de e-mail.</string>
     <string name="error_action_open_battery_settings">Setări baterie</string>
     <string name="error_action_open_deck_info">Deschide info-ul aplicației </string>
@@ -107,9 +105,9 @@
     <string name="error_action_update_files_app">Actualizare</string>
     <string name="error_dialog_check_maintenance">Vă rugăm să verificaţi dacă instanţa dumneavoastră nu se află în modul de mentenanţă.</string>
     <string name="error_dialog_check_server">Răspunsul serverului dumneavoastră nu este corect. Vă rugăm să verificaţi dacă puteţi accesa Notiţe din browserul dumneavoastră web.</string>
-    <string name="error_dialog_check_server_logs">Există o problemă cu setările serverului Nexcloud. Vă rugăm să verificaţi fişierele log de pe server.</string>
-    <string name="error_dialog_insufficient_storage">Instanţa dumneavoastră Nextcloud nu mai are spaţiu liber. Vă rugăm să ştergeţi nişte nişte fişiere pentru a începe sincronizarea.</string>
-    <string name="error_dialog_redirect">Serverul tău nu a răspuns cu codul HTTP 302, ceea ce sugerează că nu ai instalată aplicația Notes pe server ceva este configurat greșit. Acest lucru poate fi cauzat de un fișier customizat .htaccess-file sau de aplicația Nextcloud precum clientul OID.</string>
+    <string name="error_dialog_check_server_logs">Există o problemă cu setările serverului XeniaCloud. Vă rugăm să verificaţi fişierele log de pe server.</string>
+    <string name="error_dialog_insufficient_storage">Instanţa dumneavoastră XeniaCloud nu mai are spaţiu liber. Vă rugăm să ştergeţi nişte nişte fişiere pentru a începe sincronizarea.</string>
+    <string name="error_dialog_redirect">Serverul tău nu a răspuns cu codul HTTP 302, ceea ce sugerează că nu ai instalată aplicația Notes pe server ceva este configurat greșit. Acest lucru poate fi cauzat de un fișier customizat .htaccess-file sau de aplicația XeniaCloud precum clientul OID.</string>
     <string name="error_dialog_server_app_enabled">Te rugăm să te asiguri că ai instalat și activat aplicația \"Notes\" pe serverul tău.</string>
     <string name="error_dialog_timeout_instance">Nu există un răsouns de la serverul dumneavoastră în timpul alocat. Vă rugăm să vă asigurați că serverul este funcțional și corect setat.</string>
     <string name="error_dialog_timeout_toggle">Vă rugăm să verificați conexiunea la rețea. Uneori activarea și dezactivarea datelor mobile sau Wi-Fi poate rezolva problema.</string>
@@ -128,7 +126,7 @@
     <string name="fontSize_large">Mare</string>
     <string name="fontSize_medium">Mediu</string>
     <string name="fontSize_small">Mic</string>
-    <string name="formatting_help_cbf_body_1">Un obiectiv de proiectare a aplicației Nextcloud este de a oferi o unealtă fără alte distracții, deși vei putea să formatezi textul cu libajul Markdown. Pentru unele dintre exemplele de mai jos poți folosi scurtături pentru a putea formata notițele tale fără să fie nevoie să introduci codurile de mai jos.</string>
+    <string name="formatting_help_cbf_body_1">Un obiectiv de proiectare a aplicației XeniaCloud este de a oferi o unealtă fără alte distracții, deși vei putea să formatezi textul cu libajul Markdown. Pentru unele dintre exemplele de mai jos poți folosi scurtături pentru a putea formata notițele tale fără să fie nevoie să introduci codurile de mai jos.</string>
     <string name="formatting_help_cbf_body_2">Doar selectează un text sau atinge cursorul în orice poziție si vei vedea un meniu popup ce conține lângă  %1$s, %2$s, %3$s și alte opțiuni precum %4$s sau %5$s.</string>
     <string name="formatting_help_cbf_title">Formatare bazata pe context</string>
     <string name="formatting_help_checkboxes_body_1">Pentru a creea o căsuță de bifat, folosește o listă urmată de paranteze</string>
@@ -169,7 +167,7 @@
     <string name="formatting_help_tables_column">Coloana %1d</string>
     <string name="formatting_help_tables_title">Tabele</string>
     <string name="formatting_help_tables_value">Valoare 1%1d</string>
-    <string name="formatting_help_text_body">Este foarte ușor să %1$s îngrojezi%1$s niște cuvinte și alte cuvinte să le faci %2$s curesive %2$s cu limbajul Markdown. Poți %3$stăia%3$s câteva cuvinte sau chiar introduce un [link către Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Este foarte ușor să %1$s îngrojezi%1$s niște cuvinte și alte cuvinte să le faci %2$s curesive %2$s cu limbajul Markdown. Poți %3$stăia%3$s câteva cuvinte sau chiar introduce un [link către XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Text</string>
     <string name="http_status_code">Codul de stare HTTP: %1$d</string>
     <string name="label_all_notes">Toate notițele</string>
@@ -234,7 +232,7 @@
     <string name="search_in_category">Căutare în 1%1$s</string>
     <string name="settings_background_sync">Sincronizare în fundal</string>
     <string name="settings_file_suffix">Extensia fişierului</string>
-    <string name="settings_file_suffix_description">Extensia fişierului pentru notiţele noi pe serverul dumneavoastră Nextcloud</string>
+    <string name="settings_file_suffix_description">Extensia fişierului pentru notiţele noi pe serverul dumneavoastră XeniaCloud</string>
     <string name="settings_file_suffix_success">Sufix pentru fişierele noi: %1$s</string>
     <string name="settings_font_size">Mărime font</string>
     <string name="settings_font_title">Font cu un singur spațiu </string>
@@ -245,7 +243,7 @@
     <string name="settings_lock_summary">Credențialele dispozitivului</string>
     <string name="settings_note_mode">Mod afișare notițe </string>
     <string name="settings_notes_path">Setează dosarul</string>
-    <string name="settings_notes_path_description">Dosarul pentru stocare a notițelor în Nextcloud</string>
+    <string name="settings_notes_path_description">Dosarul pentru stocare a notițelor în XeniaCloud</string>
     <string name="settings_notes_path_success">Dosar nou pentru notițe: %1$s</string>
     <string name="settings_prevent_screen_capture">Oprește captura de ecran</string>
     <string name="settings_theme_title">Temă</string>
