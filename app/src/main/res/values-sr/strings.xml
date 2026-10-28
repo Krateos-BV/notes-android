@@ -177,7 +177,7 @@
     <string name="formatting_help_tables_column">Колона %1d</string>
     <string name="formatting_help_tables_title">Табеле</string>
     <string name="formatting_help_tables_value">Вредност %1d</string>
-    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка Нексткладу](https://xeniacloud.eu).</string>
+    <string name="formatting_help_text_body">Са Markdown синтаксом је лако направити да неке речи буду %1$sподебљане%1$s, а друге речи %2$sу курзиву%2$s. Можете неке речи %3$sпрецртати%3$s или чак и направити [везу ка XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Текст</string>
     <string name="fourHours">4 сата</string>
     <string name="http_status_code">HTTP статусни кôд: %1$d</string>
