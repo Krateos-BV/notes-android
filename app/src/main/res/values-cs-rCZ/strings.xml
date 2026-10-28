@@ -115,7 +115,7 @@
     <string name="error_dialog_check_maintenance">Zkontrolujte, zda vámi využívaná instance XeniaCloud právě není v tuto chvíli v režimu údržby.</string>
     <string name="error_dialog_check_server">Odpověď od serveru nebyla správná. Zkontrolujte, zda ke svým poznámkám můžete přistupovat přes webové rozhraní.</string>
     <string name="error_dialog_check_server_logs">Je problém s nastavením vámi využívané instance XeniaCloud. Podívejte se do souborů se záznamem událostí na serveru.</string>
-    <string name="error_dialog_insufficient_storage">Na vámi využívané instanci Nexcloud nezbývá žádné volné místo na úložišti. Aby bylo možné synchronizovat vaše místní změny do vámi využívaného cloudu, je třeba nejprve smazat nějaké soubory.</string>
+    <string name="error_dialog_insufficient_storage">Na vámi využívané instanci XeniaCloud nezbývá žádné volné místo na úložišti. Aby bylo možné synchronizovat vaše místní změny do vámi využívaného cloudu, je třeba nejprve smazat nějaké soubory.</string>
     <string name="error_dialog_redirect">Vámi využívaný server odpověděl HTTP stavovým kódem 302, což ukazuje na to, že na serveru buď není nainstalovaná aplikace Poznámky, nebo je něco nesprávně nastavené. Toto může být způsobeno uživatelsky určenými přepsáními v souboru .htaccess nebo XeniaCloud aplikacemi jako je OID klient.</string>
     <string name="error_dialog_server_app_enabled">Ověřte, že na vámi využívaném serveru je nainstalovaná a zapnutá aplikace „Poznámky“.</string>
     <string name="error_dialog_timeout_instance">Server neodpověděl do určené doby. Ověřte, že vámi využívaná instance je v pořádku spuštěná.</string>
