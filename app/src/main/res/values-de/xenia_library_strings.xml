@@ -12,7 +12,7 @@
     <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Das Konto %1$s wurde in der Xenia Files-App nicht gefunden</string>
     <string name="nextcloud_files_app_no_store_installed_message">Um fortzufahren, installieren Sie bitte zuerst die Xenia Files-App auf Ihrem Gerät.</string>
     <string name="nextcloud_files_app_no_store_installed_title">Xenia Files-App erforderlich</string>
-    <string name="nextcloud_files_app_not_installed_message">Diese App benötigt die Xenia Files-App. Bitte installieren Sie diese, um dies App nutzen zu können.</string>
+    <string name="nextcloud_files_app_not_installed_message">Diese App benötigt die Xenia Files-App. Bitte installieren Sie diese, um diese App nutzen zu können.</string>
     <string name="nextcloud_files_app_not_installed_title">Xenia Files ist nicht installiert</string>
     <string name="nextcloud_files_app_not_supported_message">Bei Ihrer Xenia Files-App handelt es sich um eine ältere Version, die die Single Sign-On-Funktion noch nicht unterstützt.</string>
     <string name="nextcloud_files_app_not_supported_title">Xenia Files-App aktualisieren</string>
