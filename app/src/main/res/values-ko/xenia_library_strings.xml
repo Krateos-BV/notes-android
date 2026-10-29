@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">이 기기에 XeniaCloud 통합 인증을 사용하려면 계정에 접근권한을 부여해야합니다.</string>
+    <string name="nextcloud_files_app_account_not_found_message">요청한 계정을 XeniaCloud 파일 앱에서 찾을 수 없음</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">%1$s 계정을 Xenia Files 앱에서 찾을 수 없음</string>
+    <string name="nextcloud_files_app_not_installed_message">이 앱은 Xenia Files 앱을 필요로 합니다. 이 앱을 사용하려면 설치해 주세요.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud 파일이 설치되지 않음</string>
+</resources>

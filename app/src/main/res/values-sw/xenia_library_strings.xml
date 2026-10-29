@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Ili kutumia kipengele cha Kuingia Moja kwa Moja cha XeniaCloud kwenye kifaa hiki, unahitaji kutoa ruhusa ya kufikia akaunti zako</string>
+    <string name="bad_oc_version">Hakuna toleo halali la XeniaCloud lililopatikana kwenye seva</string>
+    <string name="instance_not_configured">Seva ya XeniaCloud haijasanidiwa!</string>
+    <string name="nextcloud_files_api_not_responding_message">Faili za API ya programu ya XeniaCloud  hazifanyi kazi. Hii ina uwezekano mkubwa kutokana na uboreshaji wa betri kwenye simu yako. Jaribu kuzima uboreshaji wa betri kwa programu zote mbili (Faili za XeniaCloud na programu hii). Katika visa vingine vyote tafadhali jaribu kufuta uhifadhi wa programu zote mbili.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Akaunti iliyoombwa haikupatikana katika faili za programu ya XeniaCloud</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Akaunti %1$s haikupatikana katika faili za programu ya XeniaCloud </string>
+    <string name="nextcloud_files_app_no_store_installed_message">Ili kuendelea, tafadhali sakinisha faili za programu ya XeniaCloud  kwenye kifaa chako kwanza.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Faili za XeniaCloud zinahitajika</string>
+    <string name="nextcloud_files_app_not_installed_message">This app depends on the Xenia Files app. Please install it in order to use this app.</string>
+    <string name="nextcloud_files_app_not_installed_title">Faili za XeniaCloud hazikusakinishwa</string>
+    <string name="nextcloud_files_app_not_supported_message">Faili za programu yako ya XeniaCloud  ni toleo la zamani ambalo bado halitumii kipengele cha Kuingia Mara Moja.</string>
+    <string name="nextcloud_files_app_not_supported_title">Sasisha faili za programu ya XeniaCloud</string>
+    <string name="notification_channel_name">Mtandao wa XeniaCloud</string>
+</resources>

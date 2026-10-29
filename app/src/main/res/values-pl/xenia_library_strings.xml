@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Aby korzystać z jednokrotnego logowania XeniaCloud (SSO) na tym urządzeniu, musisz udzielić zezwolenia na dostęp do swoich kont</string>
+    <string name="bad_oc_version">Na serwerze nie znaleziono wymaganej wersji XeniaCloud</string>
+    <string name="instance_not_configured">Serwer XeniaCloud nie został skonfigurowany!</string>
+    <string name="nextcloud_files_api_not_responding_message">Interfejs API aplikacji Pliki XeniaCloud nie odpowiada. Jest to najprawdopodobniej spowodowane optymalizacją baterii w telefonie. Spróbuj wyłączyć optymalizację baterii dla obu aplikacji (Pliki XeniaCloud i tej aplikacji). We wszystkich pozostałych przypadkach spróbuj wyczyścić pamięć obu aplikacji.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Żądane konto nie zostało znalezione w aplikacji Pliki XeniaCloud</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Konto %1$s nie zostało znalezione w aplikacji Pliki XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Aby kontynuować, zainstaluj najpierw aplikację Pliki XeniaCloud na swoim urządzeniu.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Wymagane Pliki XeniaCloud</string>
+    <string name="nextcloud_files_app_not_installed_message">Aplikacja ta zależna jest od aplikacji Pliki XeniaCloud. Zainstaluj ją, aby móc korzystać z tej aplikacji.</string>
+    <string name="nextcloud_files_app_not_installed_title">Pliki XeniaCloud nie zostały zainstalowane</string>
+    <string name="nextcloud_files_app_not_supported_message">Twoja aplikacja Pliki XeniaCloud jest starszą wersją, która nie obsługuje jeszcze funkcji jednokrotnego logowania.</string>
+    <string name="nextcloud_files_app_not_supported_title">Zaktualizuj aplikację Pliki XeniaCloud</string>
+    <string name="notification_channel_name">Połączenie XeniaCloud</string>
+</resources>

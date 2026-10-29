@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Para poder utilizar a «Identificación única» (Single-Sign-On) de XeniaCloud neste dispositivo, ten que concederlle permiso para acceder as súas contas.</string>
+    <string name="bad_oc_version">Non se atopou ningunha versión válida de XeniaCloud no servidor</string>
+    <string name="instance_not_configured">O servidor XeniaCloud non está configurado!</string>
+    <string name="nextcloud_files_api_not_responding_message">A API da aplicación Ficheiros de XeniaCloud non responde. É probábel que isto se deba ás optimizacións da batería do seu teléfono. Tente desactivar a optimización da batería para ambas as aplicacións (XeniaCloud Android máis esta). No resto dos casos, tente borrar o almacenamento de ambas as aplicacións.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Non foi posíbel atopar a conta solicitada na aplicación Ficheiros de XeniaCloud</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Non foi posíbel atopar a conta %1$s na aplicación Ficheiros de XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Para poder continuar, instale antes a aplicación Ficheiros de XeniaCloud no seu dispositivo.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Precísase de Ficheiros de XeniaCloud</string>
+    <string name="nextcloud_files_app_not_installed_message">Esta aplicación depende da aplicación Ficheiros de XeniaCloud. Instálea para poder usar esta aplicación.</string>
+    <string name="nextcloud_files_app_not_installed_title">Ficheiros de XeniaCloud non está instalada</string>
+    <string name="nextcloud_files_app_not_supported_message">A súa aplicación Ficheiros de XeniaCloud é unha versión antiga que aínda non admite a función de Identificación única (SSO).</string>
+    <string name="nextcloud_files_app_not_supported_title">Actualizar a aplicación Ficheiros de XeniaCloud</string>
+    <string name="notification_channel_name">Conexión de XeniaCloud</string>
+</resources>

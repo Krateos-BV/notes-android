@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Om XeniaCloud Single-Sign-On op dit apparaat te gebruiken moet je toestemming geven om je accounts te benaderen</string>
+    <string name="bad_oc_version">Er is geen geldige XeniaCloud-versie gevonden op de server</string>
+    <string name="instance_not_configured">De XeniaCloud server is niet geconfigureerd!</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files app API reageert niet. Dit komt waarschijnlijk door batterij-optimalisaties op je toestel. Probeer de batterij-optimalisatie voor beide apps (Xenia Files en deze app) uit te schakelen. Probeer in alle andere gevallen de opslag van beide apps op te schonen.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Geselecteerde account niet gevonden in Xenia Files app</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Het account %1$s werd niet gevonden in Xenia Files app</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Installeer eerst de Xenia Files app op je apparaat om door te kunnen gaan.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Xenia Files vereist</string>
+    <string name="nextcloud_files_app_not_installed_message">Deze app is afhankelijk van de Xenia Files app. Installeer deze om deze app te gebruiken.</string>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files niet geïnstalleerd</string>
+    <string name="nextcloud_files_app_not_supported_message">Je Xenia Files app is een oudere versie die de Single Sign On functie nog niet ondersteunt.</string>
+    <string name="nextcloud_files_app_not_supported_title">Update Xenia Files app</string>
+    <string name="notification_channel_name">XeniaCloud verbinding</string>
+</resources>

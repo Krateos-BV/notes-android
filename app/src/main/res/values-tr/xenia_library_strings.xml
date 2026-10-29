@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Bu aygıt üzerinde XeniaCloud Tek oturum açma özelliğini kullanabilmek için hesaplarınıza erişim izni vermelisiniz</string>
+    <string name="bad_oc_version">Sunucuda geçerli bir XeniaCloud sürümü bulunamadı</string>
+    <string name="instance_not_configured">XeniaCloud sunucusu yapılandırılmamış!</string>
+    <string name="nextcloud_files_api_not_responding_message">XeniaCloud Dosyalar uygulamasının API arayüzü yanıt vermiyor. Bu durum büyük olasılıkla telefonunuzdaki pil kullanımını iyileştirme ayarlarından kaynaklanır. İki uygulama için de pil kullanımını iyileştirme seçeneğini kapatmayı deneyin (XeniaCloud Dosyalar ve bu uygulama). Bunun dışında, her iki uygulamanın da depolama alanını temizlemeyi deneyebilirsiniz.</string>
+    <string name="nextcloud_files_app_account_not_found_message">İstenilen hesap XeniaCloud Dosyalar uygulamasında bulunamadı</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">%1$s hesabı XeniaCloud Dosyalar uygulamasında bulunamadı</string>
+    <string name="nextcloud_files_app_no_store_installed_message">İlerlemek için lütfen önce aygıtınıza XeniaCloud Dosyalar uygulamasını kurun.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud Dosyalar uygulaması gereklidir</string>
+    <string name="nextcloud_files_app_not_installed_message">Bu uygulama, XeniaCloud Dosyalar uygulamasına bağlıdır. Bu uygulamayı kullanabilmek için lütfen Dosyalar uygulamasını kurun.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud Dosyalar uygulaması kurulu değil</string>
+    <string name="nextcloud_files_app_not_supported_message">XeniaCloud Dosyalar uygulamanız, çoklu oturum açma özelliğini desteklemeyen eski bir sürüm.</string>
+    <string name="nextcloud_files_app_not_supported_title">XeniaCloud Dosyalar uygulamasını güncelle</string>
+    <string name="notification_channel_name">XeniaCloud bağlantısı</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Pa usar l\'aniciu de sesión únicu de XeniaCloud nesti preséu, tienes de conceder el permisu p\'acceder a les cuentes</string>
+    <string name="nextcloud_files_app_not_installed_message">Esta aplicación depende de l\'aplicación Xenia Files. Instálala pa usar esta aplicación.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud File nun ta instaláu</string>
+</resources>

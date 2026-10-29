@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Afin d\'utiliser l\'authentification unique de XeniaCloud sur cet appareil, vous devez en autoriser l\'accès dans vos comptes utilisateur</string>
+    <string name="bad_oc_version">Aucune version valide de XeniaCloud n\'a été trouvée sur le serveur</string>
+    <string name="instance_not_configured">Le serveur XeniaCloud n\'est pas configuré !</string>
+    <string name="nextcloud_files_api_not_responding_message">Pas de réponse de l\'API de l\'application Xenia Files. Cela est probablement dû à des optimalisations de la batterie de votre téléphone. Essayez de désactiver l\'optimalisation de la batterie pour les 2 applications (Xenia Files et cette application). Sinon, essayez de remettre à zéro le stockage de ces 2 applications.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Le compte demandé n\'a pas été trouvé dans l\'application Fichiers de XeniaCloud.</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Le compte %1$s n\'a pas été trouvé dans l\'application Fichiers de XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Pour pouvoir continuer, merci de d\'abord installer l\'application Fichiers XeniaCloud sur votre appareil.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Fichiers XeniaCloud est exigé</string>
+    <string name="nextcloud_files_app_not_installed_message">Cette application dépend de l\'application Fichiers de XeniaCloud. Veuillez l\'installer pour pouvoir utiliser cette application.</string>
+    <string name="nextcloud_files_app_not_installed_title">L\'application Fichiers XeniaCloud n\'est pas installé</string>
+    <string name="nextcloud_files_app_not_supported_message">Votre application Fichiers XeniaCloud est une ancienne version qui n\'est pas compatible avec la fonctionnalité d\'authentification unique.</string>
+    <string name="nextcloud_files_app_not_supported_title">Mettre à jour l\'application Fichiers XeniaCloud</string>
+    <string name="notification_channel_name">Connexion à XeniaCloud</string>
+</resources>

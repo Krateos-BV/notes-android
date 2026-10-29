@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">De manera de poder usar XeniaCloud Single Sign On en este dispositivo, debe concederle permiso para el acceso a sus cuentas</string>
+    <string name="bad_oc_version">No se ha encontrado una versión válida de XeniaCloud en el servidor</string>
+    <string name="instance_not_configured">¡El servidor XeniaCloud no está configurado!</string>
+    <string name="nextcloud_files_api_not_responding_message">El API de la aplicación Archivos de XeniaCloud no responde. Esto suele ser debido a las optimizaciones de batería en su teléfono. Intente deshabilitar la optimización de batería en ambas aplicaciones (Archivos de XeniaCloud y esta app). En cualquiera de los otros casos, por favor, intente limpiar los datos de almacenamiento de ambas aplicaciones.</string>
+    <string name="nextcloud_files_app_account_not_found_message">La cuenta solicitada no fue encontrada en la app Archivos de XeniaCloud</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">La cuenta %1$s no se encontró en la app Archivos de XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Para poder continuar, por favor instale primero la app de Archivos de XeniaCloud en su dispositivo.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Se requiere Archivos de XeniaCloud</string>
+    <string name="nextcloud_files_app_not_installed_message">Esta app depende de la app Archivos de XeniaCloud. Por favor, instale la misma para utilizar esta app.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud Archivos no está instalado</string>
+    <string name="nextcloud_files_app_not_supported_message">Su app Archivos de XeniaCloud es una versión antigüa que no soporta todavía la característica de Single Sign On.</string>
+    <string name="nextcloud_files_app_not_supported_title">Actualizar la app de Archivos de XeniaCloud</string>
+    <string name="notification_channel_name">Conexión a XeniaCloud</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">For at kunne benytte XeniaCloud Single Sign On på denne enhed, skal du tildele adgang til dine konti</string>
+    <string name="bad_oc_version">Ingen gyldig XeniaCloud version blev fundet på serveren</string>
+    <string name="instance_not_configured">XeniaCloud serveren er ikke konfigureret</string>
+    <string name="nextcloud_files_api_not_responding_message">XeniaCloud Filer appens API svarer ikke. Dette skyldes højst sandsynligt batterioptimeringer på din telefon. Prøv at deaktivere batterioptimeringen for begge apps (XeniaCloud Filer og denne app). I alle andre tilfælde prøv at rydde lagrede filer i begge apps.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Den anmodede konto findes ikke i XeniaCloud Filer appen</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Kontoen %1$s findes ikke i XeniaCloud Filer appen</string>
+    <string name="nextcloud_files_app_no_store_installed_message">For at fortsætte, skal du installerer Xenia Files appen på din enhed først.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud Filer påkrævet</string>
+    <string name="nextcloud_files_app_not_installed_message">Denne app kræver XeniaCloud Filer. Installer appen for at bruge denne app.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud Filer ikke installeret</string>
+    <string name="nextcloud_files_app_not_supported_message">XeniaCloud Filer appen er en ældre version, der ikke understøtter Single Sign On endnu.</string>
+    <string name="nextcloud_files_app_not_supported_title">Opdatér XeniaCloud Filer appen</string>
+    <string name="notification_channel_name">XeniaCloud forbindelse</string>
+</resources>

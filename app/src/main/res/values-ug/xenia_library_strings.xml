@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">بۇ ئۈسكۈنىدە XeniaCloud يەككە تىزىملىكىنى ئىشلىتىش ئۈچۈن ، ھېساباتىڭىزنى زىيارەت قىلىشقا ئىجازەت بېرىشىڭىز كېرەك</string>
+    <string name="bad_oc_version">مۇلازىمېتىردا ئىناۋەتلىك XeniaCloud نەشىرى تېپىلمىدى</string>
+    <string name="instance_not_configured">XeniaCloud مۇلازىمېتىرى سەپلەنمىدى</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files ئەپى API ئىنكاس قايتۇرمىدى. بۇ بەلكىم تېلېفونىڭىزدىكى باتارېيەنىڭ ئەلالاشتۇرۇشىدىن بولۇشى مۇمكىن. ھەر ئىككى ئەپنىڭ (XeniaCloud ھۆججەتلىرى ۋە بۇ دېتال) باتارېيەنى ئەلالاشتۇرۇشنى چەكلەڭ. باشقا بارلىق ئەھۋاللاردا ھەر ئىككى ئەپنىڭ ساقلىنىشىنى تازىلاپ بېقىڭ.</string>
+    <string name="nextcloud_files_app_account_not_found_message">تەلەپ قىلىنغان ھېسابات Xenia Files ئەپىدە تېپىلمىدى</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Xenia Files ئەپىدە% 1 $ s ھېسابات تېپىلمىدى</string>
+    <string name="nextcloud_files_app_no_store_installed_message">داۋاملاشتۇرۇش ئۈچۈن ئالدى بىلەن Xenia Files دېتالىنى ئۈسكۈنىڭىزگە قاچىلاڭ.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud ھۆججەتلىرى تەلەپ قىلىنىدۇ</string>
+    <string name="nextcloud_files_app_not_installed_message">بۇ ئەپ XeniaCloud ھۆججەتلىرى دېتالىغا باغلىق. بۇ ئەپنى ئىشلىتىش ئۈچۈن قاچىلاڭ.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud ھۆججەتلىرى ئورنىتىلمىدى</string>
+    <string name="nextcloud_files_app_not_supported_message">Xenia Files دېتالىڭىز كونا نەشرى بولۇپ ، تېخى تاق كىرىش ئىقتىدارىنى قوللىمايدۇ.</string>
+    <string name="nextcloud_files_app_not_supported_title">XeniaCloud ھۆججەت دېتالىنى يېڭىلاڭ</string>
+    <string name="notification_channel_name">XeniaCloud ئۇلىنىشى</string>
+</resources>

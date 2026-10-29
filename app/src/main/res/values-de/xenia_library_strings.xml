@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Um das XeniaCloud Single-Sign-On auf diesem Gerät nutzen zu können, müssen Sie die Berechtigung zum Zugriff auf Ihre Konten erteilen</string>
+    <string name="bad_oc_version">Es wurde keine gültige XeniaCloud-Version auf dem Server gefunden</string>
+    <string name="instance_not_configured">Der XeniaCloud-Server ist nicht konfiguriert!</string>
+    <string name="nextcloud_files_api_not_responding_message">Die Xenia Files-App-API reagiert nicht. Dies ist höchstwahrscheinlich auf die Akkuoptimierungen Ihres Smartphones zurückzuführen. Versuchen Sie, die Batterieoptimierung für beide Apps (Xenia Files und diese App) zu deaktivieren. Ansonsten versuchen Sie bitte, den Speicher beider Apps zu löschen.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Das angeforderte Konto wurde in der Xenia Files-App nicht gefunden</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Das Konto %1$s wurde in der Xenia Files-App nicht gefunden</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Um fortzufahren, installieren Sie bitte zuerst die Xenia Files-App auf Ihrem Gerät.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Xenia Files-App erforderlich</string>
+    <string name="nextcloud_files_app_not_installed_message">Diese App benötigt die Xenia Files-App. Bitte installieren Sie diese, um dies App nutzen zu können.</string>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files ist nicht installiert</string>
+    <string name="nextcloud_files_app_not_supported_message">Bei Ihrer Xenia Files-App handelt es sich um eine ältere Version, die die Single Sign-On-Funktion noch nicht unterstützt.</string>
+    <string name="nextcloud_files_app_not_supported_title">Xenia Files-App aktualisieren</string>
+    <string name="notification_channel_name">XeniaCloud-Verbindung</string>
+</resources>

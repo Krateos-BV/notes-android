@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">XeniaCloud Sinadura Bakarra gailu honetan erabili ahal izateko, zure kontuetara sartzeko baimena eman behar duzu</string>
+    <string name="bad_oc_version">Zerbitzarian ez da XeniaCloud-en baliozko bertsiorik aurkitu</string>
+    <string name="instance_not_configured">XeniaCloud zerbitzaria ez dago konfiguratuta!</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files aplikazioaren APIak ez du erantzuten. Litekeena da telefonoan bateria optimizatzeagatik izatea. Saiatu bateriaren optimizazioa desgaitzen bi aplikazioetarako (XeniaCloud Fitxategiak eta aplikazio hau). Beste kasu guztietan saiatu bi aplikazioen biltegia garbitzen.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Eskatutako kontua ez da aurkitu XeniaCloud Fitxategiak aplikazioan</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">%1$s kontua ez da XeniaCloud Fitxategiak aplikazioan aurkitu</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Jarraitzeko, mesedez instalatu XeniaCloud Fitxategiak aplikazioa zure gailuan lehenago.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud Fitxategiak beharrezkoa da</string>
+    <string name="nextcloud_files_app_not_installed_message">Aplikazio honek Xenia Files aplikazioa behar du. Mesedez instalatu ezazu aplikazio hau erabiltzeko.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud Fitxategiak ez dago instalatuta</string>
+    <string name="nextcloud_files_app_not_supported_message">Zure XeniaCloud Fitxategiak aplikazioa Sinadura Bakarreko ezaugarria onartzen ez duen bertsio zaharrago bat da.</string>
+    <string name="nextcloud_files_app_not_supported_title">Eguneratu Xenia Files aplikazioa</string>
+    <string name="notification_channel_name">XeniaCloud konexioa</string>
+</resources>

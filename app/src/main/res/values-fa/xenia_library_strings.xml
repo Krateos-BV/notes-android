@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="instance_not_configured">سرور XeniaCloud پیکربندی نشده است!</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files app API is not responding. This is most likely due to battery optimizations on your phone. Try to disable the battery optimization for both apps (Xenia Files and this app). In all other cases please try to clear the storage of both apps.</string>
+    <string name="nextcloud_files_app_account_not_found_message">The requested account was not found in Xenia Files app</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">The account %1$s was not found in Xenia Files app</string>
+    <string name="nextcloud_files_app_no_store_installed_message">In order to continue please install the Xenia Files app on your device first.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Xenia Files required</string>
+    <string name="nextcloud_files_app_not_installed_message">This app depends on the Xenia Files app. Please install it in order to use this app.</string>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files not installed</string>
+    <string name="nextcloud_files_app_not_supported_message">Your Xenia Files app is an older version which does not yet support the Single Sign On feature.</string>
+    <string name="nextcloud_files_app_not_supported_title">به‌روزرسانی برنامه پرونده‌های XeniaCloud</string>
+    <string name="notification_channel_name">اتصال XeniaCloud</string>
+</resources>

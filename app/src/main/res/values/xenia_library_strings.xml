@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">In order to use the XeniaCloud Single Sign On on this device, you need to grant permission to access your accounts</string>
+    <string name="bad_oc_version">No valid XeniaCloud version was found at the server</string>
+    <string name="instance_not_configured">The XeniaCloud server is not configured!</string>
+    <string name="notification_channel_name">XeniaCloud connection</string>
+    <string name="url_sso_create_issue" translatable="false">@string/url_issues</string>
+    <string name="url_sso_documentation" translatable="false">@string/url_issues</string>
+</resources>

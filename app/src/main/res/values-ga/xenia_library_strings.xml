@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="android_get_accounts_permission_not_granted_exception_message">Chun síniú Amháin XeniaCloud ar an ngléas seo a úsáid, ní mór duit cead a thabhairt do chuntais a rochtain</string>
+    <string name="bad_oc_version">Níor aimsíodh leagan bailí XeniaCloud ar an bhfreastalaí</string>
+    <string name="instance_not_configured">Níl an freastalaí XeniaCloud cumraithe!</string>
+    <string name="nextcloud_files_api_not_responding_message">Níl Xenia Files app ag freagairt. Is dócha go bhfuil sé seo mar gheall ar leas iomlán a bhaint as ceallraí ar do ghuthán. Déan iarracht an leas iomlán a bhaint as ceallraí a dhíchumasú don dá aip (Comhaid XeniaCloud agus an aip seo). I ngach cás eile déan iarracht stóráil an dá aip a ghlanadh le do thoil.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Ní bhfuarthas an cuntas iarrtha san aip Xenia Files</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Níor aimsíodh an cuntas %1$s san aip Xenia Files</string>
+    <string name="nextcloud_files_app_no_store_installed_action">Comhaid XeniaCloud ag teastáil</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Chun leanúint ar aghaidh, suiteáil an aip Xenia Files ar do ghléas ar dtús.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Comhaid XeniaCloud ag teastáil</string>
+    <string name="nextcloud_files_app_not_installed_message">Braitheann an aip seo ar an aip Xenia Files. Suiteáil é le do thoil chun an aip seo a úsáid.</string>
+    <string name="nextcloud_files_app_not_installed_title">Comhaid XeniaCloud gan a bheith suiteáilte</string>
+    <string name="nextcloud_files_app_not_supported_message">Is leagan níos sine é d’aip Xenia Files nach dtacaíonn leis an ngné Síniú Aonair fós.</string>
+    <string name="nextcloud_files_app_not_supported_title">Nuashonraigh an aip Comhaid XeniaCloud</string>
+    <string name="notification_channel_name">Nasc XeniaCloud</string>
+</resources>
