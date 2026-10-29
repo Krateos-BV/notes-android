@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Per utilitzar l\'inici de sessió únic de XeniaCloud en aquest dispositiu, heu de concedir el permís per accedir als vostres comptes</string>
+    <string name="bad_oc_version">No s\'ha trobat cap versió vàlida del XeniaCloud al servidor.</string>
+    <string name="instance_not_configured">El servidor del XeniaCloud no està configurat</string>
+    <string name="nextcloud_files_api_not_responding_message">L\'API de l\'aplicació Fitxers del XeniaCloud no respon. És molt probable les optimitzacions de la bateria del telèfon siguin la causa d\'aquest error. Intenteu desactivar l\'optimització de la bateria per a ambdues aplicacions (Fitxers del XeniaCloud i aquesta aplicació). En tots els altres casos, intenteu netejar l\'emmagatzematge d\'ambdues aplicacions.</string>
+    <string name="nextcloud_files_app_account_not_found_message">No s\'ha trobat el compte sol·licitat a l\'aplicació Fitxers del XeniaCloud</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">No s\'ha trobat el compte %1$s a l\'aplicació Fitxers del XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Per continuar, instal·leu l\'aplicació Fitxers del XeniaCloud al vostre dispositiu.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">És necessari tenir Fitxers del XeniaCloud</string>
+    <string name="nextcloud_files_app_not_installed_message">Aquesta aplicació depèn de l\'aplicació Fitxers del XeniaCloud. Instal·leu-la per utilitzar aquesta aplicació.</string>
+    <string name="nextcloud_files_app_not_installed_title">L\'aplicació Fitxers del XeniaCloud no està instal·lada</string>
+    <string name="nextcloud_files_app_not_supported_message">Teniu una versió antiga de l\'aplicació  Fitxers del XeniaCloud que   encara no admet la funció de l\'inici de sessió únic.</string>
+    <string name="nextcloud_files_app_not_supported_title">Actualitza l\'aplicació Fitxers del XeniaCloud</string>
+    <string name="notification_channel_name">Connexió XeniaCloud</string>
+</resources>

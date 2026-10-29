@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Untuk menggunakan XeniaCloud Single-Sign-On pada perangkat ini, Anda perlu memberikan izin untuk mengakses akun Anda</string>
+    <string name="nextcloud_files_app_account_not_found_message">Akun tidak ditemukan di aplikasi Xenia Files</string>
+    <string formatted="true" name="nextcloud_files_app_not_installed_message">Aplikasi Xenia Files tidak terinstal. Silakan instal: %1$s</string>
+</resources>

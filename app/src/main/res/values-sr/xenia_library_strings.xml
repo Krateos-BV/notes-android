@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Да бисте користили једнократну XeniaCloud пријаву на овом уређају, морате дати дозволу за приступ вашим налозима</string>
+    <string name="bad_oc_version">На серверу није пронађена ниједна исправна XeniaCloud верзија</string>
+    <string name="instance_not_configured">XeniaCloud сервер није конфигурисан!</string>
+    <string name="nextcloud_files_api_not_responding_message">API апликације XeniaCloud Фајлови се не одазива. Ово је најчешће последица оптимизације батерије на вашем телефону. Покушајте да за обе апликације искључите оптимизацију батерије (XeniaCloud Фајлови и ову апликацију). У свим осталим случајевима, молимо вас да покушате са брисањем складишта обе апликације.</string>
+    <string name="nextcloud_files_app_account_not_found_message">У апликацији XeniaCloud Фајлови није пронађен тражени налог</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">У апликацији XeniaCloud Фајлови није пронађен налог %1$s</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Да бисте наставили, молимо вас да најпре на свој уређај инсталирате апликацију XeniaCloud Фајлови.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Потребна је апликација XeniaCloud Фајлови</string>
+    <string name="nextcloud_files_app_not_installed_message">Ова апликација зависи од апликације XeniaCloud Фајлови. Да бисте је користили, молимо вас да инсталирате апликацију Фајлови.</string>
+    <string name="nextcloud_files_app_not_installed_title">Није инсталирана апликација XeniaCloud Фајлови</string>
+    <string name="nextcloud_files_app_not_supported_message">Ваша апликација XeniaCloud Фајлови је старије верзије која још увек не подржава могућност једократне пријаве.</string>
+    <string name="nextcloud_files_app_not_supported_title">Ажурирај апликацију XeniaCloud Фајлови</string>
+    <string name="notification_channel_name">XeniaCloud веза</string>
+</resources>

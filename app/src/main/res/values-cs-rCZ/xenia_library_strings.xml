@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Abyste na tomto zařízení mohli využívat XeniaCloud sjednoceného přihlašování (sso), je třeba udělit oprávnění pro přístup k vašim účtům</string>
+    <string name="bad_oc_version">Na serveru nenalezena platná verze XeniaCloud</string>
+    <string name="instance_not_configured">XeniaCloud server není nastaven!</string>
+    <string name="nextcloud_files_api_not_responding_message">Aplikační program. rozhraní (API) aplikace XeniaCloud pro Android neodpovídá. Toto je nejpravděpodobněji kvůli optimalizacím využití energie z akumulátoru, nastaveným ve vašem telefonu. Zkuste tyto optimalizace vypnout pro obě aplikace (XeniaCloud Android a tuto aplikaci). Ve všech ostatních případech zkuste v rámci systému vyčistit úložiště obou aplikací.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Požadovaný účet nebyl v aplikaci XeniaCloud pro Android nalezen</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Účet %1$s nebyl v aplikaci XeniaCloud pro Android nalezen</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Pokud chcete pokračovat, nejprve na své zařízení nainstalujte XeniaCloud pro Android</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Vyžadováno XeniaCloud pro Android</string>
+    <string name="nextcloud_files_app_not_installed_message">Tato aplikace závisí na aplikaci XeniaCloud pro Android. Nainstalujte ji, abyste mohli používat tuto aplikaci.</string>
+    <string name="nextcloud_files_app_not_installed_title">Není nainstalovaný XeniaCloud pro Android</string>
+    <string name="nextcloud_files_app_not_supported_message">Vámi používaná aplikace XeniaCloud pro Android je ve starší verze, která ještě nepodporovala funkci sjednoceného přihlašování (SSO).</string>
+    <string name="nextcloud_files_app_not_supported_title">Zaktualizovat aplikace XeniaCloud pro Android</string>
+    <string name="notification_channel_name">Připojení k XeniaCloud</string>
+</resources>

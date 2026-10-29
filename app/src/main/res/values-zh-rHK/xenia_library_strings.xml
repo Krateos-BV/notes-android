@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">你必須先授權存取帳戶，才能在裝置上使用  XeniaCloud 單一登入功能。</string>
+    <string name="bad_oc_version">伺服器上找不到有效的 XeniaCloud 版本</string>
+    <string name="instance_not_configured">未配置 XeniaCloud 伺服器！</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files 應用程式 API 沒有回應。這很可能是由於您手機上的電池優化。嘗試禁用此應用程式及 Xenia Files 應用程式的電池優化。在所有其他情況下，請嘗試清除這兩個應用程式的存儲..</string>
+    <string name="nextcloud_files_app_account_not_found_message">在 Xenia Files 應用程式中找不到要求的帳號</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">在 Xenia Files 應用程式中找不到 %1$s 帳戶</string>
+    <string name="nextcloud_files_app_no_store_installed_message">要繼續，請先在您的裝置上安裝 Xenia Files 應用程式。</string>
+    <string name="nextcloud_files_app_no_store_installed_title">需要 Xenia Files</string>
+    <string name="nextcloud_files_app_not_installed_message">此應用程式依賴 Xenia Files 應用程式。請安裝該應用程式以使用此應用程式。</string>
+    <string name="nextcloud_files_app_not_installed_title">未安裝 Xenia Files</string>
+    <string name="nextcloud_files_app_not_supported_message">您的 Xenia Files 應用程式為尚不支援單一登入功能的舊版本。</string>
+    <string name="nextcloud_files_app_not_supported_title">更新 Xenia Files 應用程式</string>
+    <string name="notification_channel_name">XeniaCloud 連接</string>
+</resources>

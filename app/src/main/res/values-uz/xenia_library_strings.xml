@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Bu qurilmada XeniaCloud yagona kirish funksiyasidan foydalanish uchun hisoblaringizga kirishga ruxsat berishingiz kerak.</string>
+    <string name="bad_oc_version">Serverda XeniaCloudning yaroqli versiyasi topilmadi</string>
+    <string name="instance_not_configured">XeniaCloud serveri sozlanmagan!</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files ilovasi API javob bermayapti. Bu, ehtimol, telefoningiz batareyasini optimallashtirish bilan bog\'liq. Ikkala ilova uchun ham batareyani optimallashtirishni o\'chirib ko\'ring (Xenia Files va ushbu ilova). Boshqa barcha holatlarda ikkala ilovaning xotirasini tozalashga harakat qiling.</string>
+    <string name="nextcloud_files_app_account_not_found_message">So‘ralgan hisob Xenia Files ilovasida topilmadi</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message"> %1$s akkaunt Xenia Files ilovasida topilmadi</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Davom etish uchun avval qurilmangizga Xenia Files ilovasini oʻrnating.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud fayllari talab qilinadi</string>
+    <string name="nextcloud_files_app_not_installed_message">Bu ilova Xenia Files ilovasiga bogʻliq. Iltimos, ushbu ilovadan foydalanish uchun uni oʻrnating.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud fayllari oʻrnatilmagan</string>
+    <string name="nextcloud_files_app_not_supported_message">Sizning Xenia Files ilovangiz eski versiya bo‘lib, hali Yagona tizimga kirish funksiyasini qo‘llab-quvvatlamaydi.</string>
+    <string name="nextcloud_files_app_not_supported_title">Xenia Files ilovasini yangilang</string>
+</resources>
