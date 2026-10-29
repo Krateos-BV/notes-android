@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">For å kunne bruke XeniaCloud Single-Sign-On på denne enheten, må du gi tillatelse til å få tilgang til kontoene dine.</string>
     <string name="nextcloud_files_api_not_responding_message">API-en for Xenia Files-appen svarer ikke. Dette skyldes mest sannsynlig batterioptimaliseringer på telefonen. Prøv å deaktivere batterioptimaliseringen for begge appene (Xenia Files og denne appen). I alle andre tilfeller kan du prøve å tømme lagringsplassen til begge appene.</string>
     <string name="nextcloud_files_app_account_not_found_message">Den forespurte kontoen ble ikke funnet i Xenia Files-appen</string>

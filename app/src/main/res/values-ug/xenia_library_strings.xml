@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">بۇ ئۈسكۈنىدە XeniaCloud يەككە تىزىملىكىنى ئىشلىتىش ئۈچۈن ، ھېساباتىڭىزنى زىيارەت قىلىشقا ئىجازەت بېرىشىڭىز كېرەك</string>
     <string name="bad_oc_version">مۇلازىمېتىردا ئىناۋەتلىك XeniaCloud نەشىرى تېپىلمىدى</string>
     <string name="instance_not_configured">XeniaCloud مۇلازىمېتىرى سەپلەنمىدى</string>

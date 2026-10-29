@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">Chun síniú Amháin XeniaCloud ar an ngléas seo a úsáid, ní mór duit cead a thabhairt do chuntais a rochtain</string>
     <string name="bad_oc_version">Níor aimsíodh leagan bailí XeniaCloud ar an bhfreastalaí</string>
     <string name="instance_not_configured">Níl an freastalaí XeniaCloud cumraithe!</string>

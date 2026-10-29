@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">您必須先授權存取您的帳號，才能在此裝置上使用 XeniaCloud 的單一登入功能</string>
     <string name="bad_oc_version">伺服器上找不到有效的 XeniaCloud 版本</string>
     <string name="instance_not_configured">未設定 XeniaCloud 伺服器！</string>

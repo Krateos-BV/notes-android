@@ -3,6 +3,6 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">כדי להשתמש בכניסה אחודה (SSO - Single-Sign-On) של XeniaCloud במכשיר הזה, עליך להעניק הרשאות גישה לחשבונות שלך</string>
 </resources>

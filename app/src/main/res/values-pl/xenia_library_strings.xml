@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">Aby korzystać z jednokrotnego logowania XeniaCloud (SSO) na tym urządzeniu, musisz udzielić zezwolenia na dostęp do swoich kont</string>
     <string name="bad_oc_version">Na serwerze nie znaleziono wymaganej wersji XeniaCloud</string>
     <string name="instance_not_configured">Serwer XeniaCloud nie został skonfigurowany!</string>

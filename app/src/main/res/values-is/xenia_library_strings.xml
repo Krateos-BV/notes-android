@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">Til að geta notað eins-skiptis-innskráningu XeniaCloud (SSO - Single Sign On) á þessu tæki, verður þú að gefa aðgangsheimildir til að nota aðganginn þinn</string>
     <string name="nextcloud_files_api_not_responding_message">Xenia Files API-forritsviðmótið svarar ekki. Það kemur líklegast til vegna rafhlöðusparnaðaraðgerða á símanum þínum. Prófaðu að gera rafhlöðusparnað óvirkan fyrir bæði forritin (Xenia Files og þetta forrit). Sé ekki um þetta að ræða ættirðu að reyna að hreinsa geymslurými beggja forritanna.</string>
     <string name="nextcloud_files_app_account_not_found_message">Umbeðinn aðgangur fannst ekki í Xenia Files forritinu</string>

@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="android_get_accounts_permission_not_granted_exception_message">Ili kutumia kipengele cha Kuingia Moja kwa Moja cha XeniaCloud kwenye kifaa hiki, unahitaji kutoa ruhusa ya kufikia akaunti zako</string>
     <string name="bad_oc_version">Hakuna toleo halali la XeniaCloud lililopatikana kwenye seva</string>
     <string name="instance_not_configured">Seva ya XeniaCloud haijasanidiwa!</string>

@@ -3,7 +3,7 @@
   ~ SPDX-FileCopyrightText: 2026 XeniaCloud
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
     <string name="instance_not_configured">سرور XeniaCloud پیکربندی نشده است!</string>
     <string name="nextcloud_files_api_not_responding_message">Xenia Files app API is not responding. This is most likely due to battery optimizations on your phone. Try to disable the battery optimization for both apps (Xenia Files and this app). In all other cases please try to clear the storage of both apps.</string>
     <string name="nextcloud_files_app_account_not_found_message">The requested account was not found in Xenia Files app</string>
