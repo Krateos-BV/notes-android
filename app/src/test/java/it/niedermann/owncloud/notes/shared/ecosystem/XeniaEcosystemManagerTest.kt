@@ -6,11 +6,11 @@
  */
 package it.niedermann.owncloud.notes.shared.ecosystem
 
+import android.app.Activity
 import android.content.ComponentName
 import android.content.Intent
 import android.content.IntentFilter
 import android.content.pm.PackageInfo
-import androidx.appcompat.app.AppCompatActivity
 import it.niedermann.owncloud.notes.R
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNull
@@ -26,14 +26,13 @@ import org.robolectric.annotation.Config
 @Config(sdk = [36])
 class XeniaEcosystemManagerTest {
 
-    private lateinit var activity: AppCompatActivity
+    private lateinit var activity: Activity
     private lateinit var manager: XeniaEcosystemManager
 
     @Before
     fun setUp() {
-        val controller = Robolectric.buildActivity(AppCompatActivity::class.java)
-        activity = controller.get().apply { setTheme(R.style.AppTheme) }
-        controller.setup()
+        activity = Robolectric.buildActivity(Activity::class.java).setup().get()
+        activity.setTheme(R.style.AppTheme)
         manager = XeniaEcosystemManager(activity)
     }
 
