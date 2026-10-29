@@ -33,7 +33,7 @@ REPLACEMENTS = [
 TRANSLITERATIONS = re.compile(r"некст\s?клау?д[а-яђјљњћџ]*|nekst\s?klau?d|nexcloud|نكست كلاود|نکست\u200cکلود", re.I)
 OTHER_SPELLINGS = re.compile(r"(?<![./@\w])nextcloud", re.I)
 
-STRING = re.compile(r"(<string\b([^>]*)>)(.*?)(</string>)", re.S)
+STRING = re.compile(r"(<string\b([^>]*)(?<!/)>)(.*?)(</string>)", re.S)
 GROUP = re.compile(r"(<(plurals|string-array)\b([^>]*)>)(.*?)(</\2>)", re.S)
 ITEM = re.compile(r"(<item\b[^>]*>)(.*?)(</item>)", re.S)
 COMMENT = re.compile(r"<!--.*?-->", re.S)
