@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Nextcloud Notes - Android Client
+  ~
+  ~ SPDX-FileCopyrightText: 2026 Nextcloud GmbH and Nextcloud contributors
+  ~ SPDX-License-Identifier: GPL-3.0-or-later
+-->
+<resources>
+    <string name="settings_privacy_policy">Privacy policy</string>
+    <string name="url_privacy" translatable="false">https://xeniacloud.eu/privacy-statement-eu/</string>
+</resources>

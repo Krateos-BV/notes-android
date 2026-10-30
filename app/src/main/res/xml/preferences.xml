@@ -126,6 +126,15 @@
             android:key="@string/pref_key_prevent_screen_capture"
             android:layout="@layout/item_pref"
             android:title="@string/settings_prevent_screen_capture" />
+
+        <Preference
+            android:icon="@drawable/ic_info_outline_grey600_24dp"
+            android:layout="@layout/item_pref"
+            android:title="@string/settings_privacy_policy">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="@string/url_privacy" />
+        </Preference>
     </it.niedermann.owncloud.notes.branding.BrandedPreferenceCategory>
 
 </PreferenceScreen>
