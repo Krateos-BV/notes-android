@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Nextcloud Notes - Android Client
+  ~
+  ~ SPDX-FileCopyrightText: 2026 Nextcloud GmbH and Nextcloud contributors
+  ~ SPDX-License-Identifier: GPL-3.0-or-later
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+            <!-- Managed devices install their own CAs for TLS-inspecting proxies and client certificates -->
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
