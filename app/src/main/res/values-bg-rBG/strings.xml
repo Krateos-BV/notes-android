@@ -107,11 +107,11 @@
     <string name="error_action_open_deck_info">Отворяне на информация за приложението</string>
     <string name="error_action_open_network">Настройки на мрежата</string>
     <string name="error_action_update_files_app">Обновяване</string>
-    <string name="error_dialog_check_maintenance">Моля, проверете дали вашето приложение Nextcloud в момента не е в режим на поддръжка.</string>
+    <string name="error_dialog_check_maintenance">Моля, проверете дали вашето приложение XeniaCloud в момента не е в режим на поддръжка.</string>
     <string name="error_dialog_check_server">Отговорът на вашия сървър не беше правилен. Моля, проверете дали имате достъп до бележките си чрез уеб интерфейс.</string>
-    <string name="error_dialog_check_server_logs">Има проблем с вашата настройка на Nextcloud. Моля, разгледайте /журналите/ файловете за вход на сървъра.</string>
-    <string name="error_dialog_insufficient_storage">Вашето приложение Nextcloud няма свободно място в хранилището. Моля, изтрийте някои файлове, за да синхронизирате локалните си промени във вашия облак.</string>
-    <string name="error_dialog_redirect">Сървърът ви отговори с код за състояние HTTP 302, което означава, че не сте инсталирали приложението Бележки на вашия сървър или нещо е конфигурирано неправилно. Това може да бъде причинено от персонализирани замени в .htaccess-файл или от приложения на Nextcloud, като OID Клиент.</string>
+    <string name="error_dialog_check_server_logs">Има проблем с вашата настройка на XeniaCloud. Моля, разгледайте /журналите/ файловете за вход на сървъра.</string>
+    <string name="error_dialog_insufficient_storage">Вашето приложение XeniaCloud няма свободно място в хранилището. Моля, изтрийте някои файлове, за да синхронизирате локалните си промени във вашия облак.</string>
+    <string name="error_dialog_redirect">Сървърът ви отговори с код за състояние HTTP 302, което означава, че не сте инсталирали приложението Бележки на вашия сървър или нещо е конфигурирано неправилно. Това може да бъде причинено от персонализирани замени в .htaccess-файл или от приложения на XeniaCloud, като OID Клиент.</string>
     <string name="error_dialog_server_app_enabled">Моля, уверете се, че сте инсталирали и активирали приложението „Бележки“ на вашия сървър.</string>
     <string name="error_dialog_timeout_instance">Нямаше отговор от вашия сървър в дадения момент. Моля, уверете се, че вашият сървър работи добре.</string>
     <string name="error_dialog_timeout_toggle">Проверете си мрежовата връзка. Понякога изключването и повторното включване на мобилни данни или Wi-Fi може да помогне.</string>
@@ -170,7 +170,7 @@
     <string name="formatting_help_tables_column">Колона %1d</string>
     <string name="formatting_help_tables_title">Таблици</string>
     <string name="formatting_help_tables_value">Стойност%1d</string>
-    <string name="formatting_help_text_body">Много е лесно да направите няколко думи %1$sbold %1$s и други думи %2$sitalic%2$s с Markdown. Можете да%3$sstrike/зачеркване/ %3$s някои думи чрез и дори [връзка към Nextcloud] (https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Много е лесно да направите няколко думи %1$sbold %1$s и други думи %2$sitalic%2$s с Markdown. Можете да%3$sstrike/зачеркване/ %3$s някои думи чрез и дори [връзка към XeniaCloud] (https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Текст</string>
     <string name="fourHours">4 чàса</string>
     <string name="http_status_code">HTTP код на състоянието: %1$d</string>
@@ -241,7 +241,7 @@
     <string name="set_online_status">Състояние</string>
     <string name="settings_background_sync">Фонова синхронизация</string>
     <string name="settings_file_suffix">Разширение на файл</string>
-    <string name="settings_file_suffix_description">Разширение на файл за нови бележки във вашия Nextcloud</string>
+    <string name="settings_file_suffix_description">Разширение на файл за нови бележки във вашия XeniaCloud</string>
     <string name="settings_file_suffix_success">Суфикс на нов файл: %1$s</string>
     <string name="settings_font_size">Размер на шрифта</string>
     <string name="settings_font_title">Monospace/Монопространствен/ шрифт</string>
@@ -253,7 +253,7 @@
     <string name="settings_note_mode">Режим на показване на бележки</string>
     <string name="settings_note_mode_new">Поведение при отваряне на бележките</string>
     <string name="settings_notes_path">Задаване на папка</string>
-    <string name="settings_notes_path_description">Папка за съхраняване на вашите бележки във вашия Nextcloud</string>
+    <string name="settings_notes_path_description">Папка за съхраняване на вашите бележки във вашия XeniaCloud</string>
     <string name="settings_notes_path_success">Папка с нови бележки: %1$s</string>
     <string name="settings_prevent_screen_capture">Предотвратява заснемането на екрана</string>
     <string name="settings_theme_title">Тема</string>

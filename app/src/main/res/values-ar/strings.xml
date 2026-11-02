@@ -105,8 +105,6 @@
     <string name="ecosystem_apps_display_files">الملفّات</string>
     <string name="ecosystem_apps_display_more">المزيد</string>
     <string name="ecosystem_apps_display_talk">محادثة Talk</string>
-    <string name="ecosystem_apps_more">المزيد من تطبيقات نكست كلاود</string>
-    <string name="ecosystem_apps_talk">تطبيق \"المحادثة\" talk من نكست كلاود</string>
     <string name="email_pick_failed">تعذّر التقاط عنوان الإيميل.</string>
     <string name="error_action_open_battery_settings">إعدادات البطارية</string>
     <string name="error_action_open_deck_info">فتح معلومات التطبيق</string>
@@ -116,7 +114,7 @@
     <string name="error_dialog_check_server">لم تكن استجابة الخادم صحيحة. يرجى التحقق مما إذا كان يمكنك الوصول إلى ملاحظاتك عبر واجهة الويب.</string>
     <string name="error_dialog_check_server_logs">هناك مشكلة في إعداد الخادم الخاص بك. يرجى مراجعة سجل أنشطة الخادم.</string>
     <string name="error_dialog_insufficient_storage">خادومك ليس لديه مساحة تخزين فارغة متبقية. يرجى حذف بعض الملفات لمزامنة تغييراتك المحلية في سحابتك.</string>
-    <string name="error_dialog_redirect">استجاب خادومك برمز حالة HTTP 302 ، مما يعني أنك لم تقم بتثبيت تطبيق Notes عليه أو أنه تم تكوين شيء ما بشكل خاطئ. يمكن أن يحدث هذا بسبب بعض التخصيصات في ملف htaccess أو تطبيقات Nextcloud مثل عميل OID.</string>
+    <string name="error_dialog_redirect">استجاب خادومك برمز حالة HTTP 302 ، مما يعني أنك لم تقم بتثبيت تطبيق Notes عليه أو أنه تم تكوين شيء ما بشكل خاطئ. يمكن أن يحدث هذا بسبب بعض التخصيصات في ملف htaccess أو تطبيقات XeniaCloud مثل عميل OID.</string>
     <string name="error_dialog_server_app_enabled">يرجى التأكد من تنصيب و تفعيل تطبيق \"Notes\" على خادومك.</string>
     <string name="error_dialog_timeout_instance">لم تكن هناك استجابة من الخادم في الوقت المحدد. يرجى التأكد من أنه يعمل بشكل جيد.</string>
     <string name="error_dialog_timeout_toggle">تحقق من اتصالك بالشبكة. أحياناُ، يمكن لإيقاف ثم إعادة تشغيل بيانات الهاتف المحمول أو الواي فاي Wi-Fi أن يحل المشكل.</string>
@@ -178,7 +176,7 @@
     <string name="formatting_help_tables_column">عمود %1d</string>
     <string name="formatting_help_tables_title">الجداول</string>
     <string name="formatting_help_tables_value">قيمة %1d</string>
-    <string name="formatting_help_text_body">من السهل جدًا كتابة بعض الكلمات %1$sثخينة bold%1$s وبعض الكلمات %2$sمائلة italic%2$s بإستخدام تنسيق مارك داون Markdown. يمكنك %3$sشطب strike%3$s بعض الكلمات. [رابط إلى نكست كلاود] (https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">من السهل جدًا كتابة بعض الكلمات %1$sثخينة bold%1$s وبعض الكلمات %2$sمائلة italic%2$s بإستخدام تنسيق مارك داون Markdown. يمكنك %3$sشطب strike%3$s بعض الكلمات. [رابط إلى XeniaCloud] (https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">نص</string>
     <string name="fourHours">4 ساعات</string>
     <string name="http_status_code">رمز حالة HTTP status code: %1$d</string>
@@ -257,7 +255,7 @@
     <string name="settings_enable_direct_edit">التحرير المباشر</string>
     <string name="settings_enable_direct_edit_summary">عند تعطيله، سيتم إخفاء المحرّر المتقدم </string>
     <string name="settings_file_suffix">إمتداد الملف</string>
-    <string name="settings_file_suffix_description">إمتداد الملف لملاحظاتك الجديدة في خادم نكست كلاود</string>
+    <string name="settings_file_suffix_description">إمتداد الملف لملاحظاتك الجديدة في خادم XeniaCloud</string>
     <string name="settings_file_suffix_success">لاحقة الملف الجديدة suffix: %1$s</string>
     <string name="settings_font_size">حجم الخط</string>
     <string name="settings_font_title">خط font أحادي المسافة</string>
@@ -269,11 +267,10 @@
     <string name="settings_note_mode">وضع العرض للملاحظات</string>
     <string name="settings_note_mode_new">السلوك عند فتح الملاحظات</string>
     <string name="settings_notes_path">تعيين مُجلّد</string>
-    <string name="settings_notes_path_description">مجلد لتخزين ملاحظاتك في خادم نكست كلاود</string>
+    <string name="settings_notes_path_description">مجلد لتخزين ملاحظاتك في خادم XeniaCloud</string>
     <string name="settings_notes_path_success">مُجلّد ملاحظات جديدة: %1$s</string>
     <string name="settings_prevent_screen_capture">منع التقاط صورة للشاشة</string>
     <string name="settings_show_ecosystem_apps">إظهار مُبدِّل التطبيقات app switcher</string>
-    <string name="settings_show_ecosystem_apps_summary">مقترحات بتطبيقات من نكست كلاود في شريط التصفح navigation heading</string>
     <string name="settings_theme_title">السمة</string>
     <string name="settings_wifi_only">المزامنة فقط على الواي فاي</string>
     <string name="share">مُشارَكة</string>

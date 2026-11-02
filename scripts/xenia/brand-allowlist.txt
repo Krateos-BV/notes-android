@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 XeniaCloud
+# SPDX-License-Identifier: GPL-3.0-or-later
+users_and_groups_search_provider_authority  # content provider authority, not shown to users
+users_and_groups_search_provider_share_with  # intent action, not shown to users
+about_translators_transifex  # translator credit, kept until the attribution decision on XEN-287
+url_translations  # Transifex project of the translators, kept until the attribution decision on XEN-287

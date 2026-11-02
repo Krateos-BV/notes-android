@@ -94,11 +94,11 @@
     <string name="error_action_open_deck_info">Mở Thông tin ứng dụng</string>
     <string name="error_action_open_network">Cài đặt mạng</string>
     <string name="error_action_update_files_app">Cập nhật</string>
-    <string name="error_dialog_check_maintenance">Vui lòng kiểm tra xem bản sao Nextcloud của bạn hiện tại có đang không ở trong chế độ bảo trì không.</string>
+    <string name="error_dialog_check_maintenance">Vui lòng kiểm tra xem bản sao XeniaCloud của bạn hiện tại có đang không ở trong chế độ bảo trì không.</string>
     <string name="error_dialog_check_server">Phản hồi của máy chủ của bạn không chính xác. Vui lòng kiểm tra xem bạn có thể truy cập các ghi chú của bạn qua giao diện web không.</string>
-    <string name="error_dialog_check_server_logs">Có vấn đề với thiết lập Nextcloud của bạn. Vui lòng xem các tệp nhật ký của máy chủ.</string>
-    <string name="error_dialog_insufficient_storage">Bản sao Nextcloud của bạn không còn bộ nhớ trống. Vui lòng xoá một số tệp để đồng bộ các thay đổi cục bộ của bạn vào đám mây của bạn.</string>
-    <string name="error_dialog_redirect">Máy chủ của bạn đã phản hồi bằng mã trạng thái HTTP 302, nó có nghĩa là bạn chưa cài đặt ứng dụng Ghi chú trên máy chủ của bạn hoặc có gì đó bị thiết lập sai. Điều này có thể bị gây ra bởi những sự ghi đè tuỳ chỉnh trong tệp .htaccess hoặc bởi các ứng dụng Nextcloud như OID Client.</string>
+    <string name="error_dialog_check_server_logs">Có vấn đề với thiết lập XeniaCloud của bạn. Vui lòng xem các tệp nhật ký của máy chủ.</string>
+    <string name="error_dialog_insufficient_storage">Bản sao XeniaCloud của bạn không còn bộ nhớ trống. Vui lòng xoá một số tệp để đồng bộ các thay đổi cục bộ của bạn vào đám mây của bạn.</string>
+    <string name="error_dialog_redirect">Máy chủ của bạn đã phản hồi bằng mã trạng thái HTTP 302, nó có nghĩa là bạn chưa cài đặt ứng dụng Ghi chú trên máy chủ của bạn hoặc có gì đó bị thiết lập sai. Điều này có thể bị gây ra bởi những sự ghi đè tuỳ chỉnh trong tệp .htaccess hoặc bởi các ứng dụng XeniaCloud như OID Client.</string>
     <string name="error_dialog_server_app_enabled">Vui lòng chắc chắn rằng bạn đã cài đặt và bật ứng dụng \"Ghi chú\" trên máy chủ của bạn.</string>
     <string name="error_dialog_timeout_instance">Không có phản hồi từ máy chủ của bạn trong thời gian được đưa ra. Vui lòng chắc chắn rằng bản sao của bạn đang chạy tốt.</string>
     <string name="error_dialog_timeout_toggle">Hãy kiểm tra kết nối mạng của bạn. Đôi khi việc tắt và bật lại dữ liệu di động hoặc Wi-Fi có thể giúp.</string>
@@ -153,7 +153,7 @@
     <string name="formatting_help_tables_column">Cột %1d</string>
     <string name="formatting_help_tables_title">Bảng</string>
     <string name="formatting_help_tables_value">Giá trị %1d</string>
-    <string name="formatting_help_text_body">Việc làm cho một số từ trở nên %1$sđậm%1$s và các từ khác %2$snghiêng%2$s bằng Markdown là rất dễ. Bạn có thể %3$sgạch bỏ%3$s một số từ và thậm chí là [liên kết đến Nextcloud](https://nextcloud.com).</string>
+    <string name="formatting_help_text_body">Việc làm cho một số từ trở nên %1$sđậm%1$s và các từ khác %2$snghiêng%2$s bằng Markdown là rất dễ. Bạn có thể %3$sgạch bỏ%3$s một số từ và thậm chí là [liên kết đến XeniaCloud](https://xeniacloud.eu).</string>
     <string name="formatting_help_text_title">Văn bản</string>
     <string name="fourHours">4 tiếng</string>
     <string name="http_status_code">Mã trạng thái HTTP: %1$d</string>
@@ -223,7 +223,7 @@
     <string name="set_online_status">Trạng thái trực tuyến</string>
     <string name="settings_background_sync">Đồng bộ hoá trong nền</string>
     <string name="settings_file_suffix">Phần mở rộng tệp</string>
-    <string name="settings_file_suffix_description">Phần mở rộng tệp cho các bản ghi chú mới trên Nextcloud của bạn</string>
+    <string name="settings_file_suffix_description">Phần mở rộng tệp cho các bản ghi chú mới trên XeniaCloud của bạn</string>
     <string name="settings_file_suffix_success">Hậu tố tệp mới: %1$s</string>
     <string name="settings_font_size">Cỡ chữ</string>
     <string name="settings_font_title">Phông chữ đơn cách</string>
@@ -234,7 +234,7 @@
     <string name="settings_lock_summary">Thông tin thiết bị</string>
     <string name="settings_note_mode">Chế độ hiển thị cho các ghi chú</string>
     <string name="settings_notes_path">Đặt thư mục</string>
-    <string name="settings_notes_path_description">Thư mục để lưu trữ các bản ghi chú trên Nextcloud của bạn</string>
+    <string name="settings_notes_path_description">Thư mục để lưu trữ các bản ghi chú trên XeniaCloud của bạn</string>
     <string name="settings_notes_path_success">Thư mục bản ghi chú mới: %1$s</string>
     <string name="settings_prevent_screen_capture">Ngăn chặn chụp màn hình</string>
     <string name="settings_theme_title">Chủ đề</string>

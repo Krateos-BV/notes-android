@@ -384,7 +384,7 @@ public class MainActivity extends LockedActivity implements NoteClickListener, A
     private void setupDrawerAppMenuListener() {
         binding.drawerEcosystemFiles.setOnClickListener(v ->  ecosystemManager.openApp(EcosystemApp.FILES, getAccountName()));
         binding.drawerEcosystemTalk.setOnClickListener(v -> ecosystemManager.openApp(EcosystemApp.TALK, getAccountName()));
-        binding.drawerEcosystemMore.setOnClickListener(v -> LinkHelper.INSTANCE.openAppStore("Nextcloud", true, this));
+        binding.drawerEcosystemMore.setOnClickListener(v -> LinkHelper.INSTANCE.openAppStore("XeniaCloud", true, this));
     }
 
     private String getAccountName() {
