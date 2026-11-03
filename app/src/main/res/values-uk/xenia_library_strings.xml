@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Щоб використовувати XeniaCloud Single Sign On на цьому пристрої, вам потрібно надати дозвіл на доступ до своїх облікових записів</string>
+    <string name="bad_oc_version">На цьому сервері не знайдено дійсну версію XeniaCloud</string>
+    <string name="instance_not_configured">Сервер XeniaCloud не налаштовано!</string>
+    <string name="nextcloud_files_api_not_responding_message">API програми Xenia Files не відповідає. Найімовірніше, це пов\'язано з оптимізацією батареї на вашому телефоні. Спробуйте вимкнути оптимізацію батареї для обох програм (Xenia Files і цієї програми). У всіх інших випадках спробуйте очистити пам\'ять обох програм.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Запитуваний обліковий запис не знайдено в додатку Xenia Files</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Обліковий запис %1$s не знайдено в додатку Xenia Files</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Щоб продовжити, будь ласка, спочатку встановіть додаток Xenia Files на свій пристрій.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Потрібно мати встановлений застосунок XeniaCloud Файли</string>
+    <string name="nextcloud_files_app_not_installed_message">Ця програма залежить від програми Xenia Files. Будь ласка, встановіть його, щоб використовувати цю програму.</string>
+    <string name="nextcloud_files_app_not_installed_title">Не встановлено застосунок XeniaCloud Файли</string>
+    <string name="nextcloud_files_app_not_supported_message">Ваш додаток Xenia Files є старою версією, яка ще не підтримує функцію єдиного входу.</string>
+    <string name="nextcloud_files_app_not_supported_title">Оновлення програми Xenia Files</string>
+</resources>

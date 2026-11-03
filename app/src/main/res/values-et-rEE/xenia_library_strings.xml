@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Et XeniaCloudi ühekordne sisselogimine (SSO) toimiks selles seadmes, siis palun anna luba sinu kontode kasutamiseks</string>
+    <string name="bad_oc_version">Serveris ei leidu õiget XeniaCloudi versiooni</string>
+    <string name="instance_not_configured">XeniaCloudi serverit pole seadistatud!</string>
+    <string name="nextcloud_files_api_not_responding_message">XeniaCloudi Failirakenduse API liidestus ei vasta päringutele. Suure tõenäosusega on põhjuseks, et sinu nutiseadmes on kasutusel akukasutuse optimeerimine. Proovi mõlema rakenduse jaoks (XeniaCloudi Failirakendus ja see rakendus) see välja lülitada. Muudel juhtudel proovi, kas mõlema rakenduse andmeruumi kustutamine võiks olukorda parandada.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Soovitud kasutajakontot ei leidu XeniaCloudi Failirakenduses</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">%1$s kasutajakontot ei leidu XeniaCloudi Failirakenduses</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Jätkamiseks palun esmalt paigalda oma nutiseadmesse XeniaCloudi Failirakendus.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloudi Failirakendus on vajalik</string>
+    <string name="nextcloud_files_app_not_installed_message">See rakendus sõltub XeniaCloudi Failirakendusest. Et saaksi soovitud rakendust kasutada, palun paigalda ka XeniaCloudi Failirakendus.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloudi Failirakendus on paigaldamata</string>
+    <string name="nextcloud_files_app_not_supported_message">Kasutad XeniaCloudi Failirakenduse vanemat versiooni, mis veel ei toeta ühekordse sisselogimise (SSO) funktsionaalsust.</string>
+    <string name="nextcloud_files_app_not_supported_title">Uuenda XeniaCloudi Failirakendust</string>
+    <string name="notification_channel_name">XeniaCloudi ühendus</string>
+</resources>

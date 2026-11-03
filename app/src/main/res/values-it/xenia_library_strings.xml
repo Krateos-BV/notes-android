@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Per poter usare la funzione Single Sign On di XeniaCloud su questo dispositivo, devi concedere l\'autorizzazione all\'accesso dei tuoi account.</string>
+    <string name="nextcloud_files_api_not_responding_message">L\'API dell\'app Xenia Files non risponde. Ciò è molto probabilmente dovuto alle ottimizzazioni della batteria del telefono. Prova a disabilitare l\'ottimizzazione della batteria per entrambe le app (Xenia Files e questa app). In tutti gli altri casi prova a svuotare la memoria di entrambe le app.</string>
+    <string name="nextcloud_files_app_account_not_found_message">L\'account richiesto non è stato trovato in Xenia Files</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">L\'account %1$s non è stato trovato nell\'app Xenia Files</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Per proseguire, per favore installa prima l\'app Xenia Files sul tuo dispositivo.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Xenia Files richiesta</string>
+    <string name="nextcloud_files_app_not_installed_message">Per usare questa app è necessario installare Xenia Files.</string>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files non installato</string>
+    <string name="nextcloud_files_app_not_supported_message">La tua app Xenia Files non è aggiornata all\'ultima versione che supporta la funzionalità Single Sign On.</string>
+    <string name="nextcloud_files_app_not_supported_title">Aggiorna l\'app Xenia Files</string>
+</resources>

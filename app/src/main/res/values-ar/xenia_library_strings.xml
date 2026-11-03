@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">من أجل النفاذ المُوحّد Single-Sign-On لXeniaCloud على هذا الجهاز، تحتاج إلى منح الإذن للوصول إلى حساباتك.</string>
+    <string name="bad_oc_version">تعذر العثور على نسخة صالحة من XeniaCloud على الخادوم</string>
+    <string name="instance_not_configured">خادوم XeniaCloud غير مُهيّأ!</string>
+    <string name="nextcloud_files_api_not_responding_message">واجهة برمجة تطبيقات تطبيق \"ملفات XeniaCloud\" Xenia Files لا تستجيب. هذا على الأرجح بسبب تحسينات البطارية على هاتفك. حاول تعطيل تحسين البطارية لكلا التطبيقين (ملفات XeniaCloud وهذا التطبيق). في جميع الحالات الأخرى، يرجى محاولة مسح تخزين كلا التطبيقين.</string>
+    <string name="nextcloud_files_app_account_not_found_message">الحساب المطلوب لم يُمكن إيجاده في تطبيق Xenia Files.</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">الحساب %1$s لم يُمكن إيحاده في تطبيق ملفات XeniaCloud</string>
+    <string name="nextcloud_files_app_no_store_installed_message">للاستمرار يُرجى القيام بتنصيب تطبيق Xenia Files على جهازك أوّلاً.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">تطبيق Xenia Files مطلوب</string>
+    <string name="nextcloud_files_app_not_installed_message">يعتمد هذا التطبيق على تطبيق Xenia Files. يرجى تثبيته من أجل استخدام هذا التطبيق.</string>
+    <string name="nextcloud_files_app_not_installed_title">تطبيق XeniaCloud للملفات Files لم يسبق تنصيبه</string>
+    <string name="nextcloud_files_app_not_supported_message">تطبيق Xenia Files لديك من إصدار قديم لا يدعم خاصية النفاذ المُوحّد SSO.</string>
+    <string name="nextcloud_files_app_not_supported_title">تحديث Xenia Files.</string>
+    <string name="notification_channel_name">الاتصال بXeniaCloud</string>
+</resources>

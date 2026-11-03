@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Ak chcete na tomto zariadení používať XeniaCloud Single-Sign-On, je potrebné prideliť oprávnenie pre prístup k vašim účtom</string>
+    <string name="bad_oc_version">Nenašla sa žiadna podporovaná verzia XeniaCloud na serveri</string>
+    <string name="instance_not_configured">XeniaCloud server nie je nakonfigurovaný!</string>
+    <string name="nextcloud_files_api_not_responding_message">Rozhranie API aplikácie Xenia Files nereaguje. Je to pravdepodobne kvôli optimalizácii batérie v telefóne. Skúste vypnúť optimalizáciu batérie pre obe aplikácie (Xenia Files a túto aplikáciu). Vo všetkých ostatných prípadoch skúste vymazať ukladací priestor oboch aplikácií.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Požadovaný účet nebol nájdený v aplikácii Xenia Files</string>
+    <string formatted="true" name="nextcloud_files_app_account_not_found_with_account_message">Účet %1$s nebol nájdený v aplikácii Xenia Files.</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Na pokračovanie, prosím, najprv nainštalujte aplikáciu Xenia Files na svoje zariadenie.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">XeniaCloud Súbory sú potrebné.</string>
+    <string name="nextcloud_files_app_not_installed_message">Táto aplikácia závisí na aplikácii Xenia Files. Prosím, nainštalujte ju, aby ste mohli používať túto aplikáciu.</string>
+    <string name="nextcloud_files_app_not_installed_title">XeniaCloud Súbory nie sú nainštalované</string>
+    <string name="nextcloud_files_app_not_supported_message">Váš Xenia Files app je staršia verzia, ktorá ešte nepodporuje funkciu Single Sign On.</string>
+    <string name="nextcloud_files_app_not_supported_title">Aktualizujte aplikáciu Xenia Files.</string>
+    <string name="notification_channel_name">Pripojenie XeniaCloud</string>
+</resources>

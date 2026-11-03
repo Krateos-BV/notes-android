@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="nextcloud_files_app_not_installed_title">Το Xenia Files δεν έχει εγκατασταθεί</string>
+    <string name="nextcloud_files_app_not_supported_title">Ενημέρωση εφαρμογής Xenia Files</string>
+</resources>

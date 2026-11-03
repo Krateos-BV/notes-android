@@ -62,8 +62,6 @@ import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 import com.nextcloud.android.common.core.utils.ecosystem.AccountReceiverCallback;
-import com.nextcloud.android.common.core.utils.ecosystem.EcosystemApp;
-import com.nextcloud.android.common.core.utils.ecosystem.EcosystemManager;
 import com.nextcloud.android.common.core.utils.ecosystem.LinkHelper;
 import com.nextcloud.android.common.ui.theme.utils.ColorRole;
 import com.nextcloud.android.sso.AccountImporter;
@@ -115,6 +113,8 @@ import it.niedermann.owncloud.notes.persistence.CapabilitiesWorker;
 import it.niedermann.owncloud.notes.persistence.entity.Account;
 import it.niedermann.owncloud.notes.persistence.entity.Note;
 import it.niedermann.owncloud.notes.share.NoteShareActivity;
+import it.niedermann.owncloud.notes.shared.ecosystem.XeniaEcosystemApp;
+import it.niedermann.owncloud.notes.shared.ecosystem.XeniaEcosystemManager;
 import it.niedermann.owncloud.notes.shared.model.CategorySortingMethod;
 import it.niedermann.owncloud.notes.shared.model.IResponseCallback;
 import it.niedermann.owncloud.notes.shared.model.NavigationCategory;
@@ -132,7 +132,7 @@ public class MainActivity extends LockedActivity implements NoteClickListener, A
 
     protected MainViewModel mainViewModel;
 
-    private EcosystemManager ecosystemManager;
+    private XeniaEcosystemManager ecosystemManager;
 
     private boolean gridView = true;
 
@@ -174,7 +174,7 @@ public class MainActivity extends LockedActivity implements NoteClickListener, A
 
         setContentView(binding.getRoot());
 
-        ecosystemManager = new EcosystemManager(this);
+        ecosystemManager = new XeniaEcosystemManager(this);
         handleEcosystemIntent(getIntent());
         this.coordinatorLayout = binding.activityNotesListView.activityNotesListView;
         this.swipeRefreshLayout = binding.activityNotesListView.swiperefreshlayout;
@@ -382,8 +382,8 @@ public class MainActivity extends LockedActivity implements NoteClickListener, A
     }
 
     private void setupDrawerAppMenuListener() {
-        binding.drawerEcosystemFiles.setOnClickListener(v ->  ecosystemManager.openApp(EcosystemApp.FILES, getAccountName()));
-        binding.drawerEcosystemTalk.setOnClickListener(v -> ecosystemManager.openApp(EcosystemApp.TALK, getAccountName()));
+        binding.drawerEcosystemFiles.setOnClickListener(v ->  ecosystemManager.openApp(XeniaEcosystemApp.FILES, getAccountName()));
+        binding.drawerEcosystemTalk.setOnClickListener(v -> ecosystemManager.openApp(XeniaEcosystemApp.TALK, getAccountName()));
         binding.drawerEcosystemMore.setOnClickListener(v -> LinkHelper.INSTANCE.openAppStore("XeniaCloud", true, this));
     }
 

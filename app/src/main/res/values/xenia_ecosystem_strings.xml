@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources>
+    <string name="xenia_ecosystem_account_missing">No account selected. Cannot open the app.</string>
+    <string name="xenia_ecosystem_app_not_installed">App is not installed.</string>
+</resources>
