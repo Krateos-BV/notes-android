@@ -144,6 +144,13 @@ jobs:
           path: ${{ env.AAB_PATH }}
           if-no-files-found: error
 
+      - name: Upload R8 mapping
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: app-play-release-mapping
+          path: app/build/outputs/mapping/playRelease/mapping.txt
+          if-no-files-found: error
+
   play:
     name: Upload to Google Play
     needs: bundle
@@ -166,6 +173,11 @@ jobs:
         with:
           name: app-play-release
 
+      - name: Download R8 mapping
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: app-play-release-mapping
+
       # `draft`: Play rejects any other status while the listing itself is still a
       # draft, and it leaves promotion to review as a manual step in the console.
       - name: Upload to Play
@@ -174,5 +186,6 @@ jobs:
           serviceAccountJsonPlainText: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           packageName: ${{ env.PACKAGE_NAME }}
           releaseFiles: app-play-release.aab
+          mappingFile: mapping.txt
           track: ${{ inputs.track || 'internal' }}
           status: draft
