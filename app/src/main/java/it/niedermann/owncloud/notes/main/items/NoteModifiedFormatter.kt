@@ -12,9 +12,10 @@ import com.nextcloud.android.common.core.R
 import com.nextcloud.android.common.core.utils.DateFormatter
 import java.util.Calendar
 
-class NoteModifiedFormatter(private val context: Context) {
-    private val dateFormatter = DateFormatter(context)
-
+class NoteModifiedFormatter @JvmOverloads constructor(
+    private val context: Context,
+    private val dateFormatter: DateFormatter = DateFormatter(context)
+) {
     fun format(modified: Calendar): String {
         val span = System.currentTimeMillis() - modified.timeInMillis
         if (span !in DateUtils.MINUTE_IN_MILLIS until DateUtils.HOUR_IN_MILLIS) {
