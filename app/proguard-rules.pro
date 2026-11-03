@@ -40,3 +40,6 @@
 
 # WorkManager stores worker class names; jobs queued before an upgrade must still resolve.
 -keep class * extends androidx.work.ListenableWorker { <init>(...); }
+
+# Markwon's optional GIF plugin is compiled against android-gif-drawable, which this app does not ship.
+-dontwarn pl.droidsonroids.gif.**
