@@ -27,7 +27,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.chip.Chip;
 import com.google.android.material.progressindicator.CircularProgressIndicator;
-import com.nextcloud.android.common.core.utils.DateFormatter;
 import com.nextcloud.android.common.ui.theme.utils.ColorRole;
 
 import java.util.Calendar;
@@ -43,13 +42,13 @@ public abstract class NoteViewHolder extends RecyclerView.ViewHolder {
     private final NoteClickListener noteClickListener;
 
     @NonNull
-    private final DateFormatter dateFormatter;
+    private final NoteModifiedFormatter noteModifiedFormatter;
 
     public NoteViewHolder(@NonNull View v, @NonNull NoteClickListener noteClickListener) {
         super(v);
         this.noteClickListener = noteClickListener;
         this.setIsRecyclable(false);
-        this.dateFormatter = new DateFormatter(v.getContext());
+        this.noteModifiedFormatter = new NoteModifiedFormatter(v.getContext());
     }
 
     @CallSuper
@@ -61,7 +60,7 @@ public abstract class NoteViewHolder extends RecyclerView.ViewHolder {
 
     protected void bindModified(@NonNull TextView noteModified, @Nullable Calendar modified) {
         if (modified != null && modified.getTimeInMillis() > 0) {
-            noteModified.setText(dateFormatter.getConditionallyRelativeFormattedTimeSpan(modified));
+            noteModified.setText(noteModifiedFormatter.format(modified));
             noteModified.setVisibility(VISIBLE);
         } else {
             noteModified.setVisibility(INVISIBLE);
