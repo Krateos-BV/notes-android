@@ -6,7 +6,6 @@
  */
 package it.niedermann.owncloud.notes.widget.notelist
 
-import android.app.PendingIntent
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.ComponentName
@@ -17,9 +16,7 @@ import android.util.Log
 import android.widget.RemoteViews
 import com.owncloud.android.lib.common.utils.Log_OC
 import it.niedermann.owncloud.notes.R
-import it.niedermann.owncloud.notes.edit.EditNoteActivity
 import it.niedermann.owncloud.notes.persistence.NotesRepository
-import it.niedermann.owncloud.notes.shared.util.WidgetUtil
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
 import androidx.core.net.toUri
@@ -93,14 +90,7 @@ class NoteListWidget : AppWidgetProvider() {
 
                     Log.v(TAG, "-- data - $data")
 
-                    val editNoteIntent = Intent(context, EditNoteActivity::class.java).apply {
-                        setPackage(context.packageName)
-                    }
-
-                    val pendingIntentFlags =
-                        WidgetUtil.pendingIntentFlagCompat(PendingIntent.FLAG_UPDATE_CURRENT or Intent.FILL_IN_COMPONENT)
-                    val editNotePendingIntent =
-                        PendingIntent.getActivity(context, 0, editNoteIntent, pendingIntentFlags)
+                    val editNotePendingIntent = createEditNoteTemplatePendingIntent(context)
 
                     val views = RemoteViews(context.packageName, R.layout.widget_note_list).apply {
                         setRemoteAdapter(R.id.note_list_widget_lv, serviceIntent)
