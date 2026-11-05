@@ -120,7 +120,7 @@
     <string name="error_dialog_server_app_enabled">Bitte stellen Sie sicher, dass die \"Notes\"-App auf Ihrem Server installiert und aktiviert ist.</string>
     <string name="error_dialog_timeout_instance">Der Server reagierte nicht in der üblichen Zeit. Bitte stellen Sie sicher, dass Ihre Instanz einwandfrei läuft.</string>
     <string name="error_dialog_timeout_toggle">Überprüfen Sie Ihre Netzwerkverbindung. Manchmal kann es hilfreich sein, die mobilen Daten oder das WLAN aus- und wieder einzuschalten.</string>
-    <string name="error_dialog_tip_clear_storage">Sie können den Speicherinhalt leeren indem Sie die App öffnen und Speicher → Speicherinhalt löschen auswählen. ⚠️ Warnung: Noch nicht synchronisierte Notizen werden gelöscht!</string>
+    <string name="error_dialog_tip_clear_storage">Sie können den Speicherinhalt leeren indem Sie die App öffnen und Speicher → Speicherinhalt löschen auswählen. ⚠️ Achtung: Noch nicht synchronisierte Notizen werden gelöscht!</string>
     <string name="error_dialog_tip_files_delete_storage">Wenn das erzwungene Stoppen nicht hilft, können Sie versuchen, den Speicher beider Apps zu leeren.</string>
     <string name="error_dialog_title">Oh nein - Was jetzt? 🙁</string>
     <string name="error_dialog_we_need_info">Wir benötigen die folgenden technischen Informationen, um Ihnen helfen zu können:</string>
@@ -128,6 +128,15 @@
     <string name="error_no_network">Keine Netzwerkverbindung</string>
     <string name="error_setting_status_message">Fehler beim Festlegen der Statusnachricht!</string>
     <string name="error_sync">Synchronisierung fehlgeschlagen: %1$s</string>
+    <string name="error_sync_insufficient_storage">Ihr XeniaCloud-Speicher ist voll. Bitte Speicherplatz freigeben, um Ihre Änderungen zu synchronisieren.</string>
+    <string name="error_sync_locked">In einer anderen App ist eine Notiz geöffnet. Diese dort schließen, um die Änderungen zu synchronisieren.</string>
+    <string name="error_sync_maintenance">Server befindet sich im Wartungsmodus. Änderungen werden später synchronisiert.</string>
+    <string name="error_sync_notes_app_unavailable">Notizen-App ist auf diesem Server nicht verfügbar.</string>
+    <string name="error_sync_permission">Sie haben nicht die Berechtigung, diese Notiz zu speichern. Bitte überprüfen Sie Ihren Zugriff und versuchen Sie es erneut.</string>
+    <string name="error_sync_server_error">Server konnte die Änderungen nicht speichern. Die Administration bitten, die Protokolle zu überprüfen.</string>
+    <string name="error_sync_server_unreachable">Server konnte nicht erreicht werden. Bitte die Verbindung und die XeniaCloud Dateien-App überprüfen.</string>
+    <string name="error_sync_token_mismatch">Notizen-App hat den Zugriff auf Ihr Dateien-App-Konto verloren. Das Konto entfernen und erneut hinzufügen.</string>
+    <string name="error_sync_unauthorized">Ihre Anmeldung ist nicht mehr gültig. Bitte erneut anmelden.</string>
     <string name="error_synchronization">Synchronisierung fehlgeschlagen</string>
     <string name="error_unknown">Es ist ein unbekannter Fehler aufgetreten.</string>
     <string name="failed_the_remove_share">Freigabe konnte nicht entfernt werden</string>
@@ -156,7 +165,7 @@
     <string name="formatting_help_divider" translateable="false">---</string>
     <string name="formatting_help_images_alt">Ausgefallenes Bild</string>
     <string name="formatting_help_images_body_1">Links müssen entweder vollständige URLs sein, die mit einem Protokoll und einer Domäne beginnen, oder absolute Pfade, die mit einem %1$s-Zeichen beginnen.</string>
-    <string name="formatting_help_images_body_2">Um dem Markdown-Format zu entsprechen, verwenden Sie bitte Escape-Zeichen in der Bild-URL. Ersetzen Sie also z.B. Leerzeichen in der URL durch %1$s.</string>
+    <string name="formatting_help_images_body_2">Um dem Markdown-Format zu entsprechen, verwenden Sie bitte Escape-Zeichen in der Bild-URL. Ersetzen Sie also z. B. Leerzeichen in der URL durch %1$s.</string>
     <string name="formatting_help_images_title">Bilder</string>
     <string name="formatting_help_lists_body_1">Manchmal werden nummerierte Listen benötigt:</string>
     <string name="formatting_help_lists_body_2">Eins</string>

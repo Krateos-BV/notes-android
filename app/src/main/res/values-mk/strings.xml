@@ -8,6 +8,7 @@
     <string name="about_icons_disclaimer_app_icon">За оргиналните икони видете %1$s.</string>
     <string name="about_icons_disclaimer_mdi_icons">Сите останати икони кој се користат во апликацијата се %1$s направени од Google Inc. и лиценцирани под Apache 2.0 Лиценца.</string>
     <string name="about_icons_disclaimer_title">Икони</string>
+    <string name="about_issues_title">Проблеми</string>
     <string name="about_license_tab_title">Лиценца</string>
     <string name="about_maintainer_title">Одржувачи</string>
     <string name="about_source">Овој проект е хостиран на GitHub: %1$s</string>
@@ -40,6 +41,7 @@
     <string name="category_food">Храна</string>
     <string name="category_game">Игра</string>
     <string name="category_games">Игри</string>
+    <string name="category_keys">Клучеви</string>
     <string name="category_movie">Филм</string>
     <string name="category_movies">Филмови</string>
     <string name="category_music">Музика</string>
@@ -87,6 +89,7 @@
     <string name="formatting_help_checkboxes_title">Полиња за избирање</string>
     <string name="formatting_help_images_title">Слики</string>
     <string name="formatting_help_lists_title">Листи</string>
+    <string name="formatting_help_tables_column">Колона %1d</string>
     <string name="formatting_help_text_title">Текст</string>
     <string name="fourHours">4 часа</string>
     <string name="invisible">Невидлив</string>
@@ -129,6 +132,7 @@
     <string name="oneHour">1 час</string>
     <string name="online">Присутен</string>
     <string name="online_status">Присутен</string>
+    <string name="pref_value_font_normal">Нормално</string>
     <string name="pref_value_lock">Заштитено со лозинка</string>
     <string name="pref_value_wifi_and_mobile">Синхронизирај на Wi-Fi и на мобилен интернет</string>
     <string name="public_share_name">Ново име</string>
