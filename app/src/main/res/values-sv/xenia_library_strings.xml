@@ -7,7 +7,15 @@
     <string name="android_get_accounts_permission_not_granted_exception_message">För att använda XeniaCloud Single Sign On på denna enhet måste du ge behörighet till att komma åt dina konton</string>
     <string name="bad_oc_version">Ingen giltig XeniaCloud-version hittades på servern</string>
     <string name="instance_not_configured">XeniaCloud-servern är inte konfigurerad!</string>
-    <string name="nextcloud_files_app_not_installed_message">Denna app är beroende av XeniaCloud-appen. Vänligen installera den för att använda denna app.</string>
+    <string name="nextcloud_files_api_not_responding_message">Xenia Files-appen svarar inte. Kontrollera appens inställningar och försök igen.</string>
+    <string name="nextcloud_files_api_not_responding_title">Xenia Files-appen svarar inte</string>
+    <string name="nextcloud_files_app_account_not_found_message">Det gick inte att hitta något konto i Xenia Files-appen. Lägg till ett konto och försök igen.</string>
+    <string name="nextcloud_files_app_account_not_found_with_account_message" formatted="true">Kontot %1$s hittades inte i Xenia Files-appen.</string>
+    <string name="nextcloud_files_app_account_permission_not_granted_message">Den här appen har inte fått åtkomst till kontot i Xenia Files-appen. Välj kontot igen och bevilja åtkomst.</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Ingen appbutik hittades. Installera Xenia Files-appen manuellt.</string>
+    <string name="nextcloud_files_app_not_installed_message">Denna app är beroende av Xenia Files-appen. Vänligen installera den för att använda denna app.</string>
     <string name="nextcloud_files_app_not_installed_title">Xenia Files är inte installerad</string>
+    <string name="nextcloud_files_app_not_supported_message">Den installerade versionen av Xenia Files-appen stöds inte. Uppdatera appen och försök igen.</string>
+    <string name="nextcloud_files_app_not_supported_title">Xenia Files-appen stöds inte</string>
     <string name="notification_channel_name">XeniaCloud-anslutning</string>
 </resources>
