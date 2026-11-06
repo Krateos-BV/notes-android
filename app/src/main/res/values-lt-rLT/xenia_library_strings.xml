@@ -4,7 +4,17 @@
   ~ SPDX-License-Identifier: AGPL-3.0-or-later
 -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Norėdami naudoti „XeniaCloud“ vienkartinį prisijungimą šiame įrenginyje, turite suteikti leidimą pasiekti savo paskyras.</string>
     <string name="bad_oc_version">Serveryje nerasta galiojančios „XeniaCloud“ versijos</string>
     <string name="instance_not_configured">„XeniaCloud“ serveris nesukonfigūruotas!</string>
+    <string name="nextcloud_files_api_not_responding_message">„Xenia Files“ programėlės API neatsako. Greičiausiai taip yra dėl telefono akumuliatoriaus optimizavimo. Pabandykite išjungti abiejų programėlių („Xenia Files“ ir šios programėlės) akumuliatoriaus optimizavimą. Visais kitais atvejais pabandykite išvalyti abiejų programėlių saugyklą.</string>
+    <string name="nextcloud_files_app_account_not_found_message">„Xenia Files“ programėlėje nepavyko rasti nurodytos paskyros</string>
+    <string name="nextcloud_files_app_account_not_found_with_account_message" formatted="true">„Xenia Files“ programėlėje nepavyko rasti %1$s paskyros</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Norėdami tęsti, pirmiausia įdiekite programėlę „Xenia Files“ į savo įrenginį.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Reikalinga „Xenia Files“</string>
+    <string name="nextcloud_files_app_not_installed_message">Ši programėlė veikia tik kartu su programėle „Xenia Files“. Norėdami naudotis šia programėle, ją įdiekite.</string>
+    <string name="nextcloud_files_app_not_installed_title">„Xenia Files“ neįdiegti</string>
+    <string name="nextcloud_files_app_not_supported_message">Jūsų „Xenia Files“ programėlė yra senesnė versija, kuri dar nepalaiko vienkartinio prisijungimo funkcijos.</string>
+    <string name="nextcloud_files_app_not_supported_title">Atnaujinti programėlę „Xenia Files“</string>
     <string name="notification_channel_name">„XeniaCloud“ prisijungimas</string>
 </resources>

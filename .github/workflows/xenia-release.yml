@@ -60,9 +60,9 @@ jobs:
         env:
           TAG: ${{ github.ref_name }}
         run: |
-          version_name=$(sed -n 's/^ *versionName "\(.*\)"$/\1/p' app/build.gradle | head -1)
+          version_name=$(sed -n 's/^ *versionName = "\(.*\)"$/\1/p' app/build.gradle.kts | head -1)
           if [ "$version_name" != "$TAG" ]; then
-            echo "::error::Tag $TAG does not match versionName $version_name in app/build.gradle"
+            echo "::error::Tag $TAG does not match versionName $version_name in app/build.gradle.kts"
             exit 1
           fi
 

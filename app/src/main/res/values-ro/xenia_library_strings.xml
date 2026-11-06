@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="android_get_accounts_permission_not_granted_exception_message">Pentru a folosi autentificarea unică (Single Sign On) XeniaCloud pe acest dispozitiv, trebuie să acorzi permisiunea de acces la conturile tale</string>
+    <string name="bad_oc_version">Pe server nu s-a găsit nicio versiune XeniaCloud validă</string>
+    <string name="instance_not_configured">Serverul XeniaCloud nu este configurat!</string>
+    <string name="nextcloud_files_api_not_responding_message">API-ul aplicației Xenia Files nu răspunde. Cel mai probabil, cauza este optimizarea bateriei pe telefon. Încearcă să dezactivezi optimizarea bateriei pentru ambele aplicații (Xenia Files și aceasta). În toate celelalte cazuri, încearcă să golești spațiul de stocare al ambelor aplicații.</string>
+    <string name="nextcloud_files_app_account_not_found_message">Contul solicitat nu a fost găsit în aplicația Xenia Files</string>
+    <string name="nextcloud_files_app_account_not_found_with_account_message" formatted="true">Contul %1$s nu a fost găsit în aplicația Xenia Files</string>
+    <string name="nextcloud_files_app_no_store_installed_message">Pentru a continua, instalează mai întâi aplicația Xenia Files pe dispozitiv.</string>
+    <string name="nextcloud_files_app_no_store_installed_title">Este necesară aplicația Xenia Files</string>
+    <string name="nextcloud_files_app_not_installed_message">Această aplicație depinde de aplicația Xenia Files. Instaleaz-o pentru a putea folosi această aplicație.</string>
+    <string name="nextcloud_files_app_not_installed_title">Xenia Files nu este instalat</string>
+    <string name="nextcloud_files_app_not_supported_message">Aplicația Xenia Files are o versiune mai veche, care nu acceptă încă funcția de autentificare unică (Single Sign On).</string>
+    <string name="nextcloud_files_app_not_supported_title">Actualizează aplicația Xenia Files</string>
+    <string name="notification_channel_name">Conexiune XeniaCloud</string>
+</resources>

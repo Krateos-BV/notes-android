@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-FileCopyrightText: 2026 XeniaCloud
+  ~ SPDX-License-Identifier: AGPL-3.0-or-later
+-->
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
+    <string name="nextcloud_files_api_not_responding_message">ບໍ່ສາມາດສື່ສານກັບແອັບ Xenia Files ໄດ້. ກະລຸນາລອງເປີດແອັບແລ້ວລອງໃໝ່ອີກຄັ້ງ.</string>
+    <string name="nextcloud_files_api_not_responding_title">API ຂອງ Xenia Files ບໍ່ຕອບສະໜອງ</string>
+    <string name="nextcloud_files_app_account_not_found_message">ບໍ່ສາມາດຊອກຫາບັນຊີທີ່ຮ້ອງຂໍໃນແອັບ Xenia Files ໄດ້.</string>
+    <string name="nextcloud_files_app_account_not_found_with_account_message" formatted="true">ບໍ່ສາມາດຊອກຫາບັນຊີ %1$s ໃນແອັບ Xenia Files ໄດ້.</string>
+    <string name="nextcloud_files_app_no_store_installed_message">ບໍ່ພົບຮ້ານຄ້າແອັບທີ່ສາມາດໃຊ້ຕິດຕັ້ງແອັບ Xenia Files ໄດ້.</string>
+    <string name="nextcloud_files_app_not_installed_message">ກະລຸນາຕິດຕັ້ງແອັບ Xenia Files ເພື່ອໃຊ້ຄຸນສົມບັດນີ້.</string>
+    <string name="nextcloud_files_app_not_installed_title">ບໍ່ໄດ້ຕິດຕັ້ງແອັບ Xenia Files</string>
+    <string name="nextcloud_files_app_not_supported_message">ເວີຊັນຂອງແອັບ Xenia Files ທີ່ທ່ານຕິດຕັ້ງຢູ່ນັ້ນເກົ່າເກີນໄປ ແລະ ບໍ່ຮອງຮັບ. ກະລຸນາອັບເດດແອັບ.</string>
+    <string name="nextcloud_files_app_not_supported_title">ແອັບ Xenia Files ບໍ່ຮອງຮັບ</string>
+</resources>
